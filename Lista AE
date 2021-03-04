@@ -1,25 +1,16 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO FHD H265
-http://lista.lorddark.club:80/5247/5247/48575
-
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ  FHD
 http://lista.lorddark.club/5247/5247/19425
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ HD
 http://lista.lorddark.club:80/5247/5247/19424
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
-http://lista.lorddark.club/5247/5247/743
-
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP FHD
 http://lista.lorddark.club/5247/5247/19430
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP HD
 http://lista.lorddark.club:80/5247/5247/19429
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
-http://lista.lorddark.club/5247/5247/745
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB FHD
 http://lista.lorddark.club/5247/5247/186092
@@ -39,32 +30,32 @@ http://lista.lorddark.club/5247/5247/19066
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE HD
 http://lista.lorddark.club/5247/5247/19417
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND FHD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND SP FHD
 http://lista.lorddark.club/5247/5247/19092
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND SP HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND SP HD
 http://lista.lorddark.club:80/5247/5247/732
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND RJ HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND RJ HD
 http://lista.lorddark.club/5247/5247/729
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND RBA TV HD
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD FHD H265
-http://lista.lorddark.club:80/5247/5247/48482
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV FHD 
-http://lista.lorddark.club/5247/5247/186032
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV FHD
+http://lista.lorddark.club/5247/5247/19091
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV HD
 http://lista.lorddark.club:80/5247/5247/1135
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD RJ HD
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV HD 2
 http://lista.lorddark.club/5247/5247/19381
 
-#EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV FHD H265
-http://lista.lorddark.club:80/5247/5247/48481
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV RJ HD
+http://lista.lorddark.club/5247/5247/758
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV MG HD
+http://lista.lorddark.club/5247/5247/767
+
+#EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV FHD
+http://lista.lorddark.club/5247/5247/1034
 
 #EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV HD
 http://lista.lorddark.club:80/5247/5247/1034 
@@ -72,20 +63,26 @@ http://lista.lorddark.club:80/5247/5247/1034
 #EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", TV ARAPUAN HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT FHD H265
-http://lista.lorddark.club:80/5247/5247/48462
-
-#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT FHD
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT FHD
 http://lista.lorddark.club:80/5247/5247/19113
 
-#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT HD
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT HD
 http://lista.lorddark.club:80/5247/5247/1137 
 
-#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT RJ HD
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT RJ HD
 http://lista.lorddark.club/5247/5247/760
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MAMGt7I.png", TV GAZETA FHD
+http://lista.lorddark.club:80/5247/5247/19090
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png", BAND NEWS FHD
+http://lista.lorddark.club/5247/5247/967
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png", BAND NEWS HD
 http://lista.lorddark.club/5247/5247/19160
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png", GLOBO NEWS FHD
+http://lista.lorddark.club/5247/5247/1000
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png", GLOBO NEWS HD
 http://lista.lorddark.club/5247/5247/19233
@@ -93,47 +90,11 @@ http://lista.lorddark.club/5247/5247/19233
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png", RECORD NEWS HD
 http://lista.lorddark.club/5247/5247/19308
 
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL FHD
+http://lista.lorddark.club/5247/5247/27002
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL HD
 http://lista.lorddark.club/5247/5247/27004
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| MOSAICO
-http://lista.lorddark.club/5247/5247/203818
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| MOSAICO+
-http://lista.lorddark.club/5247/5247/203817
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| PRINCIPAL
-http://lista.lorddark.club/5247/5247/203816
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| SECND
-http://lista.lorddark.club/5247/5247/203815
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| CONFESSIONÁRIO
-http://lista.lorddark.club/5247/5247/203814
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| QUARTO CORDEL
-http://lista.lorddark.club/5247/5247/203813
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| QUARTO COLORIDO
-http://lista.lorddark.club/5247/5247/203812
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| CHUVEIRO
-http://lista.lorddark.club/5247/5247/203811
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| COZINHA VIP
-http://lista.lorddark.club/5247/5247/201343
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| SALA
-http://lista.lorddark.club/5247/5247/201344
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| PISCINA
-http://lista.lorddark.club/5247/5247/201342
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| JARDIM
-http://lista.lorddark.club/5247/5247/201341
-
-#EXTINF: -1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png", BBB CAM| ACADEMIA
-http://lista.lorddark.club/5247/5247/201345
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS FHD
 http://lista.lorddark.club:80/5247/5247/968 
@@ -162,13 +123,10 @@ http://lista.lorddark.club/5247/5247/1102
 #EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png", ESPORTE INTERATIVO SD
 http://lista.lorddark.club/5247/5247/19565
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN EXTRA FHD H265
-http://lista.lorddark.club:80/5247/5247/48527
-
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN FHD
+#EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-820x305.png", ESPN FHD
 http://lista.lorddark.club:80/5247/5247/19098
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN HD
+#EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-820x305.png", ESPN HD
 http://lista.lorddark.club:80/5247/5247/19211
 
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN 2 FHD
@@ -177,19 +135,19 @@ http://lista.lorddark.club:80/5247/5247/18996
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN 2 HD
 http://lista.lorddark.club:80/5247/5247/19206
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN BRASIL FHD
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnbrasilb.png", ESPN BRASIL FHD
 http://lista.lorddark.club:80/5247/5247/19097
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN BRASIL HD
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnbrasilb.png", ESPN BRASIL HD
 http://lista.lorddark.club:80/5247/5247/19208
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN EXTRA FHD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401", ESPN EXTRA FHD
 http://lista.lorddark.club:80/5247/5247/18997
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN EXTRA HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401", ESPN EXTRA HD
 http://lista.lorddark.club:80/5247/5247/19210
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN WATCH
+#EXTINF: -1 tvg-logo="https://e7.pngegg.com/pngimages/698/288/png-clipart-watchespn-tv-everywhere-android-espn3-espn-inc-android-television-text.png", ESPN WATCH HD
 http://lista.lorddark.club/5247/5247/19579
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png", FOX SPORTS FHD
@@ -204,70 +162,46 @@ http://lista.lorddark.club:80/5247/5247/19100
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png", FOX SPORTS 2 HD
 http://lista.lorddark.club:80/5247/5247/19227
 
-#EXTINF: -1 tvg-logo="https://media.glassdoor.com/sqll/2493007/fish-tv-squarelogo-1554962085151.png", FISH TV FHD H265
-http://lista.lorddark.club:80/5247/5247/48523
-
-#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV FHD
+#EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV FHD
 http://lista.lorddark.club:80/5247/5247/19116
 
-#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV HD 
+#EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV HD 
 http://lista.lorddark.club:80/5247/5247/19327
 
-#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 2 FHD
+#EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV 2 FHD
 http://lista.lorddark.club:80/5247/5247/19114
 
-#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 2 HD
+#EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV 2 HD
 http://lista.lorddark.club:80/5247/5247/19324
 
-#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 3 FHD 
+#EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV 3 FHD 
 http://lista.lorddark.club:80/5247/5247/19115
 
-#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 3 HD
+#EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV 3 HD
 http://lista.lorddark.club:80/5247/5247/19326
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE CLUBES FHD H265
-http://lista.lorddark.club:80/5247/5247/48489
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE CLUBES FHD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE CLUBES FHD
 http://lista.lorddark.club:80/5247/5247/19112
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE CLUBES HD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE CLUBES HD
 http://lista.lorddark.club:80/5247/5247/19302
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 2 FHD H265
-http://lista.lorddark.club:80/5247/5247/48488
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 2 HD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 2 HD
 http://lista.lorddark.club:80/5247/5247/19290
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 3 FHD H265
-http://lista.lorddark.club:80/5247/5247/48487
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 3 HD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 3 HD
 http://lista.lorddark.club:80/5247/5247/19292
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 4 FHD H265
-http://lista.lorddark.club:80/5247/5247/48486
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 4 HD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 4 HD
 http://lista.lorddark.club:80/5247/5247/19294
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 5 FHD H265
-http://lista.lorddark.club:80/5247/5247/48485
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 5 HD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 5 HD
 http://lista.lorddark.club:80/5247/5247/19296
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 6 FHD H265
-http://lista.lorddark.club:80/5247/5247/48484
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 6 HD 
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 6 HD 
 http://lista.lorddark.club:80/5247/5247/19110
 
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 7 FHD H265
-http://lista.lorddark.club:80/5247/5247/48483
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 7 HD
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 7 HD
 http://lista.lorddark.club:80/5247/5247/19300
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN HD
@@ -318,8 +252,8 @@ http://lista.lorddark.club/5247/5247/201449
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 HD
 http://lista.lorddark.club/5247/5247/201440
 
-#EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png", A&E FHD H265
-http://lista.lorddark.club:80/5247/5247/48558
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV FHD
+http://lista.lorddark.club/5247/5247/992
 
 #EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png", A&E FHD
 http://lista.lorddark.club:80/5247/5247/18975
@@ -327,14 +261,8 @@ http://lista.lorddark.club:80/5247/5247/18975
 #EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png", A&E HD
 http://lista.lorddark.club:80/5247/5247/19147
 
-#EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383", AMC FHD H265
-http://lista.lorddark.club:80/5247/5247/48564
-
 #EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383", AMC HD
 http://lista.lorddark.club:80/5247/5247/19149
-
-#EXTINF: -1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png", AXN FHD H265
-http://lista.lorddark.club:80/5247/5247/48549
 
 #EXTINF: -1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png", AXN HD
 http://lista.lorddark.club:80/5247/5247/19155
@@ -342,26 +270,17 @@ http://lista.lorddark.club:80/5247/5247/19155
 #EXTINF: -1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png", AXN HD (leg)
 http://lista.lorddark.club/5247/5247/19511
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", CANAL SONY FHD H265
-http://lista.lorddark.club:80/5247/5247/48543
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", CANAL SONY HD
 http://lista.lorddark.club:80/5247/5247/19170
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX FHD H265
-http://lista.lorddark.club:80/5247/5247/48621
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX HD
 http://lista.lorddark.club:80/5247/5247/19175
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento", COMEDY CENTRAL FHD H265
-http://lista.lorddark.club:80/5247/5247/48539
+#EXTINF: -1 tvg-logo="https://images.uncyc.org/pt/6/61/Zirploid_comedy.jpg", COMEDY CENTRAL FHD
+http://lista.lorddark.club/5247/5247/976
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento", COMEDY CENTRAL HD
+#EXTINF: -1 tvg-logo="https://images.uncyc.org/pt/6/61/Zirploid_comedy.jpg", COMEDY CENTRAL HD
 http://lista.lorddark.club:80/5247/5247/19179
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX FHD H265
-http://lista.lorddark.club:80/5247/5247/48521
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX FHD
 http://lista.lorddark.club:80/5247/5247/19099
@@ -375,17 +294,11 @@ http://lista.lorddark.club/5247/5247/19513
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-NCtbqB3QSwY/VxvdB1ZK9mI/AAAAAAAAqv0/Wr2ZqWP-m8oXkc2bNpuDevhXpsHP7kdHQCLcB/s1600/LOGO-FOX-Life.jpg", FOX LIFE HD
 http://lista.lorddark.club:80/5247/5247/19219
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png", FOX PREMIUM 1 FHD H265
-http://lista.lorddark.club:80/5247/5247/48520
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png", FOX PREMIUM 1 HD
 http://lista.lorddark.club:80/5247/5247/19001
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png", FOX PREMIUM [alter]
 http://lista.lorddark.club/5247/5247/1105
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png", FOX PREMIUM 2 FHD H265
-http://lista.lorddark.club:80/5247/5247/48519
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png", FOX PREMIUM 2 HD
 http://lista.lorddark.club:80/5247/5247/19002
@@ -393,60 +306,32 @@ http://lista.lorddark.club:80/5247/5247/19002
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png", FOX PREMIUM 2 [alter]
 http://lista.lorddark.club/5247/5247/1106
 
-#EXTINF: -1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg", FX FHD H265 
-http://lista.lorddark.club:80/5247/5247/48516
-
 #EXTINF: -1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg", FX HD
 http://lista.lorddark.club:80/5247/5247/19231
 
 #EXTINF: -1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg", FX HD (leg)
 http://lista.lorddark.club/5247/5247/19533
 
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png", MEGAPIX FHD H265
-http://lista.lorddark.club:80/5247/5247/48499
-
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png", MEGAPIX HD
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iR8W5hDvYCAQOCTl_ZtKGyoWIBideTwHOg&usqp=CAU", MEGAPIX HD
 http://lista.lorddark.club:80/5247/5247/19267
 
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png", MEGAPIX HD (leg)
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iR8W5hDvYCAQOCTl_ZtKGyoWIBideTwHOg&usqp=CAU", MEGAPIX HD (leg)
 http://lista.lorddark.club/5247/5247/19537
-
-#EXTINF: -1 tvg-logo="https://res.cloudinary.com/walljobs/image/upload/v1533913915/mramefzfwzxtasquslgw.png", PARAMOUNT CHANNEL FHD H265
-http://lista.lorddark.club:80/5247/5247/48490
 
 #EXTINF: -1 tvg-logo="https://res.cloudinary.com/walljobs/image/upload/v1533913915/mramefzfwzxtasquslgw.png", PARAMOUNT HD
 http://lista.lorddark.club:80/5247/5247/19288
 
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg", SPACE FHD H265
-http://lista.lorddark.club:80/5247/5247/48480
-
 #EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg", SPACE HD
 http://lista.lorddark.club:80/5247/5247/19321
 
-
-#EXTINF: -1 tvg-logo="data:image/png;base64,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", STUDIO UNIVERSAL FHD H265
-http://lista.lorddark.club:80/5247/5247/48476
-
-#EXTINF: -1 tvg-logo="data:image/png;base64,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", STUDIO UNIVERSAL HD
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/183/651/png-transparent-universal-channel-television-channel-studio-universal-pay-television-space-television-text-trademark.png", STUDIO UNIVERSAL HD
 http://lista.lorddark.club/5247/5247/19329
-
-#EXTINF: -1 "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL HD (leg)
-http://lista.lorddark.club/5247/5247/19545
-
-#EXTINF: -1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg", SYFY FHD H265
-http://lista.lorddark.club:80/5247/5247/48475
 
 #EXTINF: -1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg", SYFY HD
 http://lista.lorddark.club/5247/5247/19319
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png", TBS FHD H265
-http://lista.lorddark.club:80/5247/5247/48474
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png", TBS HD
 http://lista.lorddark.club/5247/5247/19331
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT FHD H265
-http://lista.lorddark.club:80/5247/5247/48466
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT HD
 http://lista.lorddark.club/5247/5247/19349
@@ -454,23 +339,14 @@ http://lista.lorddark.club/5247/5247/19349
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT HD (leg)
 http://lista.lorddark.club/5247/5247/19531
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT SERIES FHD H265
-http://lista.lorddark.club:80/5247/5247/48465
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT SERIES HD
 http://lista.lorddark.club/5247/5247/19351
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT SERIES HD (leg)
 http://lista.lorddark.club/5247/5247/19541
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png", UNIVERSAL TV FHD H265
-http://lista.lorddark.club:80/5247/5247/48461
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png", UNIVERSAL TV HD
 http://lista.lorddark.club/5247/5247/19365
-
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBgCLcBGAsYHQ/s640/Warner.jpg", WARNER CHANNEL FHD H265
-http://lista.lorddark.club:80/5247/5247/48459
 
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBgCLcBGAsYHQ/s640/Warner.jpg", WARNER CHANNEL HD
 http://lista.lorddark.club/5247/5247/19372
@@ -487,7 +363,7 @@ http://lista.lorddark.club/5247/5247/19521
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-Pqh6urVKRR0/UzdjvfnfDBI/AAAAAAAAh4Q/xqCFFP7Hb_k/s1600/CULT_preto_gato.png", TELECINE CULT HD
 http://lista.lorddark.club/5247/5247/19336
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png", TELECINE FUN HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/fa/90/df/fa90dffbbadbff35cc27f755f5efa476.png", TELECINE FUN HD
 http://lista.lorddark.club/5247/5247/19338
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg", TELECINE PIPOCA HD
@@ -502,10 +378,10 @@ http://lista.lorddark.club/5247/5247/19342
 #EXTINF: -1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png", TELECINE PREMIUM HD (leg)
 http://lista.lorddark.club/5247/5247/19527
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png", TELECINE TOUCH HD 
+#EXTINF: -1 tvg-logo="https://www.canaison.com/canais/telecine-touch.jpg", TELECINE TOUCH HD 
 http://lista.lorddark.club/5247/5247/19344
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png", TELECINE TOUCH HD (leg)
+#EXTINF: -1 tvg-logo="https://www.canaison.com/canais/telecine-touch.jpg", TELECINE TOUCH HD (leg)
 http://lista.lorddark.club/5247/5247/19529
 
 #EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png", HBO HD
@@ -517,44 +393,26 @@ http://lista.lorddark.club/5247/5247/19515
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png", HBO 2 HD
 http://lista.lorddark.club/5247/5247/19244
 
-#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg", HBO PLUS FHD H265
-http://lista.lorddark.club:80/5247/5247/48510
-
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg", HBO PLUS HD
 http://lista.lorddark.club/5247/5247/19249
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg", HBO PLUS HD (leg)
 http://lista.lorddark.club/5247/5247/19517
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY FHD H265
-http://lista.lorddark.club:80/5247/5247/48512
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY HD
 http://lista.lorddark.club/5247/5247/19246
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO SIGNATURE FHD H265
-http://lista.lorddark.club:80/5247/5247/48509
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO SIGNATURE HD
 http://lista.lorddark.club/5247/5247/19251
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI FHD H265
-http://lista.lorddark.club:80/5247/5247/48502
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI HD
 http://lista.lorddark.club/5247/5247/19261
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg", HBO POP FHD H265
-http://lista.lorddark.club:80/5247/5247/48500
 
 #EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg", HBO POP HD	
 http://lista.lorddark.club/5247/5247/19265
 
 #EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg", HBO POP HD (leg)
 http://lista.lorddark.club/5247/5247/19535
-
-#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg", HBO EXTREME FHD H265
-http://lista.lorddark.club:80/5247/5247/48501
 
 #EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg", HBO XTREME HD
 http://lista.lorddark.club/5247/5247/19263
@@ -589,32 +447,17 @@ http://lista.lorddark.club/5247/5247/44922
 #EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 10 HD
 http://lista.lorddark.club/5247/5247/44923
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG FHD H265
-http://lista.lorddark.club:80/5247/5247/48545
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG HD
 http://lista.lorddark.club/5247/5247/19166
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png", CARTOON NETWORK FHD H265
-http://lista.lorddark.club:80/5247/5247/48542
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png", CARTOON NETWORK HD
 http://lista.lorddark.club/5247/5247/19173
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS FHD H265
-http://lista.lorddark.club:80/5247/5247/48535
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD
 http://lista.lorddark.club/5247/5247/19189
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png", DISNEY CHANNEL FHD H265
-http://lista.lorddark.club:80/5247/5247/48530
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png", DISNEY CHANNEL HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png", DISNEY CHANNEL HD
 http://lista.lorddark.club/5247/5247/19199
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HNCqSdX.png", DISNEY JR FHD H265
-http://lista.lorddark.club:80/5247/5247/48529
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HNCqSdX.png", DISNEY JR HD
 http://lista.lorddark.club/5247/5247/19375
@@ -622,29 +465,17 @@ http://lista.lorddark.club/5247/5247/19375
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD HD
 http://lista.lorddark.club/5247/5247/1099
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", GLOOB FHD H265
-http://lista.lorddark.club:80/5247/5247/48514
-
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", GLOOB HD
 http://lista.lorddark.club/5247/5247/19235
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", GLOBBINHO HD
 http://lista.lorddark.club/5247/5247/19236
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png", NATGEO KIDS FHD H265
-http://lista.lorddark.club:80/5247/5247/48494
-
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png", NAT GEO KIDS HD
 http://lista.lorddark.club/5247/5247/19277
 
-#EXTINF: -1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5699/full-664x664/56701c4c/664px-Nickelodeon_logo.png?resolution=0", NICKELODEON FHD H265
-http://lista.lorddark.club:80/5247/5247/48493
-
 #EXTINF: -1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5699/full-664x664/56701c4c/664px-Nickelodeon_logo.png?resolution=0", NICKELODEON HD
 http://lista.lorddark.club/5247/5247/19284
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d67ac7b06de63d793bf1.png", NICK JR FHD H265
-http://lista.lorddark.club:80/5247/5247/48492
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d67ac7b06de63d793bf1.png", NICK JR HD
 http://lista.lorddark.club/5247/5247/19282
@@ -652,77 +483,83 @@ http://lista.lorddark.club/5247/5247/19282
 #EXTINF: -1 tvg-logo="https://th.bing.com/th/id/Ref38e2ab35b9158a1dc3846ef1235ba1?rik=Ufbo75%2finetKYA&riu=http%3a%2f%2fwww.digitaltvnews.net%2fwp-content%2fuploads%2f2016%2f03%2fplaykids.png&ehk=60B3NpIjbeh7Iluv%2biCevSa2RfKX2b0n8yLQRMYDHVo%3d&risl=&pid=ImgRaw", PLAYKIDS  HD
 http://lista.lorddark.club/5247/5247/19385
 
+#EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03549e27277257.5584ec82d8cba.png", ZOOMOO
+http://lista.lorddark.club/5247/5247/19400
+
 #EXTINF: -1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/6a/Logo_ratimbum.jpg/revision/latest?cb=20160511061156", TV RÁ-TIM-BUM HD
 http://lista.lorddark.club/5247/5247/19361
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET FHD H265
-http://lista.lorddark.club:80/5247/5247/48550
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET HD
 http://lista.lorddark.club/5247/5247/19151
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png", DISCOVERY CHANNEL FHD 265
-http://lista.lorddark.club:80/5247/5247/48538
+#EXTINF: -1 tvg-logo="https://media.gazetadopovo.com.br/2017/11/df2fac8d93b3df97ea22a8f03dd607ea-gpLarge.png", DOG TV
+http://lista.lorddark.club/5247/5247/48557
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png", DISCOVERY CHANNEL HD
+#EXTINF: -1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png", LOVE NATURE FHD
+http://lista.lorddark.club/5247/5247/44913
+
+#EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0003/1438/brand.gif?itok=ffxegvcc", SMITHSONIAN FHD
+http://lista.lorddark.club/5247/5247/19054
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH+1 FHD
+http://lista.lorddark.club/5247/5247/19042
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
+http://lista.lorddark.club/5247/5247/19367
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg", DISCOVERY CHANNEL FHD 265
+http://lista.lorddark.club/5247/5247/977
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg", DISCOVERY CHANNEL FHD
+http://lista.lorddark.club/5247/5247/19095
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg", DISCOVERY CHANNEL HD
 http://lista.lorddark.club/5247/5247/19183
 
-#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg", DISCOVERY SCIENCE FHD H265
-http://lista.lorddark.club:80/5247/5247/48534
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg", DISCOVERY SCIENCE FHD
+http://lista.lorddark.club/5247/5247/18991
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg", DISCOVERY SCIENCE HD
 http://lista.lorddark.club/5247/5247/19191
 
-#EXTINF: -1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg", DISCOVERY THEATER FHD H265
-http://lista.lorddark.club:80/5247/5247/48533
+#EXTINF: -1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg", DISCOVERY THEATER FHD
+http://lista.lorddark.club/5247/5247/982
 
-#EXTINF: -1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg", DISCOVERY THEATER 
+#EXTINF: -1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg", DISCOVERY THEATER HD
 http://lista.lorddark.club/5247/5247/19193
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO FHD H265
-http://lista.lorddark.club:80/5247/5247/48532
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO FHD
+http://lista.lorddark.club/5247/5247/983
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO HD
 http://lista.lorddark.club/5247/5247/19195
 
-#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png", DISCOVERY WORLD FHD H256
-http://lista.lorddark.club:80/5247/5247/48531
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png", DISCOVERY WORLD FHD 265
+http://lista.lorddark.club/5247/5247/984
 
-#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png", DISCOVERY WORLD
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png", DISCOVERY WORLD HD
 http://lista.lorddark.club/5247/5247/19197
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png", DISCOVERY H&H FHD H265
-http://lista.lorddark.club:80/5247/5247/48536
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png", DISCOVERY H&H FHD 265
+http://lista.lorddark.club/5247/5247/979
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png", DISCOVERY H&H FHD
+http://lista.lorddark.club/5247/5247/18989
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png", DISCOVERY H&H HD
 http://lista.lorddark.club/5247/5247/19187
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png", ID- INVESTIGAÇÃO DISCOVERY FHD H265
-http://lista.lorddark.club:80/5247/5247/48505
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png", ID- INVESTIGATION DISCOVERY HD
 http://lista.lorddark.club/5247/5247/19255
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg", HISTORY FHD H265
-http://lista.lorddark.club:80/5247/5247/48507
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg", HISTORY CHANNEL HD
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png", HISTORY CHANNEL HD
 http://lista.lorddark.club/5247/5247/19253
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", H2 FHD H265
-http://lista.lorddark.club:80/5247/5247/48506
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", H2 HD
 http://lista.lorddark.club/5247/5247/19241
 
-#EXTINF: -1 tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1", NATIONAL GEOGRAPHIC FHD H265
-http://lista.lorddark.club:80/5247/5247/48496
-
 #EXTINF: -1 tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1", NATIONAL GEOGRAPHIC
 http://lista.lorddark.club/5247/5247/19275
-
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg", NATGEO WILD FHD HD265
-http://lista.lorddark.club:80/5247/5247/48495
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg", NATGEO WILD HD
 http://lista.lorddark.club/5247/5247/19278
@@ -730,59 +567,29 @@ http://lista.lorddark.club/5247/5247/19278
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png", ARTE 1 HD
 http://lista.lorddark.club/5247/5247/19153
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png", CANAL BRASIL FHD H265
-http://lista.lorddark.club:80/5247/5247/48544
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png", CANAL BRASIL HD
-http://lista.lorddark.club/5247/5247/19168
-
 #EXTINF: -1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1", CURTA! HD
 http://lista.lorddark.club/5247/5247/19181
-
-#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg", E! FHD H265
-http://lista.lorddark.club:80/5247/5247/48528
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg", E! HD
 http://lista.lorddark.club/5247/5247/19203
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png", FOOD NETWORK FHD H265
-http://lista.lorddark.club:80/5247/5247/48522
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png", FOOD NETWORK HD
 http://lista.lorddark.club/5247/5247/19215
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT FHD H265
-http://lista.lorddark.club:80/5247/5247/48513
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT HD
 http://lista.lorddark.club/5247/5247/19239
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png", HGTV FHD H265
-http://lista.lorddark.club:80/5247/5247/48537
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png", HGTV HD
 http://lista.lorddark.club/5247/5247/19185
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png", LIFETIME FHD H265
-http://lista.lorddark.club:80/5247/5247/48504
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png", LIFETIME HD
 http://lista.lorddark.club/5247/5247/19257
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png", MAIS GLOBOSAT FHD H265
-http://lista.lorddark.club:80/5247/5247/48503
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png", MAIS GLOBOSAT
 http://lista.lorddark.club/5247/5247/19259
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", OFF FHD H265
-http://lista.lorddark.club:80/5247/5247/48491
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", OFF HD
 http://lista.lorddark.club/5247/5247/19286
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC FHD H265
-http://lista.lorddark.club:80/5247/5247/48467
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC HD
 http://lista.lorddark.club/5247/5247/19347
@@ -793,26 +600,14 @@ http://lista.lorddark.club/5247/5247/19363
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640", VIVA HD
 http://lista.lorddark.club/5247/5247/19370
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png", WOOHOO FHD H265
-http://lista.lorddark.club:80/5247/5247/48458
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png", WOOHOO HD
 http://lista.lorddark.club/5247/5247/19374
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png", BIS FHD H265
-http://lista.lorddark.club:80/5247/5247/48546
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png", BIS HD
 http://lista.lorddark.club/5247/5247/19164
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg", MTV FHD H265
-http://lista.lorddark.club:80/5247/5247/48498
-
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg", MTV HD 
 http://lista.lorddark.club/5247/5247/19269
-
-#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/multishow-logo.png", MULTISHOW FHD H265
-http://lista.lorddark.club:80/5247/5247/48498
 
 #EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/multishow-logo.png", MULTISHOW HD
 http://lista.lorddark.club/5247/5247/19271
@@ -823,191 +618,109 @@ http://lista.lorddark.club/5247/5247/19273
 #EXTINF: -1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png", PRIME BOX BRASIL HD
 http://lista.lorddark.club/5247/5247/19304
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
-http://lista.lorddark.club/5247/5247/19367
-
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png", CANÇÃO NOVA HD
 http://lista.lorddark.club/5247/5247/19171
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA HD
 http://lista.lorddark.club/5247/5247/19380
 
+#EXTINF: -1 tvg-logo="https://i2.wp.com/vagasabertas.org/wp-content/uploads/2012/03/polishop1.jpg?fit=500%2C282&ssl=1", POLISHOP
+http://lista.lorddark.club/5247/5247/558
+
 #EXTINF: -1 tvg-logo="https://th.bing.com/th/id/OIP.41o5rlbr0ILkOUPmY0GVMQAAAA?pid=ImgDet&rs=1", TV RBC
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
 
-#EXTINF: -1 tvg-logo="https://th.bing.com/th/id/R6efc87219bf6792daff63c124818ba6f?rik=Y23ktk3t7jRf3A&riu=http%3a%2f%2fcherto.com.br%2fwp-content%2fuploads%2f2016%2f11%2flogo-futura.png&ehk=PnN7ym71XcXS%2bn%2fN0p%2be%2b3Q6UiCbbLL9mj9lkoA6D0c%3d&risl=&pid=ImgRaw", FUTURA HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Futura_logo_2007sec_2011main.png/revision/latest/scale-to-width-down/340?cb=20200229231754", FUTURA HD
 http://lista.lorddark.club:80/5247/5247/1107
 
-#EXTINF: -1 tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png", TV BRASIL FHD
-http://lista.lorddark.club:80/5247/5247/19356 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png", TV CULTURA FHD
-http://lista.lorddark.club:80/5247/5247/19049 
+http://lista.lorddark.club:80/5247/5247/19049
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MAMGt7I.png", TV GAZETA FHD
-http://lista.lorddark.club:80/5247/5247/19090
+#EXTINF: -1 tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png", TV BRASIL FHD
+http://lista.lorddark.club:80/5247/5247/19356  
 
 #EXTINF: -1 tvg-logo="https://th.bing.com/th/id/OIP.tRyx75CFSZkhnxewxYMIMwHaHa?pid=ImgDet&rs=1", TV ESCOLA 
 http://lista.lorddark.club/5247/5247/19358
 
-#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-rural-logo.png", CANAL RURAL
-http://lista.lorddark.club/5247/5247/19573
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png", CNT SP
 http://lista.lorddark.club/5247/5247/1093
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CANAL DO BOI
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-do-boi-logo-3819ABC39D-seeklogo.com.png", CANAL DO BOI
 http://lista.lorddark.club/5247/5247/19398
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" tvg-url="" group-title="",98 Live (Belo Horizonte) (720p)
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" tvg-url="" group-title="Hobby",AgroBrasil TV (486p)
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-url="" group-title="Sport",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png" tvg-url="" group-title="Local",Canal 25 Jundiaí
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" tvg-url="" group-title="Hobby",Canal do Boi
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-url="" group-title="General",Canal Ricos (1080p)
-https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" tvg-url="" group-title="Religious",Canção Nova (360p)
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" tvg-url="" group-title="News",CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" tvg-url="" group-title="News",CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c8ztQnF.png" tvg-url="" group-title="General",COM Brasil (720p)
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4lnSlOZ.png" tvg-url="" group-title="Religious",Fonte TV (1080p)
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/D15qpCm.png" tvg-url="" group-title="Religious",IMPD TV (1080p)
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" tvg-url="" group-title="Local",ITV (720p)
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" tvg-url="" group-title="News",Metrópole News TV (480p)
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" tvg-url="" group-title="General",MKK Web TV (360p)
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Entertainment",MTV (Latin America) (480p)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" tvg-url="" group-title="Local",Nova Era TV (1080p)
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-url="" group-title="Religious",Novo Tempo (480p)
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-url="" group-title="Religious",Novo Tempo (480p)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TnSvJpd.png" tvg-url="" group-title="Education",Portal Cultura Pará (360p)
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.puctvgoias.com.br/img/logo.png" tvg-url="" group-title="Religious",PUC TV Goiás (180p)
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" tvg-url="" group-title="General",Rede Brasil (720p)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" tvg-url="" group-title="Religious",Rede Brasil de Comunicação (540p)
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" tvg-url="" group-title="Sport",Rede Globo
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cqD6DNY.png" tvg-url="" group-title="Religious",Rede Mão Amiga (720p)
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="Local",Rede RC (360p)
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3ODbxcM.png" tvg-url="" group-title="Religious",Rede Super (432p)
-https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" tvg-url="" group-title="Religious",Rede Século 21 (240p)
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" tvg-url="" group-title="Religious",Rede Vida (720p)
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-url="" group-title="Education",Santa Cecilia TV (288p)
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" tvg-url="" group-title="Local",Summer TV (720p)
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" tvg-url="" group-title="Hobby",Terra Viva (720p)
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" tvg-url="" group-title="Legislative",TV ALMG
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" tvg-url="" group-title="Legislative",TV ALRN (480p)
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" tvg-url="" group-title="Local",TV Ambiental (480p)
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" tvg-url="" group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" tvg-url="" group-title="Movies",TV BNO (270p)
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Local",TV Cidade Canal 9 (720p)
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Local",TV Cidade de Petrópolis (720p)
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bEoN2tt.png" tvg-url="" group-title="Movies",TV Cinec (720p)
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-url="" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-url="" group-title="Legislative",TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MnIvaNC.png" tvg-url="" group-title="Lifestyle",TV das Artes (720p)
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://pa.srvsite.com/arquivos/3807/cabecalho-3807-20180828105442.jpg" tvg-url="" group-title="General",TV Destak (360p)
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" tvg-url="" group-title="Local",TV Digital Birigui (320p)
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" tvg-url="" group-title="General",TV Diário do Sertão (720p)
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" tvg-url="" group-title="Education",TV Educativa de Porto Alegre (1080p)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" tvg-url="" group-title="Local",TV Galega Blumenau (720p)
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" tvg-url="" group-title="General",TV Gazeta (720p)
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg" tvg-url="" group-title="Religious",TV Imaculada Conceição (1080p)
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="Local",TV Interlagos (576p)
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" tvg-url="" group-title="Education",TV Mackenzie (480p)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" tvg-url="" group-title="Local",TV Metrópole (720p)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" tvg-url="" group-title="Religious",TV Pai Eterno
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" tvg-url="" group-title="Religious",TV Pai Eterno (480p)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" tvg-url="" group-title="Travel",TV Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NVs5RhF.png" tvg-url="" group-title="Religious",TV Rede Gospel (720p)
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="General",TV Sol (720p)
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" tvg-url="" group-title="Local",TV Sol Comunidade (480p)
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" tvg-url="" group-title="Religious",TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" tvg-url="" group-title="Education",TV UFG (720p)
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LuJkxc6.png" tvg-url="" group-title="Education",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YgLLCq6.png" tvg-url="" group-title="Education",TV UNISC
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TIsk5zN.png" tvg-url="" group-title="Religious",TV Universal
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/67DQ3bk.png" tvg-url="" group-title="General",TV União DF (720p)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png" tvg-url="" group-title="General",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img.imgur.com/pnbqx6r.png" tvg-url="" group-title="General",TV8 (1080p)
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" tvg-url="" group-title="General",TVCI Paranaguá (360p)
-http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" tvg-url="" group-title="Local",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cywnp02.png" tvg-url="" group-title="Local",TVN Brasil (720p)
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Education",UniTV Porto Alegre
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/msQ76Hk.jpg" tvg-url="" group-title="General",Viva Web TV (480p)
-https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="Local",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" tvg-url="" group-title="General",Yeeaah! (720p)
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Local",ZOOM (720p)
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-rural-logo.png", CANAL RURAL
+http://lista.lorddark.club/5247/5247/19573
+
+#EXTINF: -1 tvg-logo="https://www.acesp.tv.br/images/logos/tvguarulhos.jpg", TV GUARULHOS
+http://lista.lorddark.club/5247/5247/1151
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1255160284/Sem_t_tulo.jpg", BOA VONTADE TV
+http://lista.lorddark.club/5247/5247/19055
+
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redegospel.png", REDE GOSPEL FHD
+http://br4.2tv.me/silvio01/silvio01/12878
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png", CANAL BRASIL HD
+http://lista.lorddark.club/5247/5247/19168
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png", REDE BRASIL
+http://lista.lorddark.club/5247/5247/19311
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
+http://lista.lorddark.club/5247/5247/743
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [atras. 1 min]
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
+http://lista.lorddark.club/5247/5247/745
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO
+http://lista.lorddark.club/5247/5247/203818
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO+
+http://lista.lorddark.club/5247/5247/203817
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PRINCIPAL
+http://lista.lorddark.club/5247/5247/203816
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SECND
+http://lista.lorddark.club/5247/5247/203815
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CONFESSIONÁRIO
+http://lista.lorddark.club/5247/5247/203814
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO CORDEL
+http://lista.lorddark.club/5247/5247/203813
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO COLORIDO
+http://lista.lorddark.club/5247/5247/203812
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CHUVEIRO
+http://lista.lorddark.club/5247/5247/203811
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| COZINHA VIP
+http://lista.lorddark.club/5247/5247/201343
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SALA
+http://lista.lorddark.club/5247/5247/201344
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PISCINA
+http://lista.lorddark.club/5247/5247/201342
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| JARDIM
+http://lista.lorddark.club/5247/5247/201341
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
+http://lista.lorddark.club/5247/5247/201345
+
+#EXTINF: -1 tvg-logo="https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/historico/avisos-de-pauta-releases/tv-camara-estreia-canal-digital-em-brasilia/image_large", TV CÂMARA
+http://lista.lorddark.club/5247/5247/602
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tv-senado-logo-EAED558180-seeklogo.com.gif", TV SENADO
+http://lista.lorddark.club/5247/5247/608
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV JUSTIÇA
+http://lista.lorddark.club/5247/5247/605
 
 
