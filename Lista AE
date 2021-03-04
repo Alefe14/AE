@@ -699,7 +699,7 @@ http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png", Top TV PA
 http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/y-gNVevoIjOI33g7uuAxy5ueiZbhTSrePyS7Evssq5IwoGSrdvQ1seYngGnBUfE60-k",TV GIDEOES
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/y-gNVevoIjOI33g7uuAxy5ueiZbhTSrePyS7Evssq5IwoGSrdvQ1seYngGnBUfE60-k", TV GIDEOES
 https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1255160284/Sem_t_tulo.jpg", BOA VONTADE TV
