@@ -45,7 +45,7 @@ http://lista.lorddark.club/5247/5247/19091
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV HD
 http://lista.lorddark.club:80/5247/5247/1135
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV HD 2
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV 2 HD
 http://lista.lorddark.club/5247/5247/19381
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV RJ HD
@@ -53,6 +53,9 @@ http://lista.lorddark.club/5247/5247/758
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV MG HD
 http://lista.lorddark.club/5247/5247/767
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png", TV TROPICAL RN
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV FHD
 http://lista.lorddark.club/5247/5247/1034
@@ -483,7 +486,10 @@ http://lista.lorddark.club/5247/5247/19282
 #EXTINF: -1 tvg-logo="https://th.bing.com/th/id/Ref38e2ab35b9158a1dc3846ef1235ba1?rik=Ufbo75%2finetKYA&riu=http%3a%2f%2fwww.digitaltvnews.net%2fwp-content%2fuploads%2f2016%2f03%2fplaykids.png&ehk=60B3NpIjbeh7Iluv%2biCevSa2RfKX2b0n8yLQRMYDHVo%3d&risl=&pid=ImgRaw", PLAYKIDS  HD
 http://lista.lorddark.club/5247/5247/19385
 
-#EXTINF: -1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03549e27277257.5584ec82d8cba.png", ZOOMOO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCFVJCx.png", ZOOMOO HD
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="http://i.imgur.com/WCFVJCx.png", ZOOMOO
 http://lista.lorddark.club/5247/5247/19400
 
 #EXTINF: -1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/6a/Logo_ratimbum.jpg/revision/latest?cb=20160511061156", TV RÁ-TIM-BUM HD
@@ -500,6 +506,12 @@ http://lista.lorddark.club/5247/5247/44913
 
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0003/1438/brand.gif?itok=ffxegvcc", SMITHSONIAN FHD
 http://lista.lorddark.club/5247/5247/19054
+
+#EXTINF:-1 tvg-logo="https://www.pbs.org/wnet/nature/wp-content/themes/nature-2014/libs/images/nature-footer-copyright.png", ANIM NATURE HD
+http://200.194.238.236:5000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png", BLAZE HD
+http://161.230.9.12:8000/play/a00r
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH+1 FHD
 http://lista.lorddark.club/5247/5247/19042
@@ -642,6 +654,18 @@ http://lista.lorddark.club:80/5247/5247/19356
 #EXTINF: -1 tvg-logo="https://th.bing.com/th/id/OIP.tRyx75CFSZkhnxewxYMIMwHaHa?pid=ImgDet&rs=1", TV ESCOLA 
 http://lista.lorddark.club/5247/5247/19358
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png", MASTER TV EDUCAÇÃO
+http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5RipeSYEQ6aNesR23p9Qz-coBZE1UVaL1Q&usqp=CAU", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1620620002.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png", CANAL BRASIL HD
+http://lista.lorddark.club/5247/5247/19168
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png", REDE BRASIL
+http://lista.lorddark.club/5247/5247/19311
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png", CNT SP
 http://lista.lorddark.club/5247/5247/1093
 
@@ -651,8 +675,32 @@ http://lista.lorddark.club/5247/5247/19398
 #EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-rural-logo.png", CANAL RURAL
 http://lista.lorddark.club/5247/5247/19573
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_TV_UFG.jpg", TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8beb9f24c539ff0a79fdafc042ab1403.png",TV UNISUL
+https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
+
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/245d0e1a9266a0570fde3621c804a2d3.jpg",CANAL SAÚDE
+https://cutt.ly/vldK967
+
+#EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="https://pa-str.srvsite.com/arquivos/6134/cabecalho-6134-20201022120342.png",TV AMERICA MIX
+https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="encurtador.com.br/jqzKQ",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.acesp.tv.br/images/logos/tvguarulhos.jpg", TV GUARULHOS
 http://lista.lorddark.club/5247/5247/1151
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S58zj9m.png", TV União
+http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png", Top TV PA
+http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/y-gNVevoIjOI33g7uuAxy5ueiZbhTSrePyS7Evssq5IwoGSrdvQ1seYngGnBUfE60-k",TV GIDEOES
+https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1255160284/Sem_t_tulo.jpg", BOA VONTADE TV
 http://lista.lorddark.club/5247/5247/19055
@@ -660,11 +708,71 @@ http://lista.lorddark.club/5247/5247/19055
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redegospel.png", REDE GOSPEL FHD
 http://br4.2tv.me/silvio01/silvio01/12878
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png", CANAL BRASIL HD
-http://lista.lorddark.club/5247/5247/19168
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KlbMTBD.png", Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png", REDE BRASIL
-http://lista.lorddark.club/5247/5247/19311
+#EXTINF:-1 group-title="Religiosos", TV AD BELEM
+https://cdn.jmvstream.com/w/AVJ-9106/playlist/chunklist.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png", TV NOVO TEMPO
+https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://www.gospeltruth.tv/wp-content/uploads/2020/10/logo-2020-light.png", Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/ggoAnM3iBL9hj7PpNgdAjS60ExqFxtf4-uDzY55uKYPY2c78uCaE85vreFTRtkAimu5V2aCFNPYTcgcOC7XiCTK5y40KLuknFjR_7tCWsXkC0Q5WgPaWvP2A9ohdHpAa",Tv Votuline
+https://srv5.zcast.com.br/votuline/votuline/chunklist_w1914702729.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/burRKU-n9d2yE6SCIWndFzXFZJRdfPq7FHNPfZ-kOzd-a-eFSKxHa3bkBk0xxWKVD6w", Rede Positiva Gospel
+https://stmv2.voxtvhd.com.br/8090/8090/chunklist_w118479557.m3u8 
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png/revision/latest/scale-to-width-down/340?cb=20200405171714",TV CIDADE 
+https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?f84e589fbf8b8110118c5ae8f1200c8b
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="http://tvouronegro.com.br/wp-content/uploads/2019/04/tv-on.png", TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist_w390441382.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://pa-str.srvsite.com/arquivos/6046/cabecalho-6046-20210117020050.png", Tv Germana
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1820582170.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://play-lh.googleusercontent.com/4AGzfScW3Nl_h1f37y55VQW8Tsr6KlSl7er0GlInriXoDgUJexkYgnNtMMXXk9uocRg=h250-rw", TV IATD Apostólica
+https://stmv1.voxtvhd.com.br/12005/12005/chunklist_w188704775.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/J17F2s-R1mOzcIjXg9zQYiC8pg_6hDFosd3hFbMWAna6Tdyyf4q2_eUSK2hJhQTap57XErcPIPcIATHqzY1CRiKMz4b9Ws611aBgj6EjgtaLRGxug8REAa7or5k2wWBN", Tv Escola da Bíblia
+https://video01.kshost.com.br/valdizan7907/valdizan7907/chunklist_w300996723.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngXmt3EuNBoRwltl9NkFr-iLcmQ5wb8JhrCP769=s900-c-k-c0x00ffffff-no-rj",TV CRISTO VIVE
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1598433739.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/TrSSJpQS5QnIV3i1BLTfgUcMANfRLgFfkVSC1FjdCh28ocDnGkW1Ledsqk1ttcI9F1rOGBan7OGk1_PKn8fn-wZnkg-x_CTakKbKvjhmhn03w6D3Di3VNXS1JGs4Q1a0",NGP GOSPEL
+https://novo.bitstreaming.info:1936/8278/8278/chunklist_w589501965.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="Religioso", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_53b77779-8a4e-4a09-9c69-b6e20ddaeb46.m3u8
+
+#EXTINF:-1 group-title="tv • NATUREZA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png", TRAVEL BOX
+http://177.20.208.58:8000/play/a04i/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS - FILMES" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png", ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/ualVUwe.png", Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/mgHLYAn.png", Retrô Cartoon
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/izBuXev.png", Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/dQRl59I.png", TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/Z4Yca7z.png", TV Nova Onda
+https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/g3TwbPa.png", TV Via Morena
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
 http://lista.lorddark.club/5247/5247/743
