@@ -831,4 +831,46 @@ http://lista.lorddark.club/5247/5247/608
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV JUSTIÇA
 http://lista.lorddark.club/5247/5247/605
 
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", MANCHETE
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1437067093.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV CORREIO
+https://youtu.be/g2eqS6q91ao
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV JORNAL DO NORDESTE
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1734828378.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV NOVA PARAÍBA
+https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/chunklist_w1380017723.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV DIÁRIO DO SERTÃO 
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1479513716.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV NORDESTINA
+https://youtu.be/UjyXED7_T8s
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV MASTER
+https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1023993436.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV SOL PATOS
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146408749.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV ALAGOINHA PB
+http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/chunklist_w865406886.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV PORTAL MÍDIA GUARABIRA
+https://video01.kshost.com.br/portalmidia/portalmidia/chunklist_w477557526.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV TSPB
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV INTERATIVA PB
+http://srv2.zcast.com.br/tvinterativa/tvinterativa/chunklist_w1706651275.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", SRTV PB
+https://5e36c064a2f6a.streamlock.net:1936/8194/8194/chunklist_w331981928.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", Tv Assembléia Paraíba
+http://200.164.225.175/hls/tvalpb.m3u8
+
 
