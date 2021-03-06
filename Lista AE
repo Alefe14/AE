@@ -490,7 +490,7 @@ http://lista.lorddark.club/5247/5247/19282
 http://lista.lorddark.club/5247/5247/19385
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png", VINTAGE TV 
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1391139746.m3u8
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1263392867.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png", RETRÔ CARTOON 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1525118126.m3u8
@@ -705,7 +705,7 @@ https://cutt.ly/vldK967
 #EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="https://pa-str.srvsite.com/arquivos/6134/cabecalho-6134-20201022120342.png",TV AMERICA MIX
 https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
 
-#EXTINF:-1 group-title="Religiosos" tvg-logo="encurtador.com.br/jqzKQ",TOP MIX TV
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/DePR9g0jIM8BSCY9_6eS_ltzrAE8oEWZU4id_xhst4waeUYkXUP65_Mr9p3fPpaIu3QCPJcw2K4IKFsDKeUHIkA_8cwocLXWFipSMOQqmExEtau9ggPwlF9ZJ8Szmetd",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.acesp.tv.br/images/logos/tvguarulhos.jpg", TV GUARULHOS
@@ -732,7 +732,7 @@ http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg", GOSPEL MOVIE TV 
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1220937626.m3u8
 
-#EXTINF:-1 group-title="Religiosos", TV AD BELEM
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniEvPT9x7fjaHqifFgfEzX8cc2AokreExsqTtu8RQ=s900-c-k-c0x00ffffff-no-rj", TV AD BELEM
 https://cdn.jmvstream.com/w/AVJ-9106/playlist/chunklist.m3u8
 
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png", TV NOVO TEMPO
@@ -786,9 +786,6 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/izBuXev.png", Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 
-#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/dQRl59I.png", TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-
 #EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/Z4Yca7z.png", TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 
@@ -797,9 +794,6 @@ https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamor
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
 http://lista.lorddark.club/5247/5247/743
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [atras. 1 min]
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
 http://lista.lorddark.club/5247/5247/745
@@ -843,8 +837,11 @@ http://lista.lorddark.club/5247/5247/201341
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
 http://lista.lorddark.club/5247/5247/201345
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png", MANCHETE
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png", TV MANCHETE 1
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1437067093.m3u8
+
+#EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/dQRl59I.png", TV MANCHETE 2
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png", TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1734828378.m3u8
@@ -876,7 +873,7 @@ http://srv2.zcast.com.br/tvinterativa/tvinterativa/chunklist_w1706651275.m3u8
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/017fd721088105092c54513b07ac61d0.png", SRTV PB
 https://5e36c064a2f6a.streamlock.net:1936/8194/8194/chunklist_w331981928.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/873e4acc282522805e58be020909f00c.png", Tv Assembléia Paraíba
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/873e4acc282522805e58be020909f00c.png", TV Assembléia Paraíba
 http://200.164.225.175/hls/tvalpb.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af00a626f71e3a3dfadb5a5c8ffa086c.png", TCM TV Cabo Mossoró
@@ -956,9 +953,6 @@ https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1284108302.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc8d11a2f28d597643226a5d03519c58.png", TV Serra Verde
 https://stmv1.srvstm.com/leandro9908/leandro9908/chunklist_w1215000650.m3u8
-
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8a195fca599933e0c7804a5cb0140616.png", NOSSA TV HD
-https://srv2.zcast.com.br/nossatv/nossatv/chunklist_w1541400707.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c70c8f8099730a84bf271395381692e.png", Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1073323982.m3u8
