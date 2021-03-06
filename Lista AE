@@ -183,6 +183,9 @@ http://lista.lorddark.club:80/5247/5247/19115
 #EXTINF: -1 tvg-logo="http://www.agencialift.com.br/my_content/uploads/2016/04/sportv.png", SPORT TV 3 HD
 http://lista.lorddark.club:80/5247/5247/19326
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE CLUBES FHD
 http://lista.lorddark.club:80/5247/5247/19112
 
@@ -486,6 +489,12 @@ http://lista.lorddark.club/5247/5247/19282
 #EXTINF: -1 tvg-logo="https://th.bing.com/th/id/Ref38e2ab35b9158a1dc3846ef1235ba1?rik=Ufbo75%2finetKYA&riu=http%3a%2f%2fwww.digitaltvnews.net%2fwp-content%2fuploads%2f2016%2f03%2fplaykids.png&ehk=60B3NpIjbeh7Iluv%2biCevSa2RfKX2b0n8yLQRMYDHVo%3d&risl=&pid=ImgRaw", PLAYKIDS  HD
 http://lista.lorddark.club/5247/5247/19385
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png", VINTAGE TV 
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1391139746.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png", RETRÔ CARTOON 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1525118126.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCFVJCx.png", ZOOMOO HD
 http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8
 
@@ -494,6 +503,15 @@ http://lista.lorddark.club/5247/5247/19400
 
 #EXTINF: -1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/6a/Logo_ratimbum.jpg/revision/latest?cb=20160511061156", TV RÁ-TIM-BUM HD
 http://lista.lorddark.club/5247/5247/19361
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe290cfa853a15cfac44bb1bf2e924af.png", TV CLÁSSICOS 
+https://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w972074641.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bf29296ede8db8b9c502fba9c05cb7f.png", BONS TEMPOS 
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1523076750.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png", ANIME TV 
+https://stmv1.srvif.com/animetv/animetv/chunklist_w769752009.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET HD
 http://lista.lorddark.club/5247/5247/19151
@@ -710,6 +728,9 @@ http://br4.2tv.me/silvio01/silvio01/12878
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KlbMTBD.png", Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg", GOSPEL MOVIE TV 
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1220937626.m3u8
 
 #EXTINF:-1 group-title="Religiosos", TV AD BELEM
 https://cdn.jmvstream.com/w/AVJ-9106/playlist/chunklist.m3u8
@@ -942,6 +963,9 @@ https://srv2.zcast.com.br/nossatv/nossatv/chunklist_w1541400707.m3u8
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c70c8f8099730a84bf271395381692e.png", Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1073323982.m3u8
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da8fecf959f730dd05d649b46fa80298.png", TV NOVA NORDESTE
+https://live.comets.com.br/LiveApp/streams/689608265797795173392570.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cdc401151b4d1ea25fb507210d09036e.png", Litoral Tv
 https://596639ebdd89b.streamlock.net/8048/8048/chunklist_w1595107496.m3u8
 
@@ -957,6 +981,27 @@ http://srv1.zcast.com.br/tvprecabura/tvprecabura/chunklist_w1855616044.m3u8
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa94db57fcdaceb89e0edff5f6e05f09.jpg", Rede Encauca
 https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w1433790179.m3u8
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/61be88f543cd5b3709fbcc691ea1cde8.png", CONEXÃO TV 
+https://video01.kshost.com.br/gilson1332/gilson1332/chunklist_w1373686561.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg", TV CARIOCA 
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w273551475.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png", MUNDO TV 
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1020149132.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX 
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png", TV SÉRIES 
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w902763871.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8b4774a12ecb9843affeb4c817a3c0f.jpg", PORTO CANAL 
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w47558121.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be908a654dd4c6705a0d6d663c4e853e.png", KURIAKOS TV 
+http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
+
 #EXTINF: -1 tvg-logo="https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/historico/avisos-de-pauta-releases/tv-camara-estreia-canal-digital-em-brasilia/image_large", TV CÂMARA
 http://lista.lorddark.club/5247/5247/602
 
@@ -965,4 +1010,3 @@ http://lista.lorddark.club/5247/5247/608
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV JUSTIÇA
 http://lista.lorddark.club/5247/5247/605
-
