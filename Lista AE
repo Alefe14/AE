@@ -229,13 +229,13 @@ http://lista.lorddark.club/5247/5247/735
 http://lista.lorddark.club/5247/5247/19577
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 4 HD
-http://lista.lorddark.club/5247/5247/736
+http://lista.lorddark.club/5247/5247/19578
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 4
 http://lista.lorddark.club/5247/5247/19578
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV FHD
-http://lista.lorddark.club/5247/5247/201456
+http://lista.lorddark.club/5247/5247/201446
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV  HD
 http://lista.lorddark.club/5247/5247/201454
@@ -250,7 +250,7 @@ http://lista.lorddark.club/5247/5247/201438
 http://lista.lorddark.club/5247/5247/201448
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 3 HD
-http://lista.lorddark.club/5247/5247/201439
+http://lista.lorddark.club/5247/5247/201464
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 FHD
 http://lista.lorddark.club/5247/5247/201449
@@ -289,10 +289,10 @@ http://lista.lorddark.club/5247/5247/976
 http://lista.lorddark.club:80/5247/5247/19179
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX FHD
-http://lista.lorddark.club:80/5247/5247/19099
+http://lista.lorddark.club/5247/5247/994
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX HD
-http://lista.lorddark.club:80/5247/5247/19217
+http://lista.lorddark.club/5247/5247/817
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX HD (leg)
 http://lista.lorddark.club/5247/5247/19513
@@ -352,7 +352,7 @@ http://lista.lorddark.club/5247/5247/19351
 http://lista.lorddark.club/5247/5247/19541
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png", UNIVERSAL TV HD
-http://lista.lorddark.club/5247/5247/19365
+http://lista.lorddark.club/5247/5247/879
 
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBgCLcBGAsYHQ/s640/Warner.jpg", WARNER CHANNEL HD
 http://lista.lorddark.club/5247/5247/19372
@@ -372,14 +372,20 @@ http://lista.lorddark.club/5247/5247/19336
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/fa/90/df/fa90dffbbadbff35cc27f755f5efa476.png", TELECINE FUN HD
 http://lista.lorddark.club/5247/5247/19338
 
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg", TELECINE PIPOCA FHD
+http://lista.lorddark.club/5247/5247/201351
+
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg", TELECINE PIPOCA HD
 http://lista.lorddark.club/5247/5247/19340
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg", TELECINE PIPOCA HD (leg)
 http://lista.lorddark.club/5247/5247/19525
 
+#EXTINF: -1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png", TELECINE PREMIUM FHD
+http://lista.lorddark.club/5247/5247/201371
+
 #EXTINF: -1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png", TELECINE PREMIUM HD
-http://lista.lorddark.club/5247/5247/19342
+http://lista.lorddark.club/5247/5247/870
 
 #EXTINF: -1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png", TELECINE PREMIUM HD (leg)
 http://lista.lorddark.club/5247/5247/19527
@@ -396,8 +402,11 @@ http://lista.lorddark.club/5247/5247/19247
 #EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png", HBO HD (leg)
 http://lista.lorddark.club/5247/5247/19515
 
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png", HBO 2 FHD
+http://lista.lorddark.club/5247/5247/1007
+
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png", HBO 2 HD
-http://lista.lorddark.club/5247/5247/19244
+http://lista.lorddark.club/5247/5247/1120
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg", HBO PLUS HD
 http://lista.lorddark.club/5247/5247/19249
@@ -459,8 +468,11 @@ http://lista.lorddark.club/5247/5247/19166
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png", CARTOON NETWORK HD
 http://lista.lorddark.club/5247/5247/19173
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS FHD
+http://lista.lorddark.club/5247/5247/980
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD
-http://lista.lorddark.club/5247/5247/19189
+http://lista.lorddark.club/5247/5247/804
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png", DISNEY CHANNEL HD
 http://lista.lorddark.club/5247/5247/19199
@@ -497,9 +509,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1525118126.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCFVJCx.png", ZOOMOO HD
 http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="http://i.imgur.com/WCFVJCx.png", ZOOMOO
-http://lista.lorddark.club/5247/5247/19400
 
 #EXTINF: -1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/6a/Logo_ratimbum.jpg/revision/latest?cb=20160511061156", TV RÁ-TIM-BUM HD
 http://lista.lorddark.club/5247/5247/19361
@@ -556,7 +565,7 @@ http://lista.lorddark.club/5247/5247/19191
 http://lista.lorddark.club/5247/5247/982
 
 #EXTINF: -1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg", DISCOVERY THEATER HD
-http://lista.lorddark.club/5247/5247/19193
+http://lista.lorddark.club/5247/5247/806
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO FHD
 http://lista.lorddark.club/5247/5247/983
@@ -621,8 +630,11 @@ http://lista.lorddark.club/5247/5247/19259
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", OFF HD
 http://lista.lorddark.club/5247/5247/19286
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC FHD
+http://lista.lorddark.club/5247/5247/1048
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC HD
-http://lista.lorddark.club/5247/5247/19347
+http://lista.lorddark.club/5247/5247/872
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/120px-TruTV_logo_2014.png", TRU TV HD
 http://lista.lorddark.club/5247/5247/19363
@@ -639,8 +651,11 @@ http://lista.lorddark.club/5247/5247/19164
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg", MTV HD 
 http://lista.lorddark.club/5247/5247/19269
 
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/multishow-logo.png", MULTISHOW FHD
+http://lista.lorddark.club/5247/5247/1018
+
 #EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/multishow-logo.png", MULTISHOW HD
-http://lista.lorddark.club/5247/5247/19271
+http://lista.lorddark.club/5247/5247/842
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRASIL HD
 http://lista.lorddark.club/5247/5247/19273
@@ -705,7 +720,7 @@ https://cutt.ly/vldK967
 #EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="https://pa-str.srvsite.com/arquivos/6134/cabecalho-6134-20201022120342.png",TV AMERICA MIX
 https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
 
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/DePR9g0jIM8BSCY9_6eS_ltzrAE8oEWZU4id_xhst4waeUYkXUP65_Mr9p3fPpaIu3QCPJcw2K4IKFsDKeUHIkA_8cwocLXWFipSMOQqmExEtau9ggPwlF9ZJ8Szmetd",TOP MIX TV
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/DePR9g0jIM8BSCY9_6eS_ltzrAE8oEWZU4id_xhst4waeUYkXUP65_Mr9p3fPpaIu3QCPJcw2K4IKFsDKeUHIkA_8cwocLXWFipSMOQqmExEtau9ggPwlF9ZJ8Szmetd", TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.acesp.tv.br/images/logos/tvguarulhos.jpg", TV GUARULHOS
@@ -714,9 +729,6 @@ http://lista.lorddark.club/5247/5247/1151
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S58zj9m.png", TV União
 http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png", Top TV PA
-http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/y-gNVevoIjOI33g7uuAxy5ueiZbhTSrePyS7Evssq5IwoGSrdvQ1seYngGnBUfE60-k", TV GIDEOES
 https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
 
@@ -724,7 +736,7 @@ https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.
 http://lista.lorddark.club/5247/5247/19055
 
 #EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redegospel.png", REDE GOSPEL FHD
-http://br4.2tv.me/silvio01/silvio01/12878
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KlbMTBD.png", Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
@@ -853,7 +865,7 @@ https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/chunklist_w1380017723.m3u8
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1479513716.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png", TV MASTER
-https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1023993436.m3u8
+https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1002587347.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7d974ff78b437d7389923b224747a90d.png", TV SOL PATOS
 http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146408749.m3u8
@@ -956,12 +968,6 @@ https://stmv1.srvstm.com/leandro9908/leandro9908/chunklist_w1215000650.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c70c8f8099730a84bf271395381692e.png", Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1073323982.m3u8
-
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da8fecf959f730dd05d649b46fa80298.png", TV NOVA NORDESTE
-https://live.comets.com.br/LiveApp/streams/689608265797795173392570.m3u8
-
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cdc401151b4d1ea25fb507210d09036e.png", Litoral Tv
-https://596639ebdd89b.streamlock.net/8048/8048/chunklist_w1595107496.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c0ec00ce28d7569714d1872af6245dc5.png", Tv Centro Sul
 https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w470321206.m3u8
