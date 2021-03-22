@@ -42,6 +42,9 @@ http://lista.lorddark.club:80/5247/5247/732
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND RJ HD
 http://lista.lorddark.club/5247/5247/729
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg", RBATV HD 
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w732640784.m3u8
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV FHD
 http://lista.lorddark.club/5247/5247/19091
 
@@ -726,7 +729,7 @@ https://cutt.ly/vldK967
 #EXTINF:-1 group-title="EDUCAÇÃO" tvg-logo="https://pa-str.srvsite.com/arquivos/6134/cabecalho-6134-20201022120342.png",TV AMERICA MIX
 https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
 
-#EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/proxy/DePR9g0jIM8BSCY9_6eS_ltzrAE8oEWZU4id_xhst4waeUYkXUP65_Mr9p3fPpaIu3QCPJcw2K4IKFsDKeUHIkA_8cwocLXWFipSMOQqmExEtau9ggPwlF9ZJ8Szmetd", TOP MIX TV
+#EXTINF:-1 group-title="Religiosos" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/464274e45b80e0f3e1a8cb2c90d6fec3.png", TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.acesp.tv.br/images/logos/tvguarulhos.jpg", TV GUARULHOS
@@ -758,6 +761,9 @@ https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://www.gospeltruth.tv/wp-content/uploads/2020/10/logo-2020-light.png", Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://www.gospeltruth.tv/wp-content/uploads/2020/10/logo-2020-light.png", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1972382645_b4227072.m3u8
 
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://1.bp.blogspot.com/-PQ-h3mDbjnQ/X9tuAphGl_I/AAAAAAAAEAU/wryGFJbBxmAg2Z6WxfRGww2XFLFsCuZTACLcBGAsYHQ/s0/TV%2BVOTULINE.png",Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/chunklist_w1914702729.m3u8
@@ -809,51 +815,6 @@ https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 
 #EXTINF:-1 group-title="Web TV" tvg-logo="https://imgur.com/g3TwbPa.png", TV Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
-http://lista.lorddark.club/5247/5247/743
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
-http://lista.lorddark.club/5247/5247/745
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO
-http://lista.lorddark.club/5247/5247/203818
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO+
-http://lista.lorddark.club/5247/5247/203817
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PRINCIPAL
-http://lista.lorddark.club/5247/5247/203816
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SECND
-http://lista.lorddark.club/5247/5247/203815
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CONFESSIONÁRIO
-http://lista.lorddark.club/5247/5247/203814
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO CORDEL
-http://lista.lorddark.club/5247/5247/203813
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO COLORIDO
-http://lista.lorddark.club/5247/5247/203812
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CHUVEIRO
-http://lista.lorddark.club/5247/5247/203811
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| COZINHA VIP
-http://lista.lorddark.club/5247/5247/201343
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SALA
-http://lista.lorddark.club/5247/5247/201344
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PISCINA
-http://lista.lorddark.club/5247/5247/201342
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| JARDIM
-http://lista.lorddark.club/5247/5247/201341
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
-http://lista.lorddark.club/5247/5247/201345
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png", TV MANCHETE 1
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1437067093.m3u8
@@ -930,6 +891,9 @@ https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/chunklist_w171458479.m3u
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/739315b5e91f4f7ed1b1f94147ba1369.png", Tv Assembléia RN
 https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w435658548.m3u8
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg", Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f3ead5bfca55de072db674f164226be.jpg", Web Tv Ouro Verde
 https://5d82644094cc0.streamlock.net/ouroverdetv/ouroverdetv/chunklist_w773097086.m3u8
 
@@ -938,6 +902,9 @@ https://stream-01.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRknYZ-xbMb67XGgJN
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg", Tv Aracati HD
 https://5e36c064a2f6a.streamlock.net:1936/8554/8554/chunklist_w367836335.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg", Viva Web Tv
+http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1318298521.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/100987566f7a57c654ac6f94c2a42b86.png", TV Metropole CE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1555477821.m3u8
@@ -1016,3 +983,48 @@ http://lista.lorddark.club/5247/5247/608
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV JUSTIÇA
 http://lista.lorddark.club/5247/5247/605
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
+http://lista.lorddark.club/5247/5247/743
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
+http://lista.lorddark.club/5247/5247/745
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO
+http://lista.lorddark.club/5247/5247/203818
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO+
+http://lista.lorddark.club/5247/5247/203817
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PRINCIPAL
+http://lista.lorddark.club/5247/5247/203816
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SECND
+http://lista.lorddark.club/5247/5247/203815
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CONFESSIONÁRIO
+http://lista.lorddark.club/5247/5247/203814
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO CORDEL
+http://lista.lorddark.club/5247/5247/203813
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO COLORIDO
+http://lista.lorddark.club/5247/5247/203812
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CHUVEIRO
+http://lista.lorddark.club/5247/5247/203811
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| COZINHA VIP
+http://lista.lorddark.club/5247/5247/201343
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SALA
+http://lista.lorddark.club/5247/5247/201344
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PISCINA
+http://lista.lorddark.club/5247/5247/201342
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| JARDIM
+http://lista.lorddark.club/5247/5247/201341
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
+http://lista.lorddark.club/5247/5247/201345
