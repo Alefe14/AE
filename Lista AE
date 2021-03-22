@@ -18,6 +18,9 @@ http://lista.lorddark.club/5247/5247/186092
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB HD
 http://lista.lorddark.club/5247/5247/186091
 
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO BSB FHD
+http://lista.lorddark.club/5247/5247/19063
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO MG FHD
 http://lista.lorddark.club/5247/5247/19065
 
@@ -94,7 +97,7 @@ http://lista.lorddark.club/5247/5247/19233
 http://lista.lorddark.club/5247/5247/19308
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL FHD
-http://lista.lorddark.club/5247/5247/27002
+http://lista.lorddark.club/5247/5247/27004
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL HD
 http://lista.lorddark.club/5247/5247/27004
@@ -125,6 +128,9 @@ http://lista.lorddark.club/5247/5247/1102
 
 #EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png", ESPORTE INTERATIVO SD
 http://lista.lorddark.club/5247/5247/19565
+
+#EXTINF: -1 tvg-logo="https://i1.wp.com/www.sitefutebol.com.br/wp-content/uploads/2020/02/copanordeste-2020.jpg?fit=540%2C360&ssl=1", COPA DO NORDESTE
+http://lista.lorddark.club/5247/5247/19562
 
 #EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-820x305.png", ESPN FHD
 http://lista.lorddark.club:80/5247/5247/19098
