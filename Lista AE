@@ -258,6 +258,25 @@ http://familytv.net:80/live/Carla0121/JONES701/132515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",NBA TV
 http://familytv.net:80/live/Carla0121/JONES701/132516.m3u8
 
+ #EXTINF: -1 tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-2.jpg", ELEVEN SPORTS 1 FHD(PT)
+http://titanlivetv.com:8080/live/Edith/Edith123/7518.m3u8
+
+#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5", SPORT TV 1 (PT)
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5", SPORT TV 2 (PT)
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5", SPORT TV 3 (PT)
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5", SPORT TV 4 (PT)
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5", SPORT TV 5 (PT)
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="https://makeawish.pt/wp-content/uploads/2019/08/34.-Sport-Tv-e1566482596930.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV +
 http://familytv.net:80/live/Carla0121/JONES701/132517.m3u8
 
