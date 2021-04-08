@@ -310,7 +310,7 @@ http://familytv.net:80/live/Carla0121/JONES701/132516.m3u8
 http://top.hatv.me:2095/dtv_785118/wu3qo7bc/43632
 
 #EXTINF: -1 tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-2.jpg", ELEVEN SPORTS 1 FHD(PT)
-http://titanlivetv.com:8080/live/Edith/Edith123/7518.m3u8
+http://titanlivetv.com:8888/live/Edith/Edith123/7518.m3u8
 
 #EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5", SPORT TV 1 (PT)
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
