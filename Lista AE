@@ -675,9 +675,11 @@ http://lista.lorddark.club/5247/5247/872
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/120px-TruTV_logo_2014.png", TRU TV HD
 http://lista.lorddark.club/5247/5247/19363
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640", VIVA HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640", VIVA(1)
 http://e.advd.cyou/live/alessandro/alessandro/185055.m3u8
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640", VIVA(2)
+http://top.samotv.xyz:2095/live/dtv_728006/1qyG1ZAA/13864.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png", WOOHOO HD
 http://lista.lorddark.club/5247/5247/19374
