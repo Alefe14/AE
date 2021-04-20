@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ  FHD
-http://lista.lorddark.club/5247/5247/19425
+http://top.samotv.xyz:2095/live/dtv_728006/1qyG1ZAA/44228.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ HD
 http://lista.lorddark.club:80/5247/5247/19424
@@ -1069,34 +1069,7 @@ http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w124
 http://persik.by/stream/2944/263250/10249.m3u8
 
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| 1
-http://e.advd.cyou/live/alessandro/alessandro/184830.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| 2
-http://e.advd.cyou/live/alessandro/alessandro/184831.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| 4
-http://e.advd.cyou/live/alessandro/alessandro/184833.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| 6
-http://e.advd.cyou/live/alessandro/alessandro/184835.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| 7
-http://e.advd.cyou/live/alessandro/alessandro/184836.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB ACOMPANHE A CASA 1
-http://e.advd.cyou/live/alessandro/alessandro/184839.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB ACOMPANHE A CASA 2
-http://e.advd.cyou/live/alessandro/alessandro/184840.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM PRINCIPAL
-http://e.advd.cyou/live/alessandro/alessandro/184841.m3u8
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO
-http://lista.lorddark.club/5247/5247/203818
-
-#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO+
-http://lista.lorddark.club/5247/5247/203817
+http://top.samotv.xyz:2095/live/dtv_728006/1qyG1ZAA/44288.m3u8
 
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PRINCIPAL
 http://lista.lorddark.club/5247/5247/203816
@@ -1127,4 +1100,3 @@ http://lista.lorddark.club/5247/5247/201342
 
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| JARDIM
 http://lista.lorddark.club/5247/5247/201341
-
