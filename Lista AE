@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RJ HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1504
 
+#EXTINF:-1,Rede Globo HD (RJ)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta", GLOBO NORDESTE HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/275
 
@@ -457,6 +460,12 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1515
 #EXTINF:-1 tvg-logo="" group-title="",GNT
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/235
 
+#EXTINF:-1,Viva HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/2680
+
+#EXTINF:-1,Viva HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/10
+
 #EXTINF:-1 tvg-logo="" group-title="",H2
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1465
 
@@ -811,5 +820,3 @@ http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
 #EXTINF:-1,Rede Gospel² (SP)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
-#EXTINF:-1,Rede Globo HD (RJ)
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
