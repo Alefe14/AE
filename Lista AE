@@ -49,7 +49,7 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1496
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/369
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="",BAND HD
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/489
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="",BAND NEWS HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1494
