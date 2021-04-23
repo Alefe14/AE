@@ -1,13 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", GLOBO NORDESTE HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta", GLOBO NORDESTE HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/275
 
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RJ HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1504
 
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO BA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO BA
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/260
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png", TV TROPICAL RN
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
@@ -18,7 +24,13 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT ND HD
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/17753
 
-#EXTINF:-1 tvg-logo="" group-title="", PREMIERE CLUBES HD
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PI
+http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esporte", PREMIERE CLUBES HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1447
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_preU-irYN4vOqpIyu3l1cOsLbL2Mg--qUWA3BNhskWzibtb4e8OPGE&s=10" group-title="",A&E HD
@@ -54,7 +66,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="",BAND NEWS HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1494
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo-1.png" group-title="",BAND SPORTS HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo-1.png" group-title="Esporte",BAND SPORTS HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1495
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEewg8VWaQB5kc3QpwuB6Q7XBNZKKNEsfr_eQD6qnqWvWWABDSZji4Ll0&s=10" group-title="",BIS HD
@@ -102,7 +114,7 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1488
 #EXTINF:-1 tvg-logo="" group-title="",CONMEBOL
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/33267
 
-#EXTINF:-1 tvg-logo="" group-title="",COPA DO NORDESTE
+#EXTINF:-1 tvg-logo="" group-title="Esporte",COPA DO NORDESTE
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/55196
 
 #EXTINF:-1 tvg-logo="" group-title="", DISCOVERY CHANNEL
