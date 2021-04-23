@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta", GLOBO NORDESTE HD
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/275
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RJ HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1504
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta", GLOBO NORDESTE HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/275
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO BA
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/260
