@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-country="BR;CA" tvg-logo="" group-title="GLOBO",GLOBO EPTV CAMPINAS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24554?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 7 HD
 http://tv.factoryiptv.com/Didi19/Didi19/36905
 
