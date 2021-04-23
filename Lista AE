@@ -24,7 +24,7 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playli
 #EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", TV ARAPUAN HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT ND HD
+#EXTINF: -1 tvg-logo="http://i.imgur.com/7SlZF9B.png", SBT ND HD
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/17753
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PI
@@ -33,7 +33,7 @@ http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?P
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EsporteS", PREMIERE CLUBES HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes", PREMIERE CLUBES HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1447
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes", PREMIERE CLUBES
@@ -68,8 +68,14 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1475
+
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1477
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
@@ -80,11 +86,17 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2 HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2 HD  
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1476
+
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/311
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
 http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -96,6 +108,33 @@ http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8?PEDROJUNIORTU
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo-1.png" group-title="Esportes",BAND SPORTS HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1495
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS HD 2
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1489
+
+#EXTINF:-1 tvg-logo="" group-title="",CONMEBOL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33267
+
+#EXTINF:-1 tvg-logo="" group-title="Esporte",COPA DO NORDESTE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/55196
+
+#EXTINF:-1 tvg-logo="" group-title="", SPORTV 2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1443
+
+#EXTINF:-1 tvg-logo="" group-title="",SPORTV 3
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1442
+
+#EXTINF:-1 tvg-logo="" group-title="", SPORTV 1
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1444
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_preU-irYN4vOqpIyu3l1cOsLbL2Mg--qUWA3BNhskWzibtb4e8OPGE&s=10" group-title="",A&E HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1521
@@ -126,9 +165,6 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/369
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="",BAND NEWS HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1494
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo-1.png" group-title="Esporte",BAND SPORTS HD
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1495
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEewg8VWaQB5kc3QpwuB6Q7XBNZKKNEsfr_eQD6qnqWvWWABDSZji4Ll0&s=10" group-title="",BIS HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1493
@@ -166,17 +202,8 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1490
 #EXTINF:-1 tvg-logo="" group-title="",CNN BR
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/21417
 
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1489
-
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1488
-
-#EXTINF:-1 tvg-logo="" group-title="",CONMEBOL
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/33267
-
-#EXTINF:-1 tvg-logo="" group-title="Esporte",COPA DO NORDESTE
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/55196
 
 #EXTINF:-1 tvg-logo="" group-title="", DISCOVERY CHANNEL
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1487
@@ -192,18 +219,6 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1478
 
 #EXTINF:-1 tvg-logo="" group-title="",DISNY XD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1517
-
-#EXTINF:-1 tvg-logo="" group-title="",ESPN 2
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1476
-
-#EXTINF:-1 tvg-logo="" group-title="",ESPN BR
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1475
-
-#EXTINF:-1 tvg-logo="" group-title="",ESPN EXTRA
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/311
-
-#EXTINF:-1 tvg-logo="" group-title="",ESPN
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1477
 
 #EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1473
@@ -309,21 +324,6 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1446
 
 #EXTINF:-1 tvg-logo="" group-title="", SPACE
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1445
-
-#EXTINF:-1 tvg-logo="" group-title="", SPORTV 2
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1443
-
-#EXTINF:-1 tvg-logo="" group-title="",SPORTV 3
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1442
-
-#EXTINF:-1 tvg-logo="" group-title="", SPORTV 1
-http://canaishd.servidor.tv:8080/Jorge001/jorge001/1444
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS HD 2
-https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", RED BULL TV 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/IgElK0GUnr0rSc8g_udxDAC0EY9r5rEOExc2x92Qp-Imw00oGGGcVWw8yxCacbtjBx43", Univision TUDN MX
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/18167
