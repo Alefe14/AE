@@ -15,11 +15,17 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/260
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="",BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="",BAND HD 2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png", TV TROPICAL RN
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
@@ -30,6 +36,9 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", TV ARAPUAN FHD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan_all/playlist.m3u8?IMDSFULL
 
+#EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV HD
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="http://i.imgur.com/7SlZF9B.png", SBT ND HD
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/17753
 
@@ -38,6 +47,21 @@ http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?P
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1, GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", RECORD NEWS HD
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1,TV GUARÁ
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
+#EXTINF:-1,TV FUTURO
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1,TV CULTURA
+https://live.comets.com.br/LiveApp/streams/689608265797795173392570.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes", PREMIERE CLUBES FHD
 http://pdsrv.io:80/lucas123/123lucas/62412
@@ -477,6 +501,9 @@ http://pdsrv.io:80/lucas123/123lucas/7802
 #EXTINF:-1,MTV Brasil HD
 https://origin-02.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2/mono.m3u8
 
+#EXTINF:-1,COREAN
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
 #EXTINF:-1,Multi Show HD 1
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 
@@ -503,6 +530,9 @@ http://pdsrv.io:80/lucas123/123lucas/69151
 
 #EXTINF:-1 tvg-logo="" group-title="", DISCOVERY KIDS
 http://pdsrv.io:80/lucas123/123lucas/7538
+
+#EXTINF:-1,KKIDS
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 
 #EXTINF:-1,DISCOVERY SCIENCE HD
 http://pdsrv.io:80/lucas123/123lucas/7861
@@ -606,6 +636,9 @@ http://natv.pw:80/fernando01/01fernando/18786
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1360273160923398147/2U3eXb6R.jpg" group-title="FILMES",HBO XTREME FHD
 http://natv.pw:80/fernando01/01fernando/2151
 
+#EXTINF:-1,iptv_55
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",HISTORY CHANNEL
 http://pdsrv.io:80/lucas123/123lucas/61460
 
@@ -633,6 +666,9 @@ http://pdsrv.io:80/lucas123/123lucas/7537
 #EXTINF:-1 tvg-logo="" group-title="",OFF
 http://pdsrv.io:80/lucas123/123lucas/9152
 
+#EXTINF:-1 tvg-logo="" group-title="",LOADING HD
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="", PARAMOUNT
 http://pdsrv.io:80/lucas123/123lucas/6945
 
@@ -650,6 +686,39 @@ http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
 
 #EXTINF:-1,Gospel Movie Television (SP)
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+
+#EXTINF:-1,KRONE HIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1,ONE HD MUSIC
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1,FUTURA
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1,TOP TV
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+
+#EXTINF:-1,GAZETA FM HD
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1,REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+
+#EXTINF:-1,REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1,NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1,IGREJA MUNDIAL
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1,IGREJA UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1,ADSA HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png", VINTAGE TV 
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1263392867.m3u8
@@ -672,6 +741,12 @@ http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png", MASTER TV EDUCAÇÃO
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
 
+#EXTINF:-1,TV CÂMARA HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1,TVE BRASIL
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5RipeSYEQ6aNesR23p9Qz-coBZE1UVaL1Q&usqp=CAU", MASTER TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1620620002.m3u8
 
@@ -692,6 +767,9 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S58zj9m.png", TV União
 http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8
+
+#EXTINF:-1, GUARANI
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
 #EXTINF:-1 group-title="Religiosos" tvg-logo="https://lh3.googleusercontent.com/y-gNVevoIjOI33g7uuAxy5ueiZbhTSrePyS7Evssq5IwoGSrdvQ1seYngGnBUfE60-k", TV GIDEOES
 https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
@@ -779,6 +857,24 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1479513716.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png", TV MASTER
 https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1002587347.m3u8
+
+#EXTINF:-1,TV METRÓPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1,CANAL DA FAMÍLIA
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1,REDE TV SUL
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1,iptv_108
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
+
+#EXTINF:-1,TV DIGITAL BIRIGUI
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+
+#EXTINF:-1,SERTÃO TV CAJAZEIRAS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7d974ff78b437d7389923b224747a90d.png", TV SOL PATOS
 http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146408749.m3u8
@@ -900,36 +996,11 @@ http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
 #EXTINF:-1,Rede Gospel² (SP)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
-#EXTINF:-1,BBB 2021¹ (Academia)
-http://pdsrv.io:80/lucas123/123lucas/75646
+#EXTINF:-1,TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1,BBB 2021¹ (Acompanhe a casa 2)
-http://pdsrv.io:80/lucas123/123lucas/75650
+#EXTINF:-1,AGRO MAIS
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 
-#EXTINF:-1,BBB 2021¹ (Acompanhe a Casa)
-http://pdsrv.io:80/lucas123/123lucas/75645
-
-#EXTINF:-1,BBB 2021¹ (Confessionario )
-http://pdsrv.io:80/lucas123/123lucas/75648
-
-#EXTINF:-1,BBB 2021¹ (Cozinha Vip/Xepa)
-http://pdsrv.io:80/lucas123/123lucas/75652
-
-#EXTINF:-1,BBB 2021¹ (Jardim)
-http://pdsrv.io:80/lucas123/123lucas/75655
-
-#EXTINF:-1,BBB 2021¹ (Piscina)
-http://pdsrv.io:80/lucas123/123lucas/75654
-
-#EXTINF:-1,BBB 2021¹ (Quarto Cordel)
-http://pdsrv.io:80/lucas123/123lucas/75649
-
-#EXTINF:-1,BBB 2021¹ (Sala de Estar)
-http://pdsrv.io:80/lucas123/123lucas/75653
-
-#EXTINF:-1,BBB 21 (CHUVEIRO)
-http://pdsrv.io:80/lucas123/123lucas/75717
-
-#EXTINF:-1,BBB 21 (QUARTO COLORIDO)
-http://pdsrv.io:80/lucas123/123lucas/75718
-
+#EXTINF:-1,CANAL RURAL
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
