@@ -1,19 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1,GLOBO RJ FHD
+http://natv.pw:80/fernando01/01fernando/18719
 #EXTINF:-1,GLOBO RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1,GLOBO RJ HD 2
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1,GLOBO SP FHD
+http://natv.pw:80/fernando01/01fernando/1972
+#EXTINF:-1,GLOBO MINAS FHD
+http://natv.pw:80/fernando01/01fernando/18504
+#EXTINF:-1,GLOBO CABO BRANCO FHD
+http://natv.pw:80/fernando01/01fernando/23626
+#EXTINF:-1,GLOBO CEARÁ HD
+http://natv.pw:80/fernando01/01fernando/56068
 #EXTINF:-1,BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1,BAND HD 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,Record RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,BAND SP FHD
+http://natv.pw:80/fernando01/01fernando/2237
+#EXTINF:-1,RECORD SP FHD
+http://natv.pw:80/fernando01/01fernando/18497
 #EXTINF:-1,Record SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1, Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1,Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,RECORD RJ HD
+http://natv.pw:80/fernando01/01fernando/18415
+#EXTINF:-1,RECORD RJ HD²
+http://natv.pw:80/fernando01/01fernando/18734
 #EXTINF:-1, TV ARAPUAN HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 #EXTINF:-1, TV ARAPUAN FHD
@@ -32,54 +50,228 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1,TV FUTURO
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1,PREMIERE CLUBES FHD 2
+#EXTINF:-1,BAND SPORTS FHD
+http://natv.pw:80/fernando01/01fernando/18473
+#EXTINF:-1,BAND SPORTS HD
+http://natv.pw:80/fernando01/01fernando/2009
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://natv.pw:80/fernando01/01fernando/18475
+#EXTINF:-1,PREMIERE CLUBES FHD H265
+http://natv.pw:80/fernando01/01fernando/19129
+#EXTINF:-1,PREMIERE CLUBES FHD 
 http://natv.pw:80/fernando01/01fernando/2196
 #EXTINF:-1, PREMIERE CLUBES HD
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/23164
+#EXTINF:-1,PREMIERE 2 FHD H265
+http://natv.pw:80/fernando01/01fernando/19135
 #EXTINF:-1,Premiere 2
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24268
 #EXTINF:-1,PREMIERE 2 FHD
 http://natv.pw:80/fernando01/01fernando/2200
+#EXTINF:-1,PREMIERE 3 FHD H265
+http://natv.pw:80/fernando01/01fernando/19134
 #EXTINF:-1,Premiere 3
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24269
 #EXTINF:-1,PREMIERE 3 FHD
 http://natv.pw:80/fernando01/01fernando/2199
+#EXTINF:-1,PREMIERE 4 FHD H265
+http://natv.pw:80/fernando01/01fernando/19133
 #EXTINF:-1,Premiere 4
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24270
-#EXTINF:-1, Estádio TNT Sports
+#EXTINF:-1,PREMIERE 5 FHD H265
+http://natv.pw:80/fernando01/01fernando/19132
+#EXTINF:-1,PREMIERE 6 FHD H265
+http://natv.pw:80/fernando01/01fernando/19131
+#EXTINF:-1,PREMIERE 7 FHD H265
+http://natv.pw:80/fernando01/01fernando/19130
+#EXTINF:-1, Estádio TNT SPORTS
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,ESTADIO TNT SPORTS 1 HD
+http://natv.pw:80/fernando01/01fernando/18513
+#EXTINF:-1,ESTADIO TNT SPORTS 2 HD
+http://natv.pw:80/fernando01/01fernando/19047
+#EXTINF:-1,ESTADIO TNT SPORTS 3 HD
+http://natv.pw:80/fernando01/01fernando/23867
+#EXTINF:-1,ESTADIO TNT SPORTS 4 HD
+http://natv.pw:80/fernando01/01fernando/53147
+#EXTINF:-1,ESTADIO TNT SPORTS 5 HD
+http://natv.pw:80/fernando01/01fernando/53148
+#EXTINF:-1,ESTADIO TNT SPORTS 6 HD
+http://natv.pw:80/fernando01/01fernando/63581
+#EXTINF:-1,ESTADUAL 1
+http://natv.pw:80/fernando01/01fernando/61363
+#EXTINF:-1,ESTADUAL 2
+http://natv.pw:80/fernando01/01fernando/61364
+#EXTINF:-1,ESTADUAL 3
+http://natv.pw:80/fernando01/01fernando/61365
+#EXTINF:-1,ESTADUAL 4
+http://natv.pw:80/fernando01/01fernando/61366
+#EXTINF:-1,CARIOCA 1 HD
+http://natv.pw:80/fernando01/01fernando/61359
+#EXTINF:-1,CARIOCA 2 HD
+http://natv.pw:80/fernando01/01fernando/61360
+#EXTINF:-1,CARIOCA 3 HD
+http://natv.pw:80/fernando01/01fernando/61361
+#EXTINF:-1,CARIOCA 4 HD
+http://natv.pw:80/fernando01/01fernando/61362
+#EXTINF:-1,FACEBOOK 1 HD
+http://natv.pw:80/fernando01/01fernando/44730
+#EXTINF:-1,FACEBOOK 2 HD
+http://natv.pw:80/fernando01/01fernando/44731
+#EXTINF:-1,FLATV HD
+http://natv.pw:80/fernando01/01fernando/39396
+#EXTINF:-1,FLATV HD²
+http://natv.pw:80/fernando01/01fernando/44729
 #EXTINF:-1,Fish TV
 http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,ESPN BRASIL FHD
+http://natv.pw:80/fernando01/01fernando/2224
 #EXTINF:-1,ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN Brasil HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 #EXTINF:-1,ESPN Brasil HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPN FHD
+http://natv.pw:80/fernando01/01fernando/2223
 #EXTINF:-1,ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
 #EXTINF:-1,ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPN 2 FHD
+http://natv.pw:80/fernando01/01fernando/2226
 #EXTINF:-1,ESPN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN 2 HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPN EXTRA FHD
+http://natv.pw:80/fernando01/01fernando/2161
 #EXTINF:-1,ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN Extra HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 #EXTINF:-1,ESPN Extra HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Woohoo
-http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,FOX SPORTS FHD
+http://natv.pw:80/fernando01/01fernando/18596
+#EXTINF:-1,FOX SPORTS FHD²
+http://natv.pw:80/fernando01/01fernando/18709
+#EXTINF:-1,FOX SPORTS HD
+http://natv.pw:80/fernando01/01fernando/1979
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://natv.pw:80/fernando01/01fernando/2215
+#EXTINF:-1,FOX SPORTS 2 FHD²
+http://natv.pw:80/fernando01/01fernando/18706
+#EXTINF:-1,FOX SPORTS 2 HD
+http://natv.pw:80/fernando01/01fernando/1980
+#EXTINF:-1,SPORTV FHD
+http://natv.pw:80/fernando01/01fernando/2194
+#EXTINF:-1,SPORTV FHD²
+http://natv.pw:80/fernando01/01fernando/18861
+#EXTINF:-1,SPORTV HD
+http://natv.pw:80/fernando01/01fernando/1932
+#EXTINF:-1,SPORTV 2 FHD
+http://natv.pw:80/fernando01/01fernando/2193
+#EXTINF:-1,SPORTV 2 FHD²
+http://natv.pw:80/fernando01/01fernando/18853
+#EXTINF:-1,SPORTV 2 HD
+http://natv.pw:80/fernando01/01fernando/1934
+#EXTINF:-1,SPORTV 3 FHD
+http://natv.pw:80/fernando01/01fernando/2192
+#EXTINF:-1,SPORTV 3 FHD²
+http://natv.pw:80/fernando01/01fernando/18858
+#EXTINF:-1,SPORTV 3 HD
+http://natv.pw:80/fernando01/01fernando/1933
+#EXTINF:-1,CONMEBOL TV 1 FHD 
+http://natv.pw:80/fernando01/01fernando/49331
+#EXTINF:-1,CONMEBOL TV 1 HD 
+http://natv.pw:80/fernando01/01fernando/49332
+#EXTINF:-1,CONMEBOL TV 2 FHD 
+http://natv.pw:80/fernando01/01fernando/49334
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://natv.pw:80/fernando01/01fernando/49335
+#EXTINF:-1,CONMEBOL TV 3 FHD
+http://natv.pw:80/fernando01/01fernando/52994
+#EXTINF:-1,CONMEBOL TV 3 HD
+http://natv.pw:80/fernando01/01fernando/52993
+#EXTINF:-1,CONMEBOL TV 4 FHD  
+http://natv.pw:80/fernando01/01fernando/52996
+#EXTINF:-1,CONMEBOL TV 4 HD
+http://natv.pw:80/fernando01/01fernando/52995
+#EXTINF:-1,COPA CATARINENSE 1 HD
+http://natv.pw:80/fernando01/01fernando/20427
+#EXTINF:-1,COPA CATARINENSE 2 HD
+http://natv.pw:80/fernando01/01fernando/20428
+#EXTINF:-1,COPA NORDESTE 1 HD
+http://natv.pw:80/fernando01/01fernando/22625
+#EXTINF:-1,COPA NORDESTE 2 HD
+http://natv.pw:80/fernando01/01fernando/43646
+#EXTINF:-1,COPA NORDESTE 3 HD
+http://natv.pw:80/fernando01/01fernando/43647
+#EXTINF:-1,COPA NORDESTE 4 HD
+http://natv.pw:80/fernando01/01fernando/43648
+#EXTINF:-1,DAZN 1 4K
+http://natv.pw:80/fernando01/01fernando/45703
+#EXTINF:-1,DAZN 1 FHD
+http://natv.pw:80/fernando01/01fernando/46400
+#EXTINF:-1,DAZN 1 HD
+http://natv.pw:80/fernando01/01fernando/18364
+#EXTINF:-1,DAZN 2 4K
+http://natv.pw:80/fernando01/01fernando/47375
+#EXTINF:-1,DAZN 2 FHD
+http://natv.pw:80/fernando01/01fernando/47372
+#EXTINF:-1,DAZN 2 HD
+http://natv.pw:80/fernando01/01fernando/18365
+#EXTINF:-1,DAZN 3 4K
+http://natv.pw:80/fernando01/01fernando/47376
+#EXTINF:-1,DAZN 3 FHD
+http://natv.pw:80/fernando01/01fernando/47374
+#EXTINF:-1,DAZN 3 HD
+http://natv.pw:80/fernando01/01fernando/23866
+#EXTINF:-1,DAZN 4 4K
+http://natv.pw:80/fernando01/01fernando/54985
+#EXTINF:-1,DAZN 4 FHD
+http://natv.pw:80/fernando01/01fernando/54986
+#EXTINF:-1,DAZN 4 HD
+http://natv.pw:80/fernando01/01fernando/54995
+#EXTINF:-1,DAZN 5 4K
+http://natv.pw:80/fernando01/01fernando/54989
+#EXTINF:-1,DAZN 5 FHD
+http://natv.pw:80/fernando01/01fernando/54990
+#EXTINF:-1,DAZN 5 HD
+http://natv.pw:80/fernando01/01fernando/54991
+#EXTINF:-1,DAZN 6 4K
+http://natv.pw:80/fernando01/01fernando/54993
+#EXTINF:-1,DAZN 6 FHD
+http://natv.pw:80/fernando01/01fernando/54994
+#EXTINF:-1,DAZN 6 HD
+http://natv.pw:80/fernando01/01fernando/54987
+#EXTINF:-1,COMBATE 4K
+http://natv.pw:80/fernando01/01fernando/18474
+#EXTINF:-1,COMBATE FHD
+http://natv.pw:80/fernando01/01fernando/2232
+#EXTINF:-1,COMBATE FHD H265
+http://natv.pw:80/fernando01/01fernando/18511
+#EXTINF:-1,COMBATE FHD²
+http://natv.pw:80/fernando01/01fernando/18636
+#EXTINF:-1,COMBATE HD
+http://natv.pw:80/fernando01/01fernando/2003
+#EXTINF:-1,COMBATE HD²
+http://natv.pw:80/fernando01/01fernando/18369
 #EXTINF:-1,AYSAR Fight Sports¹ Japan (LUTA)
+http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Woohoo
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1, RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1, RED BULL TV¹ UHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?IMDSFULL
+#EXTINF:-1,LIGA FUTSAL HD
+http://natv.pw:80/fernando01/01fernando/63917
+#EXTINF:-1,LIGA FUTSAL 2 HD
+http://natv.pw:80/fernando01/01fernando/63919
 #EXTINF:-1,Sport Russia
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1,SPORT.TV 1 HD Portugal
@@ -138,6 +330,392 @@ http://188.35.9.11:21151/udp/193i
 https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
 #EXTINF:-1,One Golf HD USA
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1, ANIM NATURE HD
+http://200.194.238.236:5000/play/a006/index.m3u8
+#EXTINF:-1,ANIMAL PLANET 4K
+http://natv.pw:80/fernando01/01fernando/18487
+#EXTINF:-1,ANIMAL PLANET FHD
+http://natv.pw:80/fernando01/01fernando/2241
+#EXTINF:-1,ANIMAL PLANET FHD H265 DUAL AUDIO
+http://natv.pw:80/fernando01/01fernando/19053
+#EXTINF:-1,ANIMAL PLANET FHD²
+http://natv.pw:80/fernando01/01fernando/18471
+#EXTINF:-1,ANIMAL PLANET HD
+http://natv.pw:80/fernando01/01fernando/2015
+#EXTINF:-1,ANIMAL PLANET HD²
+http://natv.pw:80/fernando01/01fernando/18591
+#EXTINF:-1,DOG TV FHD
+http://natv.pw:80/fernando01/01fernando/53178
+#EXTINF:-1,DOG TV HD
+http://natv.pw:80/fernando01/01fernando/53177
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://natv.pw:80/fernando01/01fernando/2231
+#EXTINF:-1,COMEDY CENTRAL FHD H265
+http://natv.pw:80/fernando01/01fernando/19068
+#EXTINF:-1,COMEDY CENTRAL FHD²
+http://natv.pw:80/fernando01/01fernando/18638
+#EXTINF:-1,COMEDY CENTRAL HD
+http://natv.pw:80/fernando01/01fernando/2002
+#EXTINF:-1,COMEDY CENTRAL HD²
+http://natv.pw:80/fernando01/01fernando/18639
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://natv.pw:80/fernando01/01fernando/18484
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://natv.pw:80/fernando01/01fernando/2165
+#EXTINF:-1,DISCOVERY CHANNEL FHD H265 DUAL AUDIO
+http://natv.pw:80/fernando01/01fernando/19070
+#EXTINF:-1,DISCOVERY CHANNEL FHD²
+http://natv.pw:80/fernando01/01fernando/18514
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://natv.pw:80/fernando01/01fernando/2000
+#EXTINF:-1,DISCOVERY CHANNEL HD²
+http://natv.pw:80/fernando01/01fernando/18292
+#EXTINF:-1,DISCOVERY H&H 4K
+http://natv.pw:80/fernando01/01fernando/56001
+#EXTINF:-1,DISCOVERY H&H FHD
+http://natv.pw:80/fernando01/01fernando/2178
+#EXTINF:-1,DISCOVERY H&H FHD H265
+http://natv.pw:80/fernando01/01fernando/48659
+#EXTINF:-1,DISCOVERY H&H FHD²
+http://natv.pw:80/fernando01/01fernando/18655
+#EXTINF:-1,DISCOVERY H&H HD
+http://natv.pw:80/fernando01/01fernando/1998
+#EXTINF:-1,DISCOVERY H&H HD²
+http://natv.pw:80/fernando01/01fernando/18654
+#EXTINF:-1,DISCOVERY HGTV FHD
+http://natv.pw:80/fernando01/01fernando/2164
+#EXTINF:-1,DISCOVERY HGTV FHD H265
+http://natv.pw:80/fernando01/01fernando/48658
+#EXTINF:-1,DISCOVERY HGTV FHD²
+http://natv.pw:80/fernando01/01fernando/18651
+#EXTINF:-1,DISCOVERY HGTV HD
+http://natv.pw:80/fernando01/01fernando/1999
+#EXTINF:-1,DISCOVERY HGTV HD²
+http://natv.pw:80/fernando01/01fernando/18652
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://natv.pw:80/fernando01/01fernando/2163
+#EXTINF:-1,DISCOVERY KIDS FHD H265
+http://natv.pw:80/fernando01/01fernando/48660
+#EXTINF:-1,DISCOVERY KIDS FHD²
+http://natv.pw:80/fernando01/01fernando/18657
+#EXTINF:-1,DISCOVERY KIDS HD
+http://natv.pw:80/fernando01/01fernando/1997
+#EXTINF:-1,DISCOVERY KIDS HD²
+http://natv.pw:80/fernando01/01fernando/18287
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://natv.pw:80/fernando01/01fernando/2162
+#EXTINF:-1,DISCOVERY SCIENCE FHD H265
+http://natv.pw:80/fernando01/01fernando/19073
+#EXTINF:-1,DISCOVERY SCIENCE FHD²
+http://natv.pw:80/fernando01/01fernando/18660
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://natv.pw:80/fernando01/01fernando/1996
+#EXTINF:-1,DISCOVERY SCIENCE HD²
+http://natv.pw:80/fernando01/01fernando/18286
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://natv.pw:80/fernando01/01fernando/2230
+#EXTINF:-1,DISCOVERY THEATER FHD H265
+http://natv.pw:80/fernando01/01fernando/19074
+#EXTINF:-1,DISCOVERY THEATER FHD²
+http://natv.pw:80/fernando01/01fernando/18663
+#EXTINF:-1,DISCOVERY THEATER HD
+http://natv.pw:80/fernando01/01fernando/1995
+#EXTINF:-1,DISCOVERY THEATER HD²
+http://natv.pw:80/fernando01/01fernando/18664
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://natv.pw:80/fernando01/01fernando/18518
+#EXTINF:-1,DISCOVERY TURBO FHD H265
+http://natv.pw:80/fernando01/01fernando/19076
+#EXTINF:-1,DISCOVERY TURBO FHD²
+http://natv.pw:80/fernando01/01fernando/2229
+#EXTINF:-1,DISCOVERY TURBO HD
+http://natv.pw:80/fernando01/01fernando/1994
+#EXTINF:-1,DISCOVERY TURBO HD²
+http://natv.pw:80/fernando01/01fernando/18288
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://natv.pw:80/fernando01/01fernando/2228
+#EXTINF:-1,DISCOVERY WORLD FHD H265
+http://natv.pw:80/fernando01/01fernando/48661
+#EXTINF:-1,DISCOVERY WORLD FHD²
+http://natv.pw:80/fernando01/01fernando/18669
+#EXTINF:-1,DISCOVERY WORLD HD
+http://natv.pw:80/fernando01/01fernando/1993
+#EXTINF:-1,DISCOVERY WORLD HD²
+http://natv.pw:80/fernando01/01fernando/18670
+#EXTINF:-1,PT: DISCOVERY CHANNEL HD
+http://rand20.xyz:80/fernando01/01fernando/47314
+#EXTINF:-1,PT: DISCOVERY SHOWCASE HD
+http://rand20.xyz:80/fernando01/01fernando/47315
+#EXTINF:-1,PT: DISCOVERY TURBO HD
+http://rand20.xyz:80/fernando01/01fernando/47311
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://rand20.xyz:80/fernando01/01fernando/47296
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://rand20.xyz:80/fernando01/01fernando/47297
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://natv.pw:80/fernando01/01fernando/2171
+#EXTINF:-1,DISNEY CHANNEL FHD H265
+http://natv.pw:80/fernando01/01fernando/48662
+#EXTINF:-1,DISNEY CHANNEL FHD²
+http://natv.pw:80/fernando01/01fernando/18520
+#EXTINF:-1,DISNEY CHANNEL HD
+http://natv.pw:80/fernando01/01fernando/1992
+#EXTINF:-1,DISNEY CHANNEL HD²
+http://natv.pw:80/fernando01/01fernando/18284
+#EXTINF:-1,DISNEY JR FHD
+http://natv.pw:80/fernando01/01fernando/2227
+#EXTINF:-1,DISNEY JR FHD²
+http://natv.pw:80/fernando01/01fernando/18521
+#EXTINF:-1,DISNEY JR HD
+http://natv.pw:80/fernando01/01fernando/1991
+#EXTINF:-1,DISNEY JR HD²
+http://natv.pw:80/fernando01/01fernando/18282
+#EXTINF:-1,DISNEY JUNIOR FHD H265
+http://natv.pw:80/fernando01/01fernando/48663
+#EXTINF:-1,DISNEY XD HD
+http://natv.pw:80/fernando01/01fernando/1990
+#EXTINF:-1,GLOOB FHD
+http://natv.pw:80/fernando01/01fernando/2156
+#EXTINF:-1,GLOOB FHD H265
+http://natv.pw:80/fernando01/01fernando/48678
+#EXTINF:-1,GLOOB FHD²
+http://natv.pw:80/fernando01/01fernando/18725
+#EXTINF:-1,GLOOB HD
+http://natv.pw:80/fernando01/01fernando/1971
+#EXTINF:-1,GLOOB HD²
+http://natv.pw:80/fernando01/01fernando/18726
+#EXTINF:-1,GLOOBINHO FHD
+http://natv.pw:80/fernando01/01fernando/23888
+#EXTINF:-1,GLOOBINHO HD
+http://natv.pw:80/fernando01/01fernando/23889
+#EXTINF:-1,E! FHD H265
+http://natv.pw:80/fernando01/01fernando/48664
+#EXTINF:-1,E! HD
+http://natv.pw:80/fernando01/01fernando/18280
+#EXTINF:-1,FOOD NETWORK FHD
+http://natv.pw:80/fernando01/01fernando/2159
+#EXTINF:-1,FX 4K
+http://natv.pw:80/fernando01/01fernando/61000
+#EXTINF:-1,FX FHD
+http://natv.pw:80/fernando01/01fernando/2219
+#EXTINF:-1,GNT 4K
+http://natv.pw:80/fernando01/01fernando/61001
+#EXTINF:-1,GNT FHD
+http://natv.pw:80/fernando01/01fernando/2212
+#EXTINF:-1,GNT H265
+http://natv.pw:80/fernando01/01fernando/60455
+#EXTINF:-1,GNT HD
+http://natv.pw:80/fernando01/01fernando/1970
+#EXTINF:-1,H2 4K
+http://natv.pw:80/fernando01/01fernando/56003
+#EXTINF:-1,H2 FHD
+http://natv.pw:80/fernando01/01fernando/2211
+#EXTINF:-1,H2 FHD H265
+http://natv.pw:80/fernando01/01fernando/48685
+#EXTINF:-1,H2 FHD²
+http://natv.pw:80/fernando01/01fernando/18769
+#EXTINF:-1,H2 HD
+http://natv.pw:80/fernando01/01fernando/1969
+#EXTINF:-1,HBO 2 4K
+http://natv.pw:80/fernando01/01fernando/61005
+#EXTINF:-1,HBO 2 FHD H265
+http://natv.pw:80/fernando01/01fernando/48683
+#EXTINF:-1,HBO 4K
+http://natv.pw:80/fernando01/01fernando/25160
+#EXTINF:-1,HBO FAMILY 4K
+http://natv.pw:80/fernando01/01fernando/61003
+#EXTINF:-1,HBO FAMILY H265
+http://natv.pw:80/fernando01/01fernando/48679
+#EXTINF:-1,HBO FHD LEG
+http://natv.pw:80/fernando01/01fernando/53223
+#EXTINF:-1,HBO H265
+http://natv.pw:80/fernando01/01fernando/48680
+#EXTINF:-1,HBO HD LEG
+http://natv.pw:80/fernando01/01fernando/53221
+#EXTINF:-1,HBO MUNDI FHD LEG
+http://natv.pw:80/fernando01/01fernando/60417
+#EXTINF:-1,HBO MUNDI H265
+http://natv.pw:80/fernando01/01fernando/48687
+#EXTINF:-1,HBO MUNDI HD LEG
+http://natv.pw:80/fernando01/01fernando/47511
+#EXTINF:-1,HBO PLUS H265
+http://natv.pw:80/fernando01/01fernando/48681
+#EXTINF:-1,HBO POP FHD LEG
+http://natv.pw:80/fernando01/01fernando/60419
+#EXTINF:-1,HBO POP H265
+http://natv.pw:80/fernando01/01fernando/48689
+#EXTINF:-1,HBO POP HD LEG
+http://natv.pw:80/fernando01/01fernando/60420
+#EXTINF:-1,HBO SIGNATURA FHD LEG
+http://natv.pw:80/fernando01/01fernando/60422
+#EXTINF:-1,HBO SIGNATURA HD LEG
+http://natv.pw:80/fernando01/01fernando/53220
+#EXTINF:-1,HBO SIGNATURE H265
+http://natv.pw:80/fernando01/01fernando/48682
+#EXTINF:-1,HBO XTREME 4K
+http://natv.pw:80/fernando01/01fernando/61004
+#EXTINF:-1,HBO XTREME FHD LEG
+http://natv.pw:80/fernando01/01fernando/60424
+#EXTINF:-1,HBO XTREME H265
+http://natv.pw:80/fernando01/01fernando/48688
+#EXTINF:-1,HBO XTREME HD LEG
+http://natv.pw:80/fernando01/01fernando/60425
+#EXTINF:-1,HBO PLUS FHD LEG
+http://natv.pw:80/fernando01/01fernando/53222
+#EXTINF:-1,HBO PLUS HD LEG
+http://natv.pw:80/fernando01/01fernando/60427
+#EXTINF:-1,HISTORY CHANNEL 4K
+http://natv.pw:80/fernando01/01fernando/56004
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://natv.pw:80/fernando01/01fernando/2091
+#EXTINF:-1,HISTORY CHANNEL FHD²
+http://natv.pw:80/fernando01/01fernando/18789
+#EXTINF:-1,HISTORY CHANNEL HD
+http://natv.pw:80/fernando01/01fernando/1963
+#EXTINF:-1,HISTORY CHANNEL HD²
+http://natv.pw:80/fernando01/01fernando/18790
+#EXTINF:-1,HISTORY FHD H265
+http://natv.pw:80/fernando01/01fernando/48684
+#EXTINF:-1,IDEAL TV HD
+http://natv.pw:80/fernando01/01fernando/39539
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD
+http://natv.pw:80/fernando01/01fernando/18792
+#EXTINF:-1,INVESTIGATION DISCOVERY FHD H265
+http://natv.pw:80/fernando01/01fernando/1962
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://natv.pw:80/fernando01/01fernando/2088
+#EXTINF:-1,INVESTIGATION DISCOVERY HD²
+http://natv.pw:80/fernando01/01fernando/18793
+#EXTINF:-1,LIFETIME FHD DUAL AUDIO
+http://natv.pw:80/fernando01/01fernando/2155
+#EXTINF:-1,LIFETIME FHD H265
+http://natv.pw:80/fernando01/01fernando/48686
+#EXTINF:-1,LIFETIME HD
+http://natv.pw:80/fernando01/01fernando/1961
+#EXTINF:-1,LOADING HD
+http://natv.pw:80/fernando01/01fernando/63237
+#EXTINF:-1,MAIS GLOBOSAT FHD
+http://natv.pw:80/fernando01/01fernando/2154
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://natv.pw:80/fernando01/01fernando/1960
+#EXTINF:-1,MEGAPIX 4K
+http://natv.pw:80/fernando01/01fernando/53276
+#EXTINF:-1,MEGAPIX 4K
+http://natv.pw:80/fernando01/01fernando/18491
+#EXTINF:-1,MEGAPIX FHD
+http://natv.pw:80/fernando01/01fernando/2205
+#EXTINF:-1,MEGAPIX FHD H265
+http://natv.pw:80/fernando01/01fernando/48690
+#EXTINF:-1,MEGAPIX FHD LEG
+http://natv.pw:80/fernando01/01fernando/60444
+#EXTINF:-1,MEGAPIX FHD²
+http://natv.pw:80/fernando01/01fernando/18804
+#EXTINF:-1,MEGAPIX HD
+http://natv.pw:80/fernando01/01fernando/1957
+#EXTINF:-1,MEGAPIX HD LEG
+http://natv.pw:80/fernando01/01fernando/60445
+#EXTINF:-1,MEGAPIX HD²
+http://natv.pw:80/fernando01/01fernando/18803
+#EXTINF:-1,MTV FHD
+http://natv.pw:80/fernando01/01fernando/2203
+#EXTINF:-1,MTV FHD H265
+http://natv.pw:80/fernando01/01fernando/48691
+#EXTINF:-1,MTV FHD²
+http://natv.pw:80/fernando01/01fernando/18805
+#EXTINF:-1,MTV HD
+http://natv.pw:80/fernando01/01fernando/1956
+#EXTINF:-1,MTV HD²
+http://natv.pw:80/fernando01/01fernando/18806
+#EXTINF:-1,MTV LIVE FHD
+http://natv.pw:80/fernando01/01fernando/2150
+#EXTINF:-1,MTV LIVE HD
+http://natv.pw:80/fernando01/01fernando/18297
+#EXTINF:-1,MULTISHOW 4K
+http://natv.pw:80/fernando01/01fernando/18489
+#EXTINF:-1,MULTISHOW FHD
+http://natv.pw:80/fernando01/01fernando/2204
+#EXTINF:-1,MULTISHOW FHD H265
+http://natv.pw:80/fernando01/01fernando/48692
+#EXTINF:-1,MULTISHOW FHD²
+http://natv.pw:80/fernando01/01fernando/18809
+#EXTINF:-1,MULTISHOW HD
+http://natv.pw:80/fernando01/01fernando/1955
+#EXTINF:-1,MULTISHOW HD²
+http://natv.pw:80/fernando01/01fernando/18808
+#EXTINF:-1,NATIONAL GEO KIDS FHD DUA AUDIO
+http://natv.pw:80/fernando01/01fernando/2202
+#EXTINF:-1,NATIONAL GEO KIDS FHD²
+http://natv.pw:80/fernando01/01fernando/18812
+#EXTINF:-1,NATIONAL GEO KIDS HD
+http://natv.pw:80/fernando01/01fernando/1954
+#EXTINF:-1,NATIONAL GEO KIDS HD²
+http://natv.pw:80/fernando01/01fernando/18811
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://natv.pw:80/fernando01/01fernando/18813
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://natv.pw:80/fernando01/01fernando/1953
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+http://natv.pw:80/fernando01/01fernando/18490
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD H265
+http://natv.pw:80/fernando01/01fernando/48693
+#EXTINF:-1,NATIONAL GEO KIDS FHD H265
+http://natv.pw:80/fernando01/01fernando/48695
+#EXTINF:-1,NATIONAL GEO WILD FHD H265
+http://natv.pw:80/fernando01/01fernando/48694
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://natv.pw:80/fernando01/01fernando/1952
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD²
+http://natv.pw:80/fernando01/01fernando/18816
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://natv.pw:80/fernando01/01fernando/18819
+#EXTINF:-1,NHK WORLD HD
+http://natv.pw:80/fernando01/01fernando/45151
+#EXTINF:-1,NICK JR FHD
+http://natv.pw:80/fernando01/01fernando/1951
+#EXTINF:-1,NICK JR FHD H265
+http://natv.pw:80/fernando01/01fernando/48697
+#EXTINF:-1,NICK JR FHD²
+http://natv.pw:80/fernando01/01fernando/18820
+#EXTINF:-1,NICK JR HD
+http://natv.pw:80/fernando01/01fernando/18557
+#EXTINF:-1,NICK JR HD²
+http://natv.pw:80/fernando01/01fernando/18821
+#EXTINF:-1,NICKELODEON FHD
+http://natv.pw:80/fernando01/01fernando/18559
+#EXTINF:-1,NICKELODEON FHD H265
+http://natv.pw:80/fernando01/01fernando/48696
+#EXTINF:-1,NICKELODEON HD
+http://natv.pw:80/fernando01/01fernando/1950
+#EXTINF:-1,CINE SKY 1
+http://natv.pw:80/fernando01/01fernando/38246
+#EXTINF:-1,CINE SKY 2
+http://natv.pw:80/fernando01/01fernando/38247
+#EXTINF:-1,CINE SKY 3
+http://natv.pw:80/fernando01/01fernando/38248
+#EXTINF:-1,CINE SKY 4
+http://natv.pw:80/fernando01/01fernando/39397
+#EXTINF:-1,CINE SKY 5
+http://natv.pw:80/fernando01/01fernando/39398
+#EXTINF:-1,CINE SKY 6
+http://natv.pw:80/fernando01/01fernando/39399
+#EXTINF:-1,CINE SKY 7
+http://natv.pw:80/fernando01/01fernando/39400
+#EXTINF:-1,CINE SKY 8
+http://natv.pw:80/fernando01/01fernando/39401
+#EXTINF:-1,CINE SKY 9
+http://natv.pw:80/fernando01/01fernando/39402
+#EXTINF:-1,CINE SKY 10
+http://natv.pw:80/fernando01/01fernando/39403
+#EXTINF:-1,CINEMAX FHD
+http://natv.pw:80/fernando01/01fernando/2167
+#EXTINF:-1,CINEMAX FHD H265
+http://natv.pw:80/fernando01/01fernando/48657
+#EXTINF:-1,CINEMAX FHD²
+http://natv.pw:80/fernando01/01fernando/18633
+#EXTINF:-1,CINEMAX HD
+http://natv.pw:80/fernando01/01fernando/2004
+#EXTINF:-1,CINEMAX HD²
+http://natv.pw:80/fernando01/01fernando/18634
 #EXTINF:-1,TELECINE ACTION FHD
 http://natv.pw:80/fernando01/01fernando/2191
 #EXTINF:-1,TELECINE ACTION FHD²
@@ -166,12 +744,236 @@ http://natv.pw:80/fernando01/01fernando/2185
 http://natv.pw:80/fernando01/01fernando/18888
 #EXTINF:-1,TNT HD²
 http://natv.pw:80/fernando01/01fernando/18889
-#EXTINF:-1,TNT SD²
-http://natv.pw:80/fernando01/01fernando/18890
+#EXTINF:-1,TNT SERIES 4K
+http://natv.pw:80/fernando01/01fernando/18492
+#EXTINF:-1,TNT SERIES FHD
+http://natv.pw:80/fernando01/01fernando/2184
+#EXTINF:-1,TNT SERIES FHD H265
+http://natv.pw:80/fernando01/01fernando/18583
+#EXTINF:-1,TNT SERIES FHD LEG
+http://natv.pw:80/fernando01/01fernando/60441
+#EXTINF:-1,TNT SERIES FHD²
+http://natv.pw:80/fernando01/01fernando/18892
 #EXTINF:-1,TNT SERIES HD
 http://natv.pw:80/fernando01/01fernando/18215
 #EXTINF:-1,TOONCAST HD
 http://natv.pw:80/fernando01/01fernando/18214
+#EXTINF:-1,PARAMOUNT FHD
+http://natv.pw:80/fernando01/01fernando/2201
+#EXTINF:-1,PARAMOUNT FHD H265
+http://natv.pw:80/fernando01/01fernando/48699
+#EXTINF:-1,PARAMOUNT FHD²
+http://natv.pw:80/fernando01/01fernando/18825
+#EXTINF:-1,PARAMOUNT HD
+http://natv.pw:80/fernando01/01fernando/1948
+#EXTINF:-1,PLAYKIDS HD
+http://natv.pw:80/fernando01/01fernando/41787
+#EXTINF:-1,STAR CHANNEL 4K
+http://natv.pw:80/fernando01/01fernando/53275
+#EXTINF:-1,STAR CHANNEL FHD
+http://natv.pw:80/fernando01/01fernando/2221
+#EXTINF:-1,STAR CHANNEL FHD LEG
+http://natv.pw:80/fernando01/01fernando/31214
+#EXTINF:-1,STAR CHANNEL FHD²
+http://natv.pw:80/fernando01/01fernando/18529
+#EXTINF:-1,STAR CHANNEL H265
+http://natv.pw:80/fernando01/01fernando/48671
+#EXTINF:-1,STAR CHANNEL HD
+http://natv.pw:80/fernando01/01fernando/1984
+#EXTINF:-1,STAR CHANNEL HD LEG
+http://natv.pw:80/fernando01/01fernando/31213
+#EXTINF:-1,STAR HITS 1 FHD
+http://natv.pw:80/fernando01/01fernando/2218
+#EXTINF:-1,STAR HITS 1 FHD LEG
+http://natv.pw:80/fernando01/01fernando/60410
+#EXTINF:-1,STAR HITS 1 FHD²
+http://natv.pw:80/fernando01/01fernando/18531
+#EXTINF:-1,STAR HITS 1 H265
+http://natv.pw:80/fernando01/01fernando/48672
+#EXTINF:-1,STAR HITS 1 HD
+http://natv.pw:80/fernando01/01fernando/1982
+#EXTINF:-1,STAR HITS 1 HD LEG
+http://natv.pw:80/fernando01/01fernando/60411
+#EXTINF:-1,STAR HITS 2 FHD
+http://natv.pw:80/fernando01/01fernando/2217
+#EXTINF:-1,STAR HITS 2 FHD LEG
+http://natv.pw:80/fernando01/01fernando/60412
+#EXTINF:-1,STAR HITS 2 FHD²
+http://natv.pw:80/fernando01/01fernando/18532
+#EXTINF:-1,STAR HITS 2 H265
+http://natv.pw:80/fernando01/01fernando/48673
+#EXTINF:-1,STAR HITS 2 HD
+http://natv.pw:80/fernando01/01fernando/1981
+#EXTINF:-1,STAR HITS 2 HD LEG
+http://natv.pw:80/fernando01/01fernando/60413
+#EXTINF:-1,STAR HITS 2 HD²
+http://natv.pw:80/fernando01/01fernando/18274
+#EXTINF:-1,STAR LIFE FHD 
+http://natv.pw:80/fernando01/01fernando/2220
+#EXTINF:-1,STAR LIFE H265
+http://natv.pw:80/fernando01/01fernando/60454
+#EXTINF:-1,STAR LIFE HD
+http://natv.pw:80/fernando01/01fernando/1983
+#EXTINF:-1,STAR LIFE HD²
+http://natv.pw:80/fernando01/01fernando/18699
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://natv.pw:80/fernando01/01fernando/2143
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265
+http://natv.pw:80/fernando01/01fernando/18573
+#EXTINF:-1,STUDIO UNIVERSAL FHD²
+http://natv.pw:80/fernando01/01fernando/18864
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://natv.pw:80/fernando01/01fernando/1931
+#EXTINF:-1,STUDIO UNIVERSAL HD²
+http://natv.pw:80/fernando01/01fernando/18865
+#EXTINF:-1,SYFY FHD
+http://natv.pw:80/fernando01/01fernando/2142
+#EXTINF:-1,SYFY FHD H265
+http://natv.pw:80/fernando01/01fernando/48701
+#EXTINF:-1,SYFY FHD²
+http://natv.pw:80/fernando01/01fernando/18867
+#EXTINF:-1,SYFY HD
+http://natv.pw:80/fernando01/01fernando/1930
+#EXTINF:-1,SYFY HD²
+http://natv.pw:80/fernando01/01fernando/18868
+#EXTINF:-1,TBS FHD
+http://natv.pw:80/fernando01/01fernando/2173
+#EXTINF:-1,TBS FHD H265
+http://natv.pw:80/fernando01/01fernando/48702
+#EXTINF:-1,TBS HD
+http://natv.pw:80/fernando01/01fernando/1929
+#EXTINF:-1,TCM HD
+http://natv.pw:80/fernando01/01fernando/48707
+#EXTINF:-1,BOOMERANG FHD
+http://natv.pw:80/fernando01/01fernando/18624
+#EXTINF:-1,BOOMERANG HD
+http://natv.pw:80/fernando01/01fernando/2007
+#EXTINF:-1,BIS FHD
+http://natv.pw:80/fernando01/01fernando/2001
+#EXTINF:-1,CANAL SONY FHD
+http://natv.pw:80/fernando01/01fernando/18509
+#EXTINF:-1,CANAL SONY FHD H265
+http://natv.pw:80/fernando01/01fernando/2233
+#EXTINF:-1,CANAL SONY HD
+http://natv.pw:80/fernando01/01fernando/2006
+#EXTINF:-1,CARTOON 4K
+http://natv.pw:80/fernando01/01fernando/18488
+#EXTINF:-1,CARTOON NETWORK FHD
+http://natv.pw:80/fernando01/01fernando/2168
+#EXTINF:-1,A&E 4K
+http://natv.pw:80/fernando01/01fernando/60990
+#EXTINF:-1,A&E FHD
+http://natv.pw:80/fernando01/01fernando/18398
+#EXTINF:-1,A&E FHD H265 DUAL AUDIO
+http://natv.pw:80/fernando01/01fernando/19051
+#EXTINF:-1,A&E FHD²
+http://natv.pw:80/fernando01/01fernando/2243
+#EXTINF:-1,A&E HD
+http://natv.pw:80/fernando01/01fernando/2017
+#EXTINF:-1,AMC 4K
+http://natv.pw:80/fernando01/01fernando/60989
+#EXTINF:-1,AMC FHD
+http://natv.pw:80/fernando01/01fernando/2242
+#EXTINF:-1,AMC FHD H265 DUAL AUDIO
+http://natv.pw:80/fernando01/01fernando/19052
+#EXTINF:-1,AMC HD
+http://natv.pw:80/fernando01/01fernando/2016
+#EXTINF:-1,ARTE 1 FHD
+http://natv.pw:80/fernando01/01fernando/2240
+#EXTINF:-1,ARTE 1 H265
+http://natv.pw:80/fernando01/01fernando/60450
+#EXTINF:-1,ARTE 1 HD
+http://natv.pw:80/fernando01/01fernando/2014
+#EXTINF:-1,ARTE 1 HD²
+http://natv.pw:80/fernando01/01fernando/18602
+#EXTINF:-1,AXN 4K 
+http://natv.pw:80/fernando01/01fernando/60991
+#EXTINF:-1,AXN FHD
+http://natv.pw:80/fernando01/01fernando/19055
+#EXTINF:-1,AXN FHD H265
+http://natv.pw:80/fernando01/01fernando/48653
+#EXTINF:-1,AXN FHD LEG
+http://natv.pw:80/fernando01/01fernando/60408
+#EXTINF:-1,AXN FHD²
+http://natv.pw:80/fernando01/01fernando/18472
+#EXTINF:-1,AXN HD
+http://natv.pw:80/fernando01/01fernando/2013
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://natv.pw:80/fernando01/01fernando/2183
+#EXTINF:-1,UNIVERSAL CHANNEL FHD²
+http://natv.pw:80/fernando01/01fernando/18896
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://natv.pw:80/fernando01/01fernando/1920
+#EXTINF:-1,UNIVERSAL CHANNEL HD²
+http://natv.pw:80/fernando01/01fernando/18897
+#EXTINF:-1,UNIVERSAL TV FHD H265
+http://natv.pw:80/fernando01/01fernando/48705
+#EXTINF:-1,VH1 FHD
+http://natv.pw:80/fernando01/01fernando/2172
+#EXTINF:-1,VH1 FHD H265
+http://natv.pw:80/fernando01/01fernando/18584
+#EXTINF:-1,VH1 HD
+http://natv.pw:80/fernando01/01fernando/18209
+#EXTINF:-1,VH1 MEGAHITS FHD
+http://natv.pw:80/fernando01/01fernando/2182
+#EXTINF:-1,VIVA FHD
+http://natv.pw:80/fernando01/01fernando/18585
+#EXTINF:-1,VIVA H265
+http://natv.pw:80/fernando01/01fernando/60460
+#EXTINF:-1,VIVA HD
+http://natv.pw:80/fernando01/01fernando/1919
+#EXTINF:-1,WARNER CHANNEL 4K
+http://natv.pw:80/fernando01/01fernando/61006
+#EXTINF:-1,WARNER CHANNEL FHD
+http://natv.pw:80/fernando01/01fernando/2180
+#EXTINF:-1,WARNER CHANNEL FHD H265
+http://natv.pw:80/fernando01/01fernando/18586
+#EXTINF:-1,WARNER CHANNEL FHD LEG
+http://natv.pw:80/fernando01/01fernando/60437
+#EXTINF:-1,WARNER CHANNEL FHD²
+http://natv.pw:80/fernando01/01fernando/18899
+#EXTINF:-1,WARNER CHANNEL HD
+http://natv.pw:80/fernando01/01fernando/1918
+#EXTINF:-1,WARNER CHANNEL HD LEG
+http://natv.pw:80/fernando01/01fernando/31216
+#EXTINF:-1,WARNER CHANNEL HD²
+http://natv.pw:80/fernando01/01fernando/18900
+#EXTINF:-1,PT: ELEVEN SPORT 1 FHD
+http://rand20.xyz:80/fernando01/01fernando/47274
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://rand20.xyz:80/fernando01/01fernando/47275
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://rand20.xyz:80/fernando01/01fernando/47277
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://rand20.xyz:80/fernando01/01fernando/47276
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://rand20.xyz:80/fernando01/01fernando/47279
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://rand20.xyz:80/fernando01/01fernando/47280
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://rand20.xyz:80/fernando01/01fernando/47281
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://rand20.xyz:80/fernando01/01fernando/47282
+#EXTINF:-1,PT: EUROCHANEL
+http://rand20.xyz:80/fernando01/01fernando/47349
+#EXTINF:-1,PT: EURONEWS FHD
+http://rand20.xyz:80/fernando01/01fernando/47365
+#EXTINF:-1,PT: EURONEWS PORTUGUES
+http://rand20.xyz:80/fernando01/01fernando/47366
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://rand20.xyz:80/fernando01/01fernando/47287
+#EXTINF:-1,PT: EUROSPORT 2
+http://rand20.xyz:80/fernando01/01fernando/47288
+#EXTINF:-1,PT: FASHION TV EUROPE
+http://rand20.xyz:80/fernando01/01fernando/47367
+#EXTINF:-1,PT: FASHION TV HD
+http://rand20.xyz:80/fernando01/01fernando/47368
+#EXTINF:-1,PT: FIGHTBOX HD
+http://rand20.xyz:80/fernando01/01fernando/47369
+#EXTINF:-1,PT: FOX COMEDY HD
+http://rand20.xyz:80/fernando01/01fernando/47338
+#EXTINF:-1,PT: FOX CRIME HD
+http://rand20.xyz:80/fernando01/01fernando/47336
 #EXTINF:-1,Love Nature HD (Canadá)
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1,NASA TV USA
@@ -194,22 +996,6 @@ http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 #EXTINF:-1,DISNEY XD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,HBO 2 FHD
-http://natv.pw:80/fernando01/01fernando/2206
-#EXTINF:-1,HBO 2 FHD²
-http://natv.pw:80/fernando01/01fernando/18772
-#EXTINF:-1,HBO FAMILY HD
-http://natv.pw:80/fernando01/01fernando/1968
-#EXTINF:-1,HBO MUNDI FHD²
-http://natv.pw:80/fernando01/01fernando/60407
-#EXTINF:-1,HBO MUNDI HD
-http://natv.pw:80/fernando01/01fernando/1959
-#EXTINF:-1,HBO PLUS
-http://natv.pw:80/fernando01/01fernando/2208
-#EXTINF:-1,HBO SIGNATURE FHD²
-http://natv.pw:80/fernando01/01fernando/18786
-#EXTINF:-1,HBO XTREME FHD
-http://natv.pw:80/fernando01/01fernando/2151
 #EXTINF:-1,iptv_55
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1, Univision TUDN MX
@@ -242,8 +1028,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1525118126.m3u8
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1523076750.m3u8
 #EXTINF:-1, ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w769752009.m3u8
-#EXTINF:-1, ANIM NATURE HD
-http://200.194.238.236:5000/play/a006/index.m3u8
 #EXTINF:-1, TV RBC
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
 #EXTINF:-1, MASTER TV EDUCAÇÃO
@@ -420,3 +1204,91 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1,BBB MOSAICO HD
+http://natv.pw:80/fernando01/01fernando/61007
+#EXTINF:-1,BBB21 A CASA 1 FHD
+http://natv.pw:80/fernando01/01fernando/57177
+#EXTINF:-1,BBB21 A CASA 1 HD
+http://natv.pw:80/fernando01/01fernando/56879
+#EXTINF:-1,BBB21 A CASA 1 HD²
+http://natv.pw:80/fernando01/01fernando/57219
+#EXTINF:-1,BBB21 A CASA 2 FHD
+http://natv.pw:80/fernando01/01fernando/57178
+#EXTINF:-1,BBB21 A CASA 2 FHD²
+http://natv.pw:80/fernando01/01fernando/57209
+#EXTINF:-1,BBB21 A CASA 2 HD
+http://natv.pw:80/fernando01/01fernando/57188
+#EXTINF:-1,BBB21 A CASA 2 HD²
+http://natv.pw:80/fernando01/01fernando/57220
+#EXTINF:-1,BBB21 ACADEMIA FHD
+http://natv.pw:80/fernando01/01fernando/57186
+#EXTINF:-1,BBB21 ACADEMIA FHD²
+http://natv.pw:80/fernando01/01fernando/57217
+#EXTINF:-1,BBB21 ACADEMIA HD
+http://natv.pw:80/fernando01/01fernando/57196
+#EXTINF:-1,BBB21 ACADEMIA HD²
+http://natv.pw:80/fernando01/01fernando/57228
+#EXTINF:-1,BBB21 CHUVEIRO FHD
+http://natv.pw:80/fernando01/01fernando/57179
+#EXTINF:-1,BBB21 CHUVEIRO FHD²
+http://natv.pw:80/fernando01/01fernando/57210
+#EXTINF:-1,BBB21 CHUVEIRO HD
+http://natv.pw:80/fernando01/01fernando/57189
+#EXTINF:-1,BBB21 CHUVEIRO HD²
+http://natv.pw:80/fernando01/01fernando/57221
+#EXTINF:-1,BBB21 CONFESSIONÁRIO FHD
+http://natv.pw:80/fernando01/01fernando/57180
+#EXTINF:-1,BBB21 CONFESSIONÁRIO FHD²
+http://natv.pw:80/fernando01/01fernando/57211
+#EXTINF:-1,BBB21 CONFESSIONARIO HD
+http://natv.pw:80/fernando01/01fernando/57190
+#EXTINF:-1,BBB21 CONFESSIONARIO HD²
+http://natv.pw:80/fernando01/01fernando/57222
+#EXTINF:-1,BBB21 COZINHA VIP FHD
+http://natv.pw:80/fernando01/01fernando/57181
+#EXTINF:-1,BBB21 COZINHA VIP FHD²
+http://natv.pw:80/fernando01/01fernando/57212
+#EXTINF:-1,BBB21 COZINHA VIP HD
+http://natv.pw:80/fernando01/01fernando/57191
+#EXTINF:-1,BBB21 COZINHA VIP HD²
+http://natv.pw:80/fernando01/01fernando/57223
+#EXTINF:-1,BBB21 JARDIM FHD
+http://natv.pw:80/fernando01/01fernando/57182
+#EXTINF:-1,BBB21 JARDIM FHD²
+http://natv.pw:80/fernando01/01fernando/57213
+#EXTINF:-1,BBB21 JARDIM HD
+http://natv.pw:80/fernando01/01fernando/57192
+#EXTINF:-1,BBB21 JARDIM HD²
+http://natv.pw:80/fernando01/01fernando/57224
+#EXTINF:-1,BBB21 PISCINA FHD
+http://natv.pw:80/fernando01/01fernando/57183
+#EXTINF:-1,BBB21 PISCINA FHD²
+http://natv.pw:80/fernando01/01fernando/57214
+#EXTINF:-1,BBB21 PISCINA HD
+http://natv.pw:80/fernando01/01fernando/57193
+#EXTINF:-1,BBB21 PISCINA HD²
+http://natv.pw:80/fernando01/01fernando/57225
+#EXTINF:-1,BBB21 QUARTO COLORIDO FHD
+http://natv.pw:80/fernando01/01fernando/57184
+#EXTINF:-1,BBB21 QUARTO COLORIDO FHD²
+http://natv.pw:80/fernando01/01fernando/57215
+#EXTINF:-1,BBB21 QUARTO COLORIDO HD
+http://natv.pw:80/fernando01/01fernando/57194
+#EXTINF:-1,BBB21 QUARTO COLORIDO HD²
+http://natv.pw:80/fernando01/01fernando/57226
+#EXTINF:-1,BBB21 QUARTO CORDEL FHD
+http://natv.pw:80/fernando01/01fernando/57185
+#EXTINF:-1,BBB21 QUARTO CORDEL FHD²
+http://natv.pw:80/fernando01/01fernando/57216
+#EXTINF:-1,BBB21 QUARTO CORDEL HD
+http://natv.pw:80/fernando01/01fernando/57195
+#EXTINF:-1,BBB21 QUARTO CORDEL HD²
+http://natv.pw:80/fernando01/01fernando/57227
+#EXTINF:-1,BBB21 SALA DE ESTAR FHD
+http://natv.pw:80/fernando01/01fernando/57187
+#EXTINF:-1,BBB21 SALA DE ESTAR FHD²
+http://natv.pw:80/fernando01/01fernando/57218
+#EXTINF:-1,BBB21 SALA DE ESTAR HD
+http://natv.pw:80/fernando01/01fernando/57197
+#EXTINF:-1,BBB21 SALA DE ESTAR HD²
+http://natv.pw:80/fernando01/01fernando/57229
