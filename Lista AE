@@ -1,37 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,GLOBO RJ FHD
-http://natv.pw:80/fernando01/01fernando/18719
 #EXTINF:-1,GLOBO RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1,GLOBO RJ HD 2
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,GLOBO SP FHD
-http://natv.pw:80/fernando01/01fernando/1972
-#EXTINF:-1,GLOBO MINAS FHD
-http://natv.pw:80/fernando01/01fernando/18504
-#EXTINF:-1,GLOBO CABO BRANCO FHD
-http://natv.pw:80/fernando01/01fernando/23626
-#EXTINF:-1,GLOBO CEARÁ HD
-http://natv.pw:80/fernando01/01fernando/56068
 #EXTINF:-1,BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1,BAND HD 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,BAND SP FHD
-http://natv.pw:80/fernando01/01fernando/2237
-#EXTINF:-1,RECORD SP FHD
-http://natv.pw:80/fernando01/01fernando/18497
 #EXTINF:-1,Record SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1, Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1,Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,RECORD RJ HD
-http://natv.pw:80/fernando01/01fernando/18415
-#EXTINF:-1,RECORD RJ HD²
-http://natv.pw:80/fernando01/01fernando/18734
 #EXTINF:-1, TV ARAPUAN HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 #EXTINF:-1, TV ARAPUAN FHD
@@ -54,10 +36,6 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 http://natv.pw:80/fernando01/01fernando/18473
 #EXTINF:-1,BAND SPORTS HD
 http://natv.pw:80/fernando01/01fernando/2009
-#EXTINF:-1,PREMIERE CLUBES 4K
-http://natv.pw:80/fernando01/01fernando/18475
-#EXTINF:-1,PREMIERE CLUBES FHD H265
-http://natv.pw:80/fernando01/01fernando/19129
 #EXTINF:-1,PREMIERE CLUBES FHD 
 http://natv.pw:80/fernando01/01fernando/2196
 #EXTINF:-1, PREMIERE CLUBES HD
@@ -212,44 +190,30 @@ http://natv.pw:80/fernando01/01fernando/43646
 http://natv.pw:80/fernando01/01fernando/43647
 #EXTINF:-1,COPA NORDESTE 4 HD
 http://natv.pw:80/fernando01/01fernando/43648
-#EXTINF:-1,DAZN 1 4K
-http://natv.pw:80/fernando01/01fernando/45703
 #EXTINF:-1,DAZN 1 FHD
 http://natv.pw:80/fernando01/01fernando/46400
 #EXTINF:-1,DAZN 1 HD
 http://natv.pw:80/fernando01/01fernando/18364
-#EXTINF:-1,DAZN 2 4K
-http://natv.pw:80/fernando01/01fernando/47375
 #EXTINF:-1,DAZN 2 FHD
 http://natv.pw:80/fernando01/01fernando/47372
 #EXTINF:-1,DAZN 2 HD
 http://natv.pw:80/fernando01/01fernando/18365
-#EXTINF:-1,DAZN 3 4K
-http://natv.pw:80/fernando01/01fernando/47376
 #EXTINF:-1,DAZN 3 FHD
 http://natv.pw:80/fernando01/01fernando/47374
 #EXTINF:-1,DAZN 3 HD
 http://natv.pw:80/fernando01/01fernando/23866
-#EXTINF:-1,DAZN 4 4K
-http://natv.pw:80/fernando01/01fernando/54985
 #EXTINF:-1,DAZN 4 FHD
 http://natv.pw:80/fernando01/01fernando/54986
 #EXTINF:-1,DAZN 4 HD
 http://natv.pw:80/fernando01/01fernando/54995
-#EXTINF:-1,DAZN 5 4K
-http://natv.pw:80/fernando01/01fernando/54989
 #EXTINF:-1,DAZN 5 FHD
 http://natv.pw:80/fernando01/01fernando/54990
 #EXTINF:-1,DAZN 5 HD
 http://natv.pw:80/fernando01/01fernando/54991
-#EXTINF:-1,DAZN 6 4K
-http://natv.pw:80/fernando01/01fernando/54993
 #EXTINF:-1,DAZN 6 FHD
 http://natv.pw:80/fernando01/01fernando/54994
 #EXTINF:-1,DAZN 6 HD
 http://natv.pw:80/fernando01/01fernando/54987
-#EXTINF:-1,COMBATE 4K
-http://natv.pw:80/fernando01/01fernando/18474
 #EXTINF:-1,COMBATE FHD
 http://natv.pw:80/fernando01/01fernando/2232
 #EXTINF:-1,COMBATE FHD H265
@@ -332,8 +296,6 @@ https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1, ANIM NATURE HD
 http://200.194.238.236:5000/play/a006/index.m3u8
-#EXTINF:-1,ANIMAL PLANET 4K
-http://natv.pw:80/fernando01/01fernando/18487
 #EXTINF:-1,ANIMAL PLANET FHD
 http://natv.pw:80/fernando01/01fernando/2241
 #EXTINF:-1,ANIMAL PLANET FHD H265 DUAL AUDIO
@@ -358,8 +320,6 @@ http://natv.pw:80/fernando01/01fernando/18638
 http://natv.pw:80/fernando01/01fernando/2002
 #EXTINF:-1,COMEDY CENTRAL HD²
 http://natv.pw:80/fernando01/01fernando/18639
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://natv.pw:80/fernando01/01fernando/18484
 #EXTINF:-1,DISCOVERY CHANNEL FHD
 http://natv.pw:80/fernando01/01fernando/2165
 #EXTINF:-1,DISCOVERY CHANNEL FHD H265 DUAL AUDIO
@@ -370,8 +330,6 @@ http://natv.pw:80/fernando01/01fernando/18514
 http://natv.pw:80/fernando01/01fernando/2000
 #EXTINF:-1,DISCOVERY CHANNEL HD²
 http://natv.pw:80/fernando01/01fernando/18292
-#EXTINF:-1,DISCOVERY H&H 4K
-http://natv.pw:80/fernando01/01fernando/56001
 #EXTINF:-1,DISCOVERY H&H FHD
 http://natv.pw:80/fernando01/01fernando/2178
 #EXTINF:-1,DISCOVERY H&H FHD H265
@@ -494,20 +452,14 @@ http://natv.pw:80/fernando01/01fernando/48664
 http://natv.pw:80/fernando01/01fernando/18280
 #EXTINF:-1,FOOD NETWORK FHD
 http://natv.pw:80/fernando01/01fernando/2159
-#EXTINF:-1,FX 4K
-http://natv.pw:80/fernando01/01fernando/61000
 #EXTINF:-1,FX FHD
 http://natv.pw:80/fernando01/01fernando/2219
-#EXTINF:-1,GNT 4K
-http://natv.pw:80/fernando01/01fernando/61001
 #EXTINF:-1,GNT FHD
 http://natv.pw:80/fernando01/01fernando/2212
 #EXTINF:-1,GNT H265
 http://natv.pw:80/fernando01/01fernando/60455
 #EXTINF:-1,GNT HD
 http://natv.pw:80/fernando01/01fernando/1970
-#EXTINF:-1,H2 4K
-http://natv.pw:80/fernando01/01fernando/56003
 #EXTINF:-1,H2 FHD
 http://natv.pw:80/fernando01/01fernando/2211
 #EXTINF:-1,H2 FHD H265
@@ -516,14 +468,8 @@ http://natv.pw:80/fernando01/01fernando/48685
 http://natv.pw:80/fernando01/01fernando/18769
 #EXTINF:-1,H2 HD
 http://natv.pw:80/fernando01/01fernando/1969
-#EXTINF:-1,HBO 2 4K
-http://natv.pw:80/fernando01/01fernando/61005
 #EXTINF:-1,HBO 2 FHD H265
 http://natv.pw:80/fernando01/01fernando/48683
-#EXTINF:-1,HBO 4K
-http://natv.pw:80/fernando01/01fernando/25160
-#EXTINF:-1,HBO FAMILY 4K
-http://natv.pw:80/fernando01/01fernando/61003
 #EXTINF:-1,HBO FAMILY H265
 http://natv.pw:80/fernando01/01fernando/48679
 #EXTINF:-1,HBO FHD LEG
@@ -552,8 +498,6 @@ http://natv.pw:80/fernando01/01fernando/60422
 http://natv.pw:80/fernando01/01fernando/53220
 #EXTINF:-1,HBO SIGNATURE H265
 http://natv.pw:80/fernando01/01fernando/48682
-#EXTINF:-1,HBO XTREME 4K
-http://natv.pw:80/fernando01/01fernando/61004
 #EXTINF:-1,HBO XTREME FHD LEG
 http://natv.pw:80/fernando01/01fernando/60424
 #EXTINF:-1,HBO XTREME H265
@@ -564,8 +508,6 @@ http://natv.pw:80/fernando01/01fernando/60425
 http://natv.pw:80/fernando01/01fernando/53222
 #EXTINF:-1,HBO PLUS HD LEG
 http://natv.pw:80/fernando01/01fernando/60427
-#EXTINF:-1,HISTORY CHANNEL 4K
-http://natv.pw:80/fernando01/01fernando/56004
 #EXTINF:-1,HISTORY CHANNEL FHD
 http://natv.pw:80/fernando01/01fernando/2091
 #EXTINF:-1,HISTORY CHANNEL FHD²
@@ -598,10 +540,6 @@ http://natv.pw:80/fernando01/01fernando/63237
 http://natv.pw:80/fernando01/01fernando/2154
 #EXTINF:-1,MAIS GLOBOSAT HD
 http://natv.pw:80/fernando01/01fernando/1960
-#EXTINF:-1,MEGAPIX 4K
-http://natv.pw:80/fernando01/01fernando/53276
-#EXTINF:-1,MEGAPIX 4K
-http://natv.pw:80/fernando01/01fernando/18491
 #EXTINF:-1,MEGAPIX FHD
 http://natv.pw:80/fernando01/01fernando/2205
 #EXTINF:-1,MEGAPIX FHD H265
@@ -630,8 +568,6 @@ http://natv.pw:80/fernando01/01fernando/18806
 http://natv.pw:80/fernando01/01fernando/2150
 #EXTINF:-1,MTV LIVE HD
 http://natv.pw:80/fernando01/01fernando/18297
-#EXTINF:-1,MULTISHOW 4K
-http://natv.pw:80/fernando01/01fernando/18489
 #EXTINF:-1,MULTISHOW FHD
 http://natv.pw:80/fernando01/01fernando/2204
 #EXTINF:-1,MULTISHOW FHD H265
@@ -654,8 +590,6 @@ http://natv.pw:80/fernando01/01fernando/18811
 http://natv.pw:80/fernando01/01fernando/18813
 #EXTINF:-1,NATIONAL GEO WILD HD
 http://natv.pw:80/fernando01/01fernando/1953
-#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
-http://natv.pw:80/fernando01/01fernando/18490
 #EXTINF:-1,NATIONAL GEOGRAPHIC FHD H265
 http://natv.pw:80/fernando01/01fernando/48693
 #EXTINF:-1,NATIONAL GEO KIDS FHD H265
@@ -744,8 +678,6 @@ http://natv.pw:80/fernando01/01fernando/2185
 http://natv.pw:80/fernando01/01fernando/18888
 #EXTINF:-1,TNT HD²
 http://natv.pw:80/fernando01/01fernando/18889
-#EXTINF:-1,TNT SERIES 4K
-http://natv.pw:80/fernando01/01fernando/18492
 #EXTINF:-1,TNT SERIES FHD
 http://natv.pw:80/fernando01/01fernando/2184
 #EXTINF:-1,TNT SERIES FHD H265
@@ -768,8 +700,6 @@ http://natv.pw:80/fernando01/01fernando/18825
 http://natv.pw:80/fernando01/01fernando/1948
 #EXTINF:-1,PLAYKIDS HD
 http://natv.pw:80/fernando01/01fernando/41787
-#EXTINF:-1,STAR CHANNEL 4K
-http://natv.pw:80/fernando01/01fernando/53275
 #EXTINF:-1,STAR CHANNEL FHD
 http://natv.pw:80/fernando01/01fernando/2221
 #EXTINF:-1,STAR CHANNEL FHD LEG
@@ -856,12 +786,8 @@ http://natv.pw:80/fernando01/01fernando/18509
 http://natv.pw:80/fernando01/01fernando/2233
 #EXTINF:-1,CANAL SONY HD
 http://natv.pw:80/fernando01/01fernando/2006
-#EXTINF:-1,CARTOON 4K
-http://natv.pw:80/fernando01/01fernando/18488
 #EXTINF:-1,CARTOON NETWORK FHD
 http://natv.pw:80/fernando01/01fernando/2168
-#EXTINF:-1,A&E 4K
-http://natv.pw:80/fernando01/01fernando/60990
 #EXTINF:-1,A&E FHD
 http://natv.pw:80/fernando01/01fernando/18398
 #EXTINF:-1,A&E FHD H265 DUAL AUDIO
@@ -870,8 +796,6 @@ http://natv.pw:80/fernando01/01fernando/19051
 http://natv.pw:80/fernando01/01fernando/2243
 #EXTINF:-1,A&E HD
 http://natv.pw:80/fernando01/01fernando/2017
-#EXTINF:-1,AMC 4K
-http://natv.pw:80/fernando01/01fernando/60989
 #EXTINF:-1,AMC FHD
 http://natv.pw:80/fernando01/01fernando/2242
 #EXTINF:-1,AMC FHD H265 DUAL AUDIO
@@ -886,8 +810,6 @@ http://natv.pw:80/fernando01/01fernando/60450
 http://natv.pw:80/fernando01/01fernando/2014
 #EXTINF:-1,ARTE 1 HD²
 http://natv.pw:80/fernando01/01fernando/18602
-#EXTINF:-1,AXN 4K 
-http://natv.pw:80/fernando01/01fernando/60991
 #EXTINF:-1,AXN FHD
 http://natv.pw:80/fernando01/01fernando/19055
 #EXTINF:-1,AXN FHD H265
@@ -922,8 +844,6 @@ http://natv.pw:80/fernando01/01fernando/18585
 http://natv.pw:80/fernando01/01fernando/60460
 #EXTINF:-1,VIVA HD
 http://natv.pw:80/fernando01/01fernando/1919
-#EXTINF:-1,WARNER CHANNEL 4K
-http://natv.pw:80/fernando01/01fernando/61006
 #EXTINF:-1,WARNER CHANNEL FHD
 http://natv.pw:80/fernando01/01fernando/2180
 #EXTINF:-1,WARNER CHANNEL FHD H265
