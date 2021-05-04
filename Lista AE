@@ -4,42 +4,22 @@
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1,GLOBO RJ HD 2
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,GLOBO SP FHD
-http://cmsppv.life:80/336207/336207/530951
-#EXTINF:-1,GLOBO MINAS HD
-http://cmsppv.life:80/336207/336207/531035
-#EXTINF:-1,GLOBO NATAL HD
-http://cmsppv.life:80/336207/336207/531032
 #EXTINF:-1,BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1,BAND HD 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,BAND CLOSED CAPTION FHD*
-http://cmsppv.life:80/336207/336207/532848
-#EXTINF:-1,BAND CLOSED CAPTION HD*
-http://cmsppv.life:80/336207/336207/532847
-#EXTINF:-1,RECORD FHD
-http://cmsppv.life:80/336207/336207/531454
 #EXTINF:-1,Record SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1,Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,RECORD RIO HD
-http://cmsppv.life:80/336207/336207/531445
 #EXTINF:-1, TV ARAPUAN HD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
 #EXTINF:-1, TV ARAPUAN FHD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan_all/playlist.m3u8?IMDSFULL
-#EXTINF:-1,REDE TV FHD
-http://cmsppv.life:80/336207/336207/532412
 #EXTINF:-1, REDE TV HD
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1,SBT FHD
-http://cmsppv.life:80/336207/336207/531430
-#EXTINF:-1, SBT ND HD
-http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/17753
 #EXTINF:-1,SBT PI
 http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,SBT PE
@@ -48,288 +28,36 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_slen
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1,TV FUTURO
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1,BAND NEWS FHD
-http://cmsppv.life:80/336207/336207/531918
-#EXTINF:-1,BAND NEWS FHD*
-http://cmsppv.life:80/336207/336207/532507
-#EXTINF:-1,GLOBO NEWS FHD
-http://cmsppv.life:80/336207/336207/531900
-#EXTINF:-1,RECORD NEWS FHD
-http://cmsppv.life:80/336207/336207/532475
 #EXTINF:-1, RECORD NEWS HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1,BAND SPORTS FHD
-http://cmsppv.life:80/336207/336207/531273
-#EXTINF:-1,BAND SPORTS FHD*
-http://cmsppv.life:80/336207/336207/532506
-#EXTINF:-1,BAND SPORTS H265
-http://cmsppv.life:80/336207/336207/531272
-#EXTINF:-1,BAND SPORTS HD
-http://cmsppv.life:80/336207/336207/531271
-#EXTINF:-1,BAND SPORTS HD DUAL
-http://cmsppv.life:80/336207/336207/531732
-#EXTINF:-1,BAND SPORTS HD*
-http://cmsppv.life:80/336207/336207/532746
-#EXTINF:-1,COMBATE 4K
-http://cmsppv.life:80/336207/336207/532149
-#EXTINF:-1,COMBATE FHD
-http://cmsppv.life:80/336207/336207/531263
-#EXTINF:-1,COMBATE FHD*
-http://cmsppv.life:80/336207/336207/532504
-#EXTINF:-1,COMBATE FHD* H265
-http://cmsppv.life:80/336207/336207/532947
-#EXTINF:-1,COMBATE H265
-http://cmsppv.life:80/336207/336207/531262
-#EXTINF:-1,COMBATE HD
-http://cmsppv.life:80/336207/336207/531261
-#EXTINF:-1,COMBATE HD DUAL
-http://cmsppv.life:80/336207/336207/531725
-#EXTINF:-1,COMBATE HD*
-http://cmsppv.life:80/336207/336207/532733
-#EXTINF:-1,PREMIERE CLUBE FHD
-http://cmsppv.life:80/336207/336207/532835
 #EXTINF:-1,PREMIERE CLUBES HD*
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/23164
-#EXTINF:-1,PREMIERE 2 FHD
-http://cmsppv.life:80/336207/336207/531862
-#EXTINF:-1,PREMIERE 2 HD
-http://cmsppv.life:80/336207/336207/531860
 #EXTINF:-1,PREMIERE 2*
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24268
-#EXTINF:-1,PREMIERE 3 FHD
-http://cmsppv.life:80/336207/336207/531857
-#EXTINF:-1,PREMIERE 3 HD
-http://cmsppv.life:80/336207/336207/531855
-#EXTINF:-1,PREMIERE 4 FHD
-http://cmsppv.life:80/336207/336207/531852
-#EXTINF:-1,PREMIERE 4 HD
-http://cmsppv.life:80/336207/336207/531850
 #EXTINF:-1,PREMIERE 4 HD*
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24270
-#EXTINF:-1,PREMIERE 5 FHD
-http://cmsppv.life:80/336207/336207/531847
-#EXTINF:-1,PREMIERE 5 HD
-http://cmsppv.life:80/336207/336207/531845
-#EXTINF:-1,PREMIERE 6 FHD
-http://cmsppv.life:80/336207/336207/531842
-#EXTINF:-1,PREMIERE 6 HD
-http://cmsppv.life:80/336207/336207/531840
-#EXTINF:-1,PREMIERE 7 FHD
-http://cmsppv.life:80/336207/336207/531837
-#EXTINF:-1,PREMIERE 7 HD
-http://cmsppv.life:80/336207/336207/531835
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://cmsppv.life:80/336207/336207/531832
-#EXTINF:-1,PREMIERE CLUBES HD
-http://cmsppv.life:80/336207/336207/531830
-#EXTINF:-1,SPORTV FHD
-http://cmsppv.life:80/336207/336207/531175
-#EXTINF:-1,SPORTV FHD*
-http://cmsppv.life:80/336207/336207/532483
-#EXTINF:-1,SPORTV HD
-http://cmsppv.life:80/336207/336207/531173
-#EXTINF:-1,SPORTV HD*
-http://cmsppv.life:80/336207/336207/532519
-#EXTINF:-1,SPORTV 2 FHD
-http://cmsppv.life:80/336207/336207/531184
-#EXTINF:-1,SPORTV 2 FHD*
-http://cmsppv.life:80/336207/336207/532481
-#EXTINF:-1,SPORTV 2 HD
-http://cmsppv.life:80/336207/336207/531182
-#EXTINF:-1,SPORTV 3 FHD
-http://cmsppv.life:80/336207/336207/531179
-#EXTINF:-1,SPORTV 3 HD
-http://cmsppv.life:80/336207/336207/531177
-#EXTINF:-1,SPORTV HD* 2
-http://cmsppv.life:80/336207/336207/532518
-#EXTINF:-1,SPORTV HD* 3
-http://cmsppv.life:80/336207/336207/532517
 #EXTINF:-1, Estádio TNT SPORTS HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,ESTADIO TNT HD*
-http://cmsppv.life:80/336207/336207/532705
-#EXTINF:-1,ESTADIO TNT HD*
-http://cmsppv.life:80/336207/336207/532695
-#EXTINF:-1,ESTADIO TNT 3 FHD*
-http://cmsppv.life:80/336207/336207/532398
-#EXTINF:-1,ESTADIO TNT 4 FHD*
-http://cmsppv.life:80/336207/336207/532397
-#EXTINF:-1,TNT SPORTS HD
-http://cmsppv.life:80/336207/336207/531156
-#EXTINF:-1,TNT SPORTS 2 HD
-http://cmsppv.life:80/336207/336207/531169
-#EXTINF:-1,TNT SPORTS 3 HD
-http://cmsppv.life:80/336207/336207/531167
-#EXTINF:-1,TNT SPORTS 4 HD
-http://cmsppv.life:80/336207/336207/531166
-#EXTINF:-1,TNT SPORTS 5 HD
-http://cmsppv.life:80/336207/336207/531164
-#EXTINF:-1,TNT SPORTS 6 HD
-http://cmsppv.life:80/336207/336207/531162
-#EXTINF:-1,TNT SPORTS 7 HD
-http://cmsppv.life:80/336207/336207/531160
-#EXTINF:-1,TNT SPORTS 8 HD
-http://cmsppv.life:80/336207/336207/531158
-#EXTINF:-1,ESPORTE INTERATIVO HD
-http://cmsppv.life:80/336207/336207/531211
-#EXTINF:-1,FACEBOOK HD* 1
-http://cmsppv.life:80/336207/336207/532673
-#EXTINF:-1,FACEBOOK HD* 2
-http://cmsppv.life:80/336207/336207/532672
-#EXTINF:-1,STAR FHD*
-http://cmsppv.life:80/336207/336207/532500
-#EXTINF:-1,STAR HD*
-http://cmsppv.life:80/336207/336207/532539
-#EXTINF:-1,ONEFOOTBALL FHD
-http://cmsppv.life:80/336207/336207/531148
-#EXTINF:-1, CARIOCA HD 1
-http://cmsppv.life/live/336207/336207/532665.m3u8
-#EXTINF:-1, CARIOCA HD 2
-http://cmsppv.life/live/336207/336207/532399.m3u8
-#EXTINF:-1, CARIOCA HD 3
-http://cmsppv.life/live/336207/336207/531266.m3u8
-#EXTINF:-1,CARIOCÃO HD 4
-http://cmsppv.life:80/336207/336207/531267
-#EXTINF:-1,CARIOCÃO HD 4
-http://cmsppv.life:80/336207/336207/531266
-#EXTINF:-1,CARIOCÃO HD 6
-http://cmsppv.life:80/336207/336207/531265
-#EXTINF:-1,CONMEBOL 1  4K $
-http://cmsppv.life:80/336207/336207/532127
-#EXTINF:-1,CONMEBOL 1 FHD
-http://cmsppv.life:80/336207/336207/531258
-#EXTINF:-1,CONMEBOL 1 FHD*
-http://cmsppv.life:80/336207/336207/532401
-#EXTINF:-1,CONMEBOL 2 FHD
-http://cmsppv.life:80/336207/336207/531256
-#EXTINF:-1,CONMEBOL 3 FHD
-http://cmsppv.life:80/336207/336207/531254
-#EXTINF:-1,CONMEBOL 4 FHD
-http://cmsppv.life:80/336207/336207/531252
-#EXTINF:-1,CONMEBOL FHD* 2
-http://cmsppv.life:80/336207/336207/532682
-#EXTINF:-1,CONMEBOL FHD* 3
-http://cmsppv.life:80/336207/336207/532684
-#EXTINF:-1,CONMEBOL FHD* 4
-http://cmsppv.life:80/336207/336207/532683
-#EXTINF:-1,CONMEBOL HD* 1
-http://cmsppv.life:80/336207/336207/532680
-#EXTINF:-1,CONMEBOL HD* 2
-http://cmsppv.life:80/336207/336207/532681
-#EXTINF:-1,CONMEBOL HD* 3
-http://cmsppv.life:80/336207/336207/532679
-#EXTINF:-1,CONMEBOL HD* 4
-http://cmsppv.life:80/336207/336207/532678
-#EXTINF:-1,COPA CATARINENSE 2 HD
-http://cmsppv.life:80/336207/336207/531249
-#EXTINF:-1,COPA CATARINENSE 3 HD
-http://cmsppv.life:80/336207/336207/531247
-#EXTINF:-1,COPA CATARINENSE 4 HD
-http://cmsppv.life:80/336207/336207/531245
-#EXTINF:-1,COPA CATARINENSE 5 HD
-http://cmsppv.life:80/336207/336207/531146
-#EXTINF:-1,COPA CATARINENSE HD
-http://cmsppv.life:80/336207/336207/531244
-#EXTINF:-1,COPA DO NORDESTE 2 HD
-http://cmsppv.life:80/336207/336207/531241
-#EXTINF:-1,COPA DO NORDESTE 3 HD
-http://cmsppv.life:80/336207/336207/531239
-#EXTINF:-1,COPA DO NORDESTE 4 HD
-http://cmsppv.life:80/336207/336207/530901
-#EXTINF:-1,COPA DO NORDESTE 5 HD
-http://cmsppv.life:80/336207/336207/531152
-#EXTINF:-1,COPA DO NORDESTE 6 HD
-http://cmsppv.life:80/336207/336207/531150
-#EXTINF:-1,COPA DO NORDESTE 7 HD
-http://cmsppv.life:80/336207/336207/531154
-#EXTINF:-1,COPA DO NORDESTE HD
-http://cmsppv.life:80/336207/336207/531238
-#EXTINF:-1,COPA DO NORDESTE HD* 1
-http://cmsppv.life:80/336207/336207/532668
-#EXTINF:-1,COPA DO NORDESTE HD* 2
-http://cmsppv.life:80/336207/336207/532667
-#EXTINF:-1,CURTA! FHD
-http://cmsppv.life:80/336207/336207/531364
-#EXTINF:-1,CURTA! H265
-http://cmsppv.life:80/336207/336207/531363
-#EXTINF:-1,CURTA! HD
-http://cmsppv.life:80/336207/336207/531362
-#EXTINF:-1,CURTA! HD DUAL
-http://cmsppv.life:80/336207/336207/531723
-#EXTINF:-1,DAZN FHD
-http://cmsppv.life:80/336207/336207/531237
-#EXTINF:-1,DAZN FHD
-http://cmsppv.life:80/336207/336207/531235
-#EXTINF:-1,DAZN HD
-http://cmsppv.life:80/336207/336207/531234
-#EXTINF:-1,DAZN HD *
-http://cmsppv.life:80/336207/336207/532966
-#EXTINF:-1,ESPN BRASIL FHD¹
-http://cmsppv.life:80/336207/336207/531225
-#EXTINF:-1,ESPN BRASIL FHD²
-http://cmsppv.life:80/336207/336207/532953
-#EXTINF:-1,ESPN BRASIL HD¹
-http://cmsppv.life:80/336207/336207/531223
-#EXTINF:-1,ESPN BRASIL HD²
-http://cmsppv.life:80/336207/336207/532687
 #EXTINF:-1,ESPN Brasil HD*
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN Brasil HD*
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 #EXTINF:-1,ESPN Brasil HD*
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN FHD
-http://cmsppv.life:80/336207/336207/531216
-#EXTINF:-1,ESPN FHD*
-http://cmsppv.life:80/336207/336207/532417
-#EXTINF:-1,ESPN HD
-http://cmsppv.life:80/336207/336207/531214
 #EXTINF:-1,ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
 #EXTINF:-1,ESPN HD¹
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN HD²
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN 2 FHD
-http://cmsppv.life:80/336207/336207/531230
-#EXTINF:-1,ESPN 2 FHD*
-http://cmsppv.life:80/336207/336207/532502
-#EXTINF:-1,ESPN 2 HD
-http://cmsppv.life:80/336207/336207/531228
 #EXTINF:-1,ESPN 2 HD¹
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN 2 HD²
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN EXTRA FHD
-http://cmsppv.life:80/336207/336207/531220
-#EXTINF:-1,ESPN EXTRA FHD*
-http://cmsppv.life:80/336207/336207/532464
-#EXTINF:-1,ESPN EXTRA HD
-http://cmsppv.life:80/336207/336207/531218
 #EXTINF:-1,ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ESPN Extra HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
-#EXTINF:-1,FOX SPORTS FHD
-http://cmsppv.life:80/336207/336207/531200
-#EXTINF:-1,FOX SPORTS FHD*
-http://cmsppv.life:80/336207/336207/532497
-#EXTINF:-1,FOX SPORTS HD
-http://cmsppv.life:80/336207/336207/531198
-#EXTINF:-1,FOX SPORTS HD*
-http://cmsppv.life:80/336207/336207/532748
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://cmsppv.life:80/336207/336207/531204
-#EXTINF:-1,FOX SPORTS 2 HD
-http://cmsppv.life:80/336207/336207/531202
-#EXTINF:-1,LIGA FUTSAL HD
-http://cmsppv.life:80/336207/336207/531193
-#EXTINF:-1,LIGA FUTSAL 2 HD
-http://cmsppv.life:80/336207/336207/531195
-#EXTINF:-1,Fish TV
-http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,AYSAR Fight Sports¹ Japan (LUTA)
-http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Woohoo
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1, RED BULL TV
@@ -338,24 +66,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?IMDSFULL
 #EXTINF:-1,Sport Russia
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,SPORT.TV 1 HD Portugal
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORT.TV 2 HD Portugal
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORT.TV 3 HD Portugal
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORT.TV 4 HD Portugal
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORT.TV 5 HD Portugal
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,100 Automoto HD
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,Auto Moto TV Bulgária
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,BT SPORT¹ HD R.Unido
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1,BT SPORT² HD R.Unido
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1,Viasat Sport HD
 http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Claro Sports
@@ -368,16 +82,10 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8?DVR
 #EXTINF:-1,EDGE Sport² - Reino Unido
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1,EUROCHANNEL FHD*
-http://cmsppv.life:80/336207/336207/532413
 #EXTINF:-1,Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1,EUROSPORT¹ HD R.Unido
-https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1,EUROSPORT¹ HD R.Unido
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
-#EXTINF:-1,EUROSPORT² HD R.Unido
-https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1,EUROSPORT² HD R.Unido
 http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 #EXTINF:-1,Eurosport¹ TV USA
@@ -396,522 +104,28 @@ http://188.35.9.11:21151/udp/193i
 https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
 #EXTINF:-1,One Golf HD USA
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1,TABELAS HD*
-http://cmsppv.life:80/336207/336207/532671
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://cmsppv.life:80/336207/336207/531814
-#EXTINF:-1,COMEDY CENTRAL H265
-http://cmsppv.life:80/336207/336207/531813
-#EXTINF:-1,COMEDY CENTRAL HD
-http://cmsppv.life:80/336207/336207/531812
-#EXTINF:-1,COMEDY FHD*
-http://cmsppv.life:80/336207/336207/532937
-#EXTINF:-1,COMEDY HD*
-http://cmsppv.life:80/336207/336207/532732
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://cmsppv.life:80/336207/336207/532147
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://cmsppv.life:80/336207/336207/531138
-#EXTINF:-1,DISCOVERY CHANNEL FHD*
-http://cmsppv.life:80/336207/336207/532441
-#EXTINF:-1,DISCOVERY CHANNEL FHD* H.265
-http://cmsppv.life:80/336207/336207/532935
-#EXTINF:-1,DISCOVERY CHANNEL H265
-http://cmsppv.life:80/336207/336207/531137
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://cmsppv.life:80/336207/336207/531136
-#EXTINF:-1,DISCOVERY H&H FHD
-http://cmsppv.life:80/336207/336207/531133
-#EXTINF:-1,DISCOVERY H&H FHD*
-http://cmsppv.life:80/336207/336207/532424
-#EXTINF:-1,DISCOVERY H&H HD
-http://cmsppv.life:80/336207/336207/531131
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://cmsppv.life:80/336207/336207/531539
-#EXTINF:-1,DISCOVERY KIDS FHD*
-http://cmsppv.life:80/336207/336207/5324698
-#EXTINF:-1,DISCOVERY KIDS HD
-http://cmsppv.life:80/336207/336207/531537
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://cmsppv.life:80/336207/336207/531128
-#EXTINF:-1,DISCOVERY SCIENCE FHD*
-http://cmsppv.life:80/336207/336207/532435
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://cmsppv.life:80/336207/336207/531126
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://cmsppv.life:80/336207/336207/531124
-#EXTINF:-1,DISCOVERY THEATER FHD*
-http://cmsppv.life:80/336207/336207/532470
-#EXTINF:-1,DISCOVERY THEATER HD
-http://cmsppv.life:80/336207/336207/531145
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://cmsppv.life:80/336207/336207/531120
-#EXTINF:-1,DISCOVERY TURBO FHD*
-http://cmsppv.life:80/336207/336207/532503
-#EXTINF:-1,DISCOVERY TURBO HD
-http://cmsppv.life:80/336207/336207/531118
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://cmsppv.life:80/336207/336207/531115
-#EXTINF:-1,DISCOVERY WORLD FHD*
-http://cmsppv.life:80/336207/336207/532468
-#EXTINF:-1,DISCOVERY WORLD HD
-http://cmsppv.life:80/336207/336207/531113
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://cmsppv.life:80/336207/336207/531534
-#EXTINF:-1,DISNEY CHANNEL FHD*
-http://cmsppv.life:80/336207/336207/532467
-#EXTINF:-1,DISNEY CHANNEL HD
-http://cmsppv.life:80/336207/336207/531532
-#EXTINF:-1,DISNEY JR FHD*
-http://cmsppv.life:80/336207/336207/532466
-#EXTINF:-1,DISNEY JR HD*
-http://cmsppv.life:80/336207/336207/532542
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://cmsppv.life:80/336207/336207/531529
-#EXTINF:-1,DISNEY JUNIOR HD
-http://cmsppv.life:80/336207/336207/531527
-#EXTINF:-1,DISNEY XD FHD
-http://cmsppv.life:80/336207/336207/531524
-#EXTINF:-1,DISNEY XD FHD*
-http://cmsppv.life:80/336207/336207/532465
-#EXTINF:-1,DISNEY XD HD
-http://cmsppv.life:80/336207/336207/531522
-#EXTINF:-1,DOGTV FHD
-http://cmsppv.life:80/336207/336207/531809
-#EXTINF:-1,DOGTV HD
-http://cmsppv.life:80/336207/336207/531808
 #EXTINF:-1, ANIM NATURE HD
 http://200.194.238.236:5000/play/a006/index.m3u8
-#EXTINF:-1,ANIMAL PLANET 4K
-http://cmsppv.life:80/336207/336207/532144
-#EXTINF:-1,ANIMAL PLANET FHD
-http://cmsppv.life:80/336207/336207/531143
-#EXTINF:-1,ANIMAL PLANET FHD*
-http://cmsppv.life:80/336207/336207/532510
-#EXTINF:-1,ANIMAL PLANET H265
-http://cmsppv.life:80/336207/336207/531142
-#EXTINF:-1,ANIMAL PLANET HD
-http://cmsppv.life:80/336207/336207/531141
-#EXTINF:-1,ANIMAL PLANET HD DUAL
-http://cmsppv.life:80/336207/336207/531737
-#EXTINF:-1,ANIMAL PLANET HD*
-http://cmsppv.life:80/336207/336207/532724
-#EXTINF:-1,Love Nature HD (Canadá)
-https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1,NASA TV USA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,NASA TV Media Channel USA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1,CHEFTV H265
-http://cmsppv.life:80/336207/336207/531817
-#EXTINF:-1,CHEFTV HD
-http://cmsppv.life:80/336207/336207/531816
-#EXTINF:-1,FOOD NETWORK FHD
-http://cmsppv.life:80/336207/336207/531801
-#EXTINF:-1,FOOD NETWORK FHD*
-http://cmsppv.life:80/336207/336207/532951
-#EXTINF:-1,HISTORY CHANNEL FHD
-http://cmsppv.life:80/336207/336207/531102
-#EXTINF:-1,HISTORY CHANNEL HD
-http://cmsppv.life:80/336207/336207/531100
-#EXTINF:-1,HISTORY FHD*
-http://cmsppv.life:80/336207/336207/532943
-#EXTINF:-1,HISTORY HD*
-http://cmsppv.life:80/336207/336207/532534
-#EXTINF:-1,HISTORY 2 FHD
-http://cmsppv.life:80/336207/336207/531107
-#EXTINF:-1,HISTORY 2 HD
-http://cmsppv.life:80/336207/336207/531105
-#EXTINF:-1,H2 FHD*
-http://cmsppv.life:80/336207/336207/532495
-#EXTINF:-1,H2 HD*
-http://cmsppv.life:80/336207/336207/532704
-#EXTINF:-1,NATGEO FHD
-http://cmsppv.life:80/336207/336207/531092
-#EXTINF:-1,NATGEO FHD*
-http://cmsppv.life:80/336207/336207/532491
-#EXTINF:-1,NATGEO HD
-http://cmsppv.life:80/336207/336207/531090
-#EXTINF:-1,NATGEO WILD FHD
-http://cmsppv.life:80/336207/336207/531088
-#EXTINF:-1,NATGEO WILD FHD*
-http://cmsppv.life:80/336207/336207/532457
-#EXTINF:-1,NATGEO WILD HD
-http://cmsppv.life:80/336207/336207/531086
-#EXTINF:-1,HGTV FHD
-http://cmsppv.life:80/336207/336207/531111
-#EXTINF:-1,HGTV FHD*
-http://cmsppv.life:80/336207/336207/532952
-#EXTINF:-1,ID FHD*
-http://cmsppv.life:80/336207/336207/532942
-#EXTINF:-1,ID HD*
-http://cmsppv.life:80/336207/336207/532707
-#EXTINF:-1,IDEAL TV FHD*
-http://cmsppv.life:80/336207/336207/532423
-#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD
-http://cmsppv.life:80/336207/336207/531097
-#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD
-http://cmsppv.life:80/336207/336207/531095
-#EXTINF:-1,LIFETIME FHD
-http://cmsppv.life:80/336207/336207/531791
-#EXTINF:-1,LIKE FHD
-http://cmsppv.life:80/336207/336207/531787
-#EXTINF:-1,MTV FHD
-http://cmsppv.life:80/336207/336207/531785
-#EXTINF:-1,MULTISHOW FHD
-http://cmsppv.life:80/336207/336207/531779
-#EXTINF:-1,MULTISHOW HD
-http://cmsppv.life:80/336207/336207/531777
 #EXTINF:-1,Multi Show HD 1
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 #EXTINF:-1,Multi Show HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-#EXTINF:-1,GNT FHD
-http://cmsppv.life:80/336207/336207/531796
-#EXTINF:-1,GNT HD
-http://cmsppv.life:80/336207/336207/531794
-#EXTINF:-1,OFF FHD
-http://cmsppv.life:80/336207/336207/531190
-#EXTINF:-1,OFF FHD*
-http://cmsppv.life:80/336207/336207/532429
-#EXTINF:-1,A&E FHD
-http://cmsppv.life:80/336207/336207/531393
-#EXTINF:-1,A&E FHD
-http://cmsppv.life:80/336207/336207/532933
-#EXTINF:-1,A&E H265
-http://cmsppv.life:80/336207/336207/531392
-#EXTINF:-1,A&E HD
-http://cmsppv.life:80/336207/336207/531391
-#EXTINF:-1,A&E HD
-http://cmsppv.life:80/336207/336207/532932
-#EXTINF:-1,A&E HD DUAL
-http://cmsppv.life:80/336207/336207/531739
-#EXTINF:-1,A&E HD H.265
-http://cmsppv.life:80/336207/336207/532946
-#EXTINF:-1,ARTE 1 FHD
-http://cmsppv.life:80/336207/336207/531827
-#EXTINF:-1,ARTE 1 FHD*
-http://cmsppv.life:80/336207/336207/532474
-#EXTINF:-1,ARTE 1 H265
-http://cmsppv.life:80/336207/336207/531826
-#EXTINF:-1,ARTE 1 HD
-http://cmsppv.life:80/336207/336207/531825
-#EXTINF:-1,ARTE 1 HD DUAL
-http://cmsppv.life:80/336207/336207/531736
-#EXTINF:-1,ARTE 1 HD*
-http://cmsppv.life:80/336207/336207/532739
-#EXTINF:-1,AXN FHD
-http://cmsppv.life:80/336207/336207/531385
-#EXTINF:-1,AXN FHD
-http://cmsppv.life:80/336207/336207/532509
-#EXTINF:-1,AXN H265
-http://cmsppv.life:80/336207/336207/531384
-#EXTINF:-1,AXN HD
-http://cmsppv.life:80/336207/336207/531383
-#EXTINF:-1,AXN HD
-http://cmsppv.life:80/336207/336207/532742
-#EXTINF:-1,AXN HD DUAL
-http://cmsppv.life:80/336207/336207/531735
-#EXTINF:-1,BIS H265
-http://cmsppv.life:80/336207/336207/531821
-#EXTINF:-1,BIS HD
-http://cmsppv.life:80/336207/336207/531820
-#EXTINF:-1,BIS HD DUAL
-http://cmsppv.life:80/336207/336207/531731
-#EXTINF:-1,BOOMBERANG FHD*
-http://cmsppv.life:80/336207/336207/532473
-#EXTINF:-1,BOOMBERANG HD*
-http://cmsppv.life:80/336207/336207/532545
-#EXTINF:-1,CARTOON 4K
-http://cmsppv.life:80/336207/336207/532141
-#EXTINF:-1,CARTOON HD*
-http://cmsppv.life:80/336207/336207/532735
-#EXTINF:-1,CARTOON NETWORK FHD
-http://cmsppv.life:80/336207/336207/531544
-#EXTINF:-1,CARTOON NETWORK FHD*
-http://cmsppv.life:80/336207/336207/532505
-#EXTINF:-1,CARTOON NETWORK H265
-http://cmsppv.life:80/336207/336207/531543
-#EXTINF:-1,CARTOON NETWORK HD
-http://cmsppv.life:80/336207/336207/531542
-#EXTINF:-1,CARTOON NETWORK HD DUAL
-http://cmsppv.life:80/336207/336207/531727
-#EXTINF:-1,CINE SKY 1
-http://cmsppv.life:80/336207/336207/532900
-#EXTINF:-1,CINE SKY 2
-http://cmsppv.life:80/336207/336207/532899
-#EXTINF:-1,CINE SKY 3
-http://cmsppv.life:80/336207/336207/532898
-#EXTINF:-1,CINE SKY 4
-http://cmsppv.life:80/336207/336207/532897
-#EXTINF:-1,CINE SKY 5
-http://cmsppv.life:80/336207/336207/532896
-#EXTINF:-1,CINE SKY  6
-http://cmsppv.life:80/336207/336207/532895
-#EXTINF:-1,CINE SKY 7
-http://cmsppv.life:80/336207/336207/532894
-#EXTINF:-1,CINEMAX FHD
-http://cmsppv.life:80/336207/336207/531369
-#EXTINF:-1,CINEMAX FHD
-http://cmsppv.life:80/336207/336207/532471
-#EXTINF:-1,CINEMAX H265
-http://cmsppv.life:80/336207/336207/531368
-#EXTINF:-1,CINEMAX HD
-http://cmsppv.life:80/336207/336207/531367
-#EXTINF:-1,CINEMAX HD
-http://cmsppv.life:80/336207/336207/532734
-#EXTINF:-1,CINEMAX HD DUAL
-http://cmsppv.life:80/336207/336207/531726
-#EXTINF:-1,E! FHD
-http://cmsppv.life:80/336207/336207/531806
-#EXTINF:-1,E! H265
-http://cmsppv.life:80/336207/336207/531805
-#EXTINF:-1,E! HD
-http://cmsppv.life:80/336207/336207/531804
-#EXTINF:-1,FX FHD
-http://cmsppv.life:80/336207/336207/531357
-#EXTINF:-1,FX FHD*
-http://cmsppv.life:80/336207/336207/532463
-#EXTINF:-1,HBO FHD
-http://cmsppv.life:80/336207/336207/531010
-#EXTINF:-1,HBO FHD*
-http://cmsppv.life:80/336207/336207/532414
-#EXTINF:-1,HBO HD
-http://cmsppv.life:80/336207/336207/531006
-#EXTINF:-1,HBO HD
-http://cmsppv.life:80/336207/336207/532907
-#EXTINF:-1,HBO + FHD*
-http://cmsppv.life:80/336207/336207/532493
-#EXTINF:-1,HBO + HD*
-http://cmsppv.life:80/336207/336207/532535
-#EXTINF:-1,HBO 2 FHD
-http://cmsppv.life:80/336207/336207/532494
-#EXTINF:-1,HBO 2 HD
-http://cmsppv.life:80/336207/336207/532536
-#EXTINF:-1,HBO2 FHD
-http://cmsppv.life:80/336207/336207/530956
-#EXTINF:-1,HBO2 HD
-http://cmsppv.life:80/336207/336207/530952
-#EXTINF:-1,HBO FAMILY FHD
-http://cmsppv.life:80/336207/336207/531018
-#EXTINF:-1,HBO FAMILY FHD*
-http://cmsppv.life:80/336207/336207/532437
-#EXTINF:-1,HBO FAMILY HD
-http://cmsppv.life:80/336207/336207/531014
-#EXTINF:-1,HBO MUNDI FHD
-http://cmsppv.life:80/336207/336207/531002
-#EXTINF:-1,HBO MUNDI HD
-http://cmsppv.life:80/336207/336207/530998
-#EXTINF:-1,HBO MUNDI HD* LEG
-http://cmsppv.life:80/336207/336207/532903
-#EXTINF:-1,HBO POP FHD
-http://cmsppv.life:80/336207/336207/530991
-#EXTINF:-1,HBO POP HD
-http://cmsppv.life:80/336207/336207/530987
-#EXTINF:-1,HBO SIGNATURE FHD
-http://cmsppv.life:80/336207/336207/530981
-#EXTINF:-1,HBO SIGNATURE HD
-http://cmsppv.life:80/336207/336207/530977
-#EXTINF:-1,HBO XTREME FHD
-http://cmsppv.life:80/336207/336207/530971
-#EXTINF:-1,HBO XTREME HD
-http://cmsppv.life:80/336207/336207/530967
-#EXTINF:-1,HBO+ FHD
-http://cmsppv.life:80/336207/336207/530963
-#EXTINF:-1,HBO+ HD
-http://cmsppv.life:80/336207/336207/530961
-#EXTINF:-1,MEGA PIX FHD*
-http://cmsppv.life:80/336207/336207/532416
-#EXTINF:-1,MEGA PIX HD*
-http://cmsppv.life:80/336207/336207/532718
-#EXTINF:-1,MEGA TV FHD*
-http://cmsppv.life:80/336207/336207/532422
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://cmsppv.life:80/336207/336207/531342
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://cmsppv.life:80/336207/336207/531340
-#EXTINF:-1,STAR CHANNEL FHD
-http://cmsppv.life:80/336207/336207/531332
-#EXTINF:-1,STAR CHANNEL FHD*
-http://cmsppv.life:80/336207/336207/532501
-#EXTINF:-1,STAR CHANNEL HD
-http://cmsppv.life:80/336207/336207/531330
-#EXTINF:-1,STAR CHANNEL HD*
-http://cmsppv.life:80/336207/336207/532701
-#EXTINF:-1,STAR HITS  HD*
-http://cmsppv.life:80/336207/336207/532904
-#EXTINF:-1,STAR HITS 1 FHD
-http://cmsppv.life:80/336207/336207/531327
-#EXTINF:-1,STAR HITS 1 HD
-http://cmsppv.life:80/336207/336207/531325
-#EXTINF:-1,STAR HITS 2 FHD
-http://cmsppv.life:80/336207/336207/531322
-#EXTINF:-1,STAR HITS 2 HD
-http://cmsppv.life:80/336207/336207/531320
-#EXTINF:-1,STAR LIFE FHD
-http://cmsppv.life:80/336207/336207/531317
-#EXTINF:-1,STAR LIFE HD
-http://cmsppv.life:80/336207/336207/531315
-#EXTINF:-1,STUDIO UNIVERSAL   HD*
-http://cmsppv.life:80/336207/336207/532688
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://cmsppv.life:80/336207/336207/531312
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://cmsppv.life:80/336207/336207/531310
-#EXTINF:-1,SYFY  FHD* LEG
-http://cmsppv.life:80/336207/336207/532911
-#EXTINF:-1,SYFY FHD
-http://cmsppv.life:80/336207/336207/531307
-#EXTINF:-1,SYFY FHD*
-http://cmsppv.life:80/336207/336207/532448
-#EXTINF:-1,SYFY HD
-http://cmsppv.life:80/336207/336207/531305
-#EXTINF:-1,TBS FHD
-http://cmsppv.life:80/336207/336207/531302
-#EXTINF:-1,TBS HD
-http://cmsppv.life:80/336207/336207/531300
-#EXTINF:-1,TCM H265
-http://cmsppv.life:80/336207/336207/531297
-#EXTINF:-1,TCM HD
-http://cmsppv.life:80/336207/336207/531296
-#EXTINF:-1,TELECINE ACTION FHD
-http://cmsppv.life:80/336207/336207/531892
-#EXTINF:-1,TELECINE ACTION HD
-http://cmsppv.life:80/336207/336207/531890
-#EXTINF:-1,TELECINE CULT FHD
-http://cmsppv.life:80/336207/336207/5318876
-#EXTINF:-1,TELECINE CULT HD
-http://cmsppv.life:80/336207/336207/531885
-#EXTINF:-1,TELECINE FUN FHD
-http://cmsppv.life:80/336207/336207/531882
-#EXTINF:-1,TELECINE FUN HD
-http://cmsppv.life:80/336207/336207/531880
-#EXTINF:-1,TELECINE PIPOCA  FHD*
-http://cmsppv.life:80/336207/336207/532486
-#EXTINF:-1,TELECINE PIPOCA FHD
-http://cmsppv.life:80/336207/336207/5318776
-#EXTINF:-1,TELECINE PIPOCA HD
-http://cmsppv.life:80/336207/336207/531875
-#EXTINF:-1,TELECINE PIPOCA HD*
-http://cmsppv.life:80/336207/336207/5325134
-#EXTINF:-1,TELECINE PREMIUM FHD
-http://cmsppv.life:80/336207/336207/531872
-#EXTINF:-1,TELECINE PREMIUM FHD*
-http://cmsppv.life:80/336207/336207/5324871
-#EXTINF:-1,TELECINE PREMIUM HD
-http://cmsppv.life:80/336207/336207/531870
-#EXTINF:-1,TELECINE TOUCH FHD
-http://cmsppv.life:80/336207/336207/531867
-#EXTINF:-1,TELECINE TOUCH HD
-http://cmsppv.life:80/336207/336207/531865
-#EXTINF:-1,TLC FHD
-http://cmsppv.life:80/336207/336207/531763
-#EXTINF:-1,TLC FHD*
-http://cmsppv.life:80/336207/336207/532434
-#EXTINF:-1,TNT FHD
-http://cmsppv.life:80/336207/336207/531293
-#EXTINF:-1,TNT HD
-http://cmsppv.life:80/336207/336207/531291
-#EXTINF:-1,TNT SERIES FHD
-http://cmsppv.life:80/336207/336207/531290
-#EXTINF:-1,TNT SERIES HD*
-http://cmsppv.life:80/336207/336207/532754
-#EXTINF:-1,TOONCAST FHD
-http://cmsppv.life:80/336207/336207/531493
-#EXTINF:-1,TOONCAST HD
-http://cmsppv.life:80/336207/336207/531492
-#EXTINF:-1,TRACE BRAZUKA FHD*
-http://cmsppv.life:80/336207/336207/5324039
-#EXTINF:-1,TRAVEL BOX BRAZIL FHD
-http://cmsppv.life:80/336207/336207/531759
-#EXTINF:-1,TRAVEL BOX BRAZIL HD
-http://cmsppv.life:80/336207/336207/531758
-#EXTINF:-1,TRAVEL BOX FHD*
-http://cmsppv.life:80/336207/336207/532427
-#EXTINF:-1,TRUTV HD
-http://cmsppv.life:80/336207/336207/531081
-#EXTINF:-1,UNIVERSAL CHANNEL FHD* LEG
-http://cmsppv.life:80/336207/336207/532906
-#EXTINF:-1,UNIVERSAL CHANNEL HD*
-http://cmsppv.life:80/336207/336207/532905
-#EXTINF:-1,UNIVERSAL TV FHD
-http://cmsppv.life:80/336207/336207/531283
-#EXTINF:-1,UNIVERSAL TV HD
-http://cmsppv.life:80/336207/336207/531281
-#EXTINF:-1,VH1 FHD
-http://cmsppv.life:80/336207/336207/531753
-#EXTINF:-1,VH1 HD
-http://cmsppv.life:80/336207/336207/531752
-#EXTINF:-1,VIVA FHD
-http://cmsppv.life:80/336207/336207/531747
-#EXTINF:-1,VIVA FHD*
-http://cmsppv.life:80/336207/336207/532432
-#EXTINF:-1,VIVA HD
-http://cmsppv.life:80/336207/336207/531745
-#EXTINF:-1,VIVA HD DUAL
-http://cmsppv.life:80/336207/336207/531640
-#EXTINF:-1,VIVA HD*
-http://cmsppv.life:80/336207/336207/532677
-#EXTINF:-1,WARNER CHANNEL FHD
-http://cmsppv.life:80/336207/336207/531278
-#EXTINF:-1,WARNER CHANNEL HD
-http://cmsppv.life:80/336207/336207/531276
-#EXTINF:-1,WARNER CHANNEL HD* LEG
-http://cmsppv.life:80/336207/336207/532909
-#EXTINF:-1,WARNER CHANEL FHD* HEVC LEG
-http://cmsppv.life:80/336207/336207/532912
-#EXTINF:-1,WOHOO FHD*
-http://cmsppv.life:80/336207/336207/532431
-#EXTINF:-1,WOOHOO FHD
-http://cmsppv.life:80/336207/336207/531743
-#EXTINF:-1,WOOHOO HD
-http://cmsppv.life:80/336207/336207/531741
-#EXTINF:-1,ZOOMO FHD*
-http://cmsppv.life:80/336207/336207/532428
-#EXTINF:-1,ZOOMOO HD
-http://cmsppv.life:80/336207/336207/531484
 #EXTINF:-1,Filmes de TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
-#EXTINF:-1,MTV Brasil HD
-https://origin-02.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1,COREAN
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1,BABY TV HD
-http://cmsppv.life:80/336207/336207/531552
-#EXTINF:-1,BABY TV HD*
-http://cmsppv.life:80/336207/336207/532686
 #EXTINF:-1,KKIDS
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 #EXTINF:-1, DISNEY JR HD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 #EXTINF:-1,DISNEY XD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,GLOOB FHD
-http://cmsppv.life:80/336207/336207/531518
-#EXTINF:-1,GLOOB HD
-http://cmsppv.life:80/336207/336207/531516
-#EXTINF:-1,GLOOBINHO HD
-http://cmsppv.life:80/336207/336207/531513
-#EXTINF:-1,NATGEO KIDS FHD
-http://cmsppv.life:80/336207/336207/531508
-#EXTINF:-1,NATGEO KIDS FHD*
-http://cmsppv.life:80/336207/336207/532490
-#EXTINF:-1,NATGEO KIDS HD
-http://cmsppv.life:80/336207/336207/531506
-#EXTINF:-1,NHK WORLD HD*
-http://cmsppv.life:80/336207/336207/532747
-#EXTINF:-1,NICK JR  HD*
-http://cmsppv.life:80/336207/336207/532712
-#EXTINF:-1,NICK JR FHD
-http://cmsppv.life:80/336207/336207/531479
-#EXTINF:-1,NICKELODEON FHD
-http://cmsppv.life:80/336207/336207/531480
-#EXTINF:-1,NICKELODEON HD
-http://cmsppv.life:80/336207/336207/531498
 #EXTINF:-1,iptv_55
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
-#EXTINF:-1, Univision TUDN MX
-http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/18167
 #EXTINF:-1,Gospel Cartoon¹
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
 #EXTINF:-1,Gospel Movie Television (SP)
@@ -920,16 +134,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1,ONE HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1,REDE SUPER H265
-http://cmsppv.life:80/336207/336207/530902
-#EXTINF:-1,CANAL FUTURA HD
-http://cmsppv.life:80/336207/336207/531468
-#EXTINF:-1,CANAL PROMESSAS FHD
-http://cmsppv.life:80/336207/336207/531935
-#EXTINF:-1,CANAL SONY FHD
-http://cmsppv.life:80/336207/336207/531374
-#EXTINF:-1,CANAL SONY FHD
-http://cmsppv.life:80/336207/336207/532449
 #EXTINF:-1,FUTURA
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1,TOP TV
@@ -964,10 +168,6 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1620620002.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1,TV UNISUL
 https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
-#EXTINF:-1,CANAL SAÚDE
-https://cutt.ly/vldK967
-#EXTINF:-1,TV AMERICA MIX
-https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
 #EXTINF:-1, TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
 #EXTINF:-1, TV União
@@ -1122,63 +322,879 @@ http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1,AGRO MAIS
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1,BBB FHD 1 
-http://cmsppv.life:80/336207/336207/531079
-#EXTINF:-1,BBB 2 FHD
-http://cmsppv.life:80/336207/336207/532400
-#EXTINF:-1,BBB CAM 1 HD
-http://cmsppv.life:80/336207/336207/532924
-#EXTINF:-1,BBB CAM 2 HD
-http://cmsppv.life:80/336207/336207/532923
-#EXTINF:-1,BBB CAM 3 HD
-http://cmsppv.life:80/336207/336207/532922
-#EXTINF:-1,BBB CAM 4 HD
-http://cmsppv.life:80/336207/336207/532921
-#EXTINF:-1,BBB CAM 5 HD
-http://cmsppv.life:80/336207/336207/532920
-#EXTINF:-1,BBB CAM 6 HD
-http://cmsppv.life:80/336207/336207/532916
-#EXTINF:-1,BBB CAM 7 HD
-http://cmsppv.life:80/336207/336207/532915
-#EXTINF:-1,BBB CAM 8 HD
-http://cmsppv.life:80/336207/336207/532914
-#EXTINF:-1,BBB CAM 9 HD
-http://cmsppv.life:80/336207/336207/532913
-#EXTINF:-1,BBB FHD
-http://cmsppv.life:80/336207/336207/532929
-#EXTINF:-1,BBB HD
-http://cmsppv.life:80/336207/336207/532928
-#EXTINF:-1,BBB HD 
-http://cmsppv.life:80/336207/336207/532927
-#EXTINF:-1,BBB HD 1
-http://cmsppv.life:80/336207/336207/531067
-#EXTINF:-1,BBB HD 1 MOSAICO
-http://cmsppv.life:80/336207/336207/531066
-#EXTINF:-1,BBB HD 10
-http://cmsppv.life:80/336207/336207/531078
-#EXTINF:-1,BBB HD 11
-http://cmsppv.life:80/336207/336207/531077
-#EXTINF:-1,BBB HD 2
-http://cmsppv.life:80/336207/336207/531076
-#EXTINF:-1,BBB HD 3
-http://cmsppv.life:80/336207/336207/531075
-#EXTINF:-1,BBB HD 4
-http://cmsppv.life:80/336207/336207/531074
-#EXTINF:-1,BBB HD 5
-http://cmsppv.life:80/336207/336207/531073
-#EXTINF:-1,BBB HD 6
-http://cmsppv.life:80/336207/336207/531072
-#EXTINF:-1,BBB HD 7
-http://cmsppv.life:80/336207/336207/531071
-#EXTINF:-1,BBB HD 8
-http://cmsppv.life:80/336207/336207/531070
-#EXTINF:-1,BBB HD 9
-http://cmsppv.life:80/336207/336207/531069
-#EXTINF:-1,BBB MOSAICO FHD
-http://cmsppv.life:80/336207/336207/532926
-#EXTINF:-1,BBB MOSAICO HD
-http://cmsppv.life:80/336207/336207/532925
+#EXTINF:-1,BBB 2021 (MOSAICO)
+http://xsrv.me:8080/Leo123/Leo123/94812
+#EXTINF:-1,BBB 2021 (CAMERA 1)
+http://xsrv.me:8080/Leo123/Leo123/93814
+#EXTINF:-1,BBB 2021 (CAMERA 2)
+http://xsrv.me:8080/Leo123/Leo123/94811
+#EXTINF:-1,BBB 2021 (CAMERA 3)
+http://xsrv.me:8080/Leo123/Leo123/94858
+#EXTINF:-1,BBB 2021 (CAMERA 4)
+http://xsrv.me:8080/Leo123/Leo123/94859
+#EXTINF:-1,BBB 2021 (CAMERA 5)
+http://xsrv.me:8080/Leo123/Leo123/94860
+#EXTINF:-1,BBB 2021 (CAMERA 6)
+http://xsrv.me:8080/Leo123/Leo123/94861
+#EXTINF:-1,BBB 2021 (CAMERA 7)
+http://xsrv.me:8080/Leo123/Leo123/94862
+#EXTINF:-1,BBB 2021 ( CAMERA 8)
+http://xsrv.me:8080/Leo123/Leo123/94863
+#EXTINF:-1,BBB 2021 (CAMERA 9)
+http://xsrv.me:8080/Leo123/Leo123/94864
+#EXTINF:-1,BBB 2021 (CAMERA 10)
+http://xsrv.me:8080/Leo123/Leo123/94865
+#EXTINF:-1,BBB 2021 (CAMERA 11)
+http://xsrv.me:8080/Leo123/Leo123/94866
+#EXTINF:-1,Cine Terror 01 - HD
+http://xsrv.me:8080/Leo123/Leo123/93434
+#EXTINF:-1,FOX - SPORTS HD¹
+http://xsrv.me:8080/Leo123/Leo123/24588
+#EXTINF:-1,FOX - SPORTS HD²
+http://xsrv.me:8080/Leo123/Leo123/24586
+#EXTINF:-1,FOX - SPORTS HD³
+http://xsrv.me:8080/Leo123/Leo123/24583
+#EXTINF:-1,FOX - SPORTS 2 SD
+http://xsrv.me:8080/Leo123/Leo123/24595
+#EXTINF:-1,FOX - SPORTS 2 HD
+http://xsrv.me:8080/Leo123/Leo123/24593
+#EXTINF:-1,FOX - SPORTS 2 FHD
+http://xsrv.me:8080/Leo123/Leo123/24591
+#EXTINF:-1,BAND - SPORTS SD
+http://xsrv.me:8080/Leo123/Leo123/24635
+#EXTINF:-1,BAND - SPORTS HD
+http://xsrv.me:8080/Leo123/Leo123/24633
+#EXTINF:-1,BAND - SPORTS FHD
+http://xsrv.me:8080/Leo123/Leo123/24631
+#EXTINF:-1,DAZN 1 HD (B)
+http://xsrv.me:8080/Leo123/Leo123/24578
+#EXTINF:-1,DAZN 2 HD (B)
+http://xsrv.me:8080/Leo123/Leo123/24577
+#EXTINF:-1,DAZN 3 HD (B)
+http://xsrv.me:8080/Leo123/Leo123/85984
+#EXTINF:-1,DAZN 4 HD (B)
+http://xsrv.me:8080/Leo123/Leo123/85986
+#EXTINF:-1,A&E - SD
+http://xsrv.me:8080/Leo123/Leo123/24802
+#EXTINF:-1,A&E - HD
+http://xsrv.me:8080/Leo123/Leo123/24800
+#EXTINF:-1,A&E - FHD
+http://xsrv.me:8080/Leo123/Leo123/24798
+#EXTINF:-1,ABU DABI SPORT 1 HD
+http://xsrv.me:8080/Leo123/Leo123/81499
+#EXTINF:-1,ABU DABI SPORT 2 HD
+http://xsrv.me:8080/Leo123/Leo123/81500
+#EXTINF:-1,ABU DABI SPORT 3 HD
+http://xsrv.me:8080/Leo123/Leo123/81501
+#EXTINF:-1,ALL SPORTS
+http://xsrv.me:8080/Leo123/Leo123/59589
+#EXTINF:-1,AMC - SD
+http://xsrv.me:8080/Leo123/Leo123/24809
+#EXTINF:-1,AMC - HD
+http://xsrv.me:8080/Leo123/Leo123/24807
+#EXTINF:-1,AMC - FHD
+http://xsrv.me:8080/Leo123/Leo123/24805
+#EXTINF:-1,ANIMAL PLANET - 4K
+http://xsrv.me:8080/Leo123/Leo123/33800
+#EXTINF:-1,ANIMAL PLANET - SD
+http://xsrv.me:8080/Leo123/Leo123/24959
+#EXTINF:-1,ANIMAL PLANET - HD
+http://xsrv.me:8080/Leo123/Leo123/24957
+#EXTINF:-1,ANIMAL PLANET - FHD
+http://xsrv.me:8080/Leo123/Leo123/24955
+#EXTINF:-1,ARTE 1 - SD
+http://xsrv.me:8080/Leo123/Leo123/25160
+#EXTINF:-1,ARTE 1  - HD
+http://xsrv.me:8080/Leo123/Leo123/25159
+#EXTINF:-1,AXN - SD
+http://xsrv.me:8080/Leo123/Leo123/24815
+#EXTINF:-1,AXN - HD
+http://xsrv.me:8080/Leo123/Leo123/24813
+#EXTINF:-1,AXN - FHD
+http://xsrv.me:8080/Leo123/Leo123/24812
+#EXTINF:-1,BABY TV - SD
+http://xsrv.me:8080/Leo123/Leo123/25094
+#EXTINF:-1,BAND - 4K
+http://xsrv.me:8080/Leo123/Leo123/33801
+#EXTINF:-1,BAND - SD
+http://xsrv.me:8080/Leo123/Leo123/24548
+#EXTINF:-1,BAND - HD
+http://xsrv.me:8080/Leo123/Leo123/24545
+#EXTINF:-1,BAND - FHD
+http://xsrv.me:8080/Leo123/Leo123/24544
+#EXTINF:-1,BAND - NEWS SD
+http://xsrv.me:8080/Leo123/Leo123/24554
+#EXTINF:-1,BAND - NEWS HD
+http://xsrv.me:8080/Leo123/Leo123/24552
+#EXTINF:-1,BAND - RJ
+http://xsrv.me:8080/Leo123/Leo123/84865
+#EXTINF:-1,BIS - SD
+http://xsrv.me:8080/Leo123/Leo123/25121
+#EXTINF:-1,BIS - HD
+http://xsrv.me:8080/Leo123/Leo123/25119
+#EXTINF:-1,BOOMERANG - SD
+http://xsrv.me:8080/Leo123/Leo123/25089
+#EXTINF:-1,BOOMERANG - HD
+http://xsrv.me:8080/Leo123/Leo123/25088
+#EXTINF:-1,BOOMERANG - FHD
+http://xsrv.me:8080/Leo123/Leo123/29898
+#EXTINF:-1,REDE TV - SD
+http://xsrv.me:8080/Leo123/Leo123/24559
+#EXTINF:-1,REDE TV - HD
+http://xsrv.me:8080/Leo123/Leo123/24558
+#EXTINF:-1,REDE TV - FHD
+http://xsrv.me:8080/Leo123/Leo123/24557
+#EXTINF:-1,REDE TV - TV PAMPA RS
+http://xsrv.me:8080/Leo123/Leo123/97418
+#EXTINF:-1,CANAL BRASIL - SD
+http://xsrv.me:8080/Leo123/Leo123/24564
+#EXTINF:-1,CANAL BRASIL - HD
+http://xsrv.me:8080/Leo123/Leo123/24562
+#EXTINF:-1,CANAL DO BOI
+http://xsrv.me:8080/Leo123/Leo123/33563
+#EXTINF:-1,CANAL RURAL - SD
+http://xsrv.me:8080/Leo123/Leo123/35033
+#EXTINF:-1,CANAL SONY - SD
+http://xsrv.me:8080/Leo123/Leo123/24822
+#EXTINF:-1,CANAL SONY - HD
+http://xsrv.me:8080/Leo123/Leo123/24820
+#EXTINF:-1,CANAL SONY - FHD
+http://xsrv.me:8080/Leo123/Leo123/24818
+#EXTINF:-1,CANÇAO NOVA - SD
+http://xsrv.me:8080/Leo123/Leo123/25201
+#EXTINF:-1,CANÇAO NOVA - HD
+http://xsrv.me:8080/Leo123/Leo123/25200
+#EXTINF:-1,CARTOON - 4K
+http://xsrv.me:8080/Leo123/Leo123/33802
+#EXTINF:-1,CARTOON NETWORK - SD
+http://xsrv.me:8080/Leo123/Leo123/25069
+#EXTINF:-1,CARTOON NETWORK - HD
+http://xsrv.me:8080/Leo123/Leo123/25068
+#EXTINF:-1,CARTOON NETWORK - FHD
+http://xsrv.me:8080/Leo123/Leo123/25065
+#EXTINF:-1,Cine Pipoca - 1
+http://xsrv.me:8080/Leo123/Leo123/86130
+#EXTINF:-1,Cine Pipoca - 2
+http://xsrv.me:8080/Leo123/Leo123/86131
+#EXTINF:-1,Cine Pipoca - 3
+http://xsrv.me:8080/Leo123/Leo123/86132
+#EXTINF:-1,Cine Pipoca - 4
+http://xsrv.me:8080/Leo123/Leo123/86133
+#EXTINF:-1,Cine Pipoca - 5
+http://xsrv.me:8080/Leo123/Leo123/86134
+#EXTINF:-1,Cine Pipoca - 6
+http://xsrv.me:8080/Leo123/Leo123/86135
+#EXTINF:-1,Cine Pipoca - 7
+http://xsrv.me:8080/Leo123/Leo123/86136
+#EXTINF:-1,Cine Pipoca - 8
+http://xsrv.me:8080/Leo123/Leo123/86137
+#EXTINF:-1,Cine Pipoca - 9
+http://xsrv.me:8080/Leo123/Leo123/86138
+#EXTINF:-1,Cine Pipoca - 10
+http://xsrv.me:8080/Leo123/Leo123/86139
+#EXTINF:-1,Cine Pipoca - 11
+http://xsrv.me:8080/Leo123/Leo123/86140
+#EXTINF:-1,Cine Pipoca - 12
+http://xsrv.me:8080/Leo123/Leo123/86141
+#EXTINF:-1,Cine Pipoca - 13
+http://xsrv.me:8080/Leo123/Leo123/86142
+#EXTINF:-1,Cine Pipoca - 14
+http://xsrv.me:8080/Leo123/Leo123/86143
+#EXTINF:-1,Cine Sky - 01
+http://xsrv.me:8080/Leo123/Leo123/59512
+#EXTINF:-1,Cine Sky - 02
+http://xsrv.me:8080/Leo123/Leo123/59513
+#EXTINF:-1,Cine Sky - 03
+http://xsrv.me:8080/Leo123/Leo123/59514
+#EXTINF:-1,Cine Sky - 04
+http://xsrv.me:8080/Leo123/Leo123/59515
+#EXTINF:-1,Cine Sky - 05
+http://xsrv.me:8080/Leo123/Leo123/59516
+#EXTINF:-1,CINE SKY - 06
+http://xsrv.me:8080/Leo123/Leo123/81504
+#EXTINF:-1,CINE SKY - 07
+http://xsrv.me:8080/Leo123/Leo123/81505
+#EXTINF:-1,CINE SKY - 08
+http://xsrv.me:8080/Leo123/Leo123/81506
+#EXTINF:-1,CINE SKY - 09
+http://xsrv.me:8080/Leo123/Leo123/81507
+#EXTINF:-1,CINE SKY - 10
+http://xsrv.me:8080/Leo123/Leo123/81508
+#EXTINF:-1,CINEMAX - SD
+http://xsrv.me:8080/Leo123/Leo123/24828
+#EXTINF:-1,CINEMAX - HD
+http://xsrv.me:8080/Leo123/Leo123/24826
+#EXTINF:-1,CINEMAX - FHD
+http://xsrv.me:8080/Leo123/Leo123/24824
+#EXTINF:-1,CNN BRASIL - SD
+http://xsrv.me:8080/Leo123/Leo123/30277
+#EXTINF:-1,CNN BRASIL - HD
+http://xsrv.me:8080/Leo123/Leo123/30278
+#EXTINF:-1,CNN BRASIL - FHD
+http://xsrv.me:8080/Leo123/Leo123/30373
+#EXTINF:-1,CNN ARGENTINA
+http://xsrv.me:8080/Leo123/Leo123/59510
+#EXTINF:-1,CNN INTERNACIONAL*
+http://xsrv.me:8080/Leo123/Leo123/59511
+#EXTINF:-1,COMBATE - 4K
+http://xsrv.me:8080/Leo123/Leo123/33820
+#EXTINF:-1,COMBATE - SD
+http://xsrv.me:8080/Leo123/Leo123/24603
+#EXTINF:-1,COMBATE - HD
+http://xsrv.me:8080/Leo123/Leo123/24600
+#EXTINF:-1,COMBATE - FHD
+http://xsrv.me:8080/Leo123/Leo123/24598
+#EXTINF:-1,COMEDY CENTRAL - SD
+http://xsrv.me:8080/Leo123/Leo123/25127
+#EXTINF:-1,COMEDY CENTRAL - HD
+http://xsrv.me:8080/Leo123/Leo123/25126
+#EXTINF:-1,COMEDY CENTRAL - FHD
+http://xsrv.me:8080/Leo123/Leo123/33616
+#EXTINF:-1,COVID-19 BRASIL STATUS
+http://xsrv.me:8080/Leo123/Leo123/30321
+#EXTINF:-1,CURTA - SD
+http://xsrv.me:8080/Leo123/Leo123/25166
+#EXTINF:-1,CURTA - HD 
+http://xsrv.me:8080/Leo123/Leo123/25165
+#EXTINF:-1,DISCOVERY - CHANNEL SD
+http://xsrv.me:8080/Leo123/Leo123/24968
+#EXTINF:-1,DISCOVERY - CHANNEL HD
+http://xsrv.me:8080/Leo123/Leo123/24966
+#EXTINF:-1,DISCOVERY - CHANNEL FHD
+http://xsrv.me:8080/Leo123/Leo123/29896
+#EXTINF:-1,DISCOVERY - H&H SD
+http://xsrv.me:8080/Leo123/Leo123/24977
+#EXTINF:-1,DISCOVERY - H&H HD
+http://xsrv.me:8080/Leo123/Leo123/24975
+#EXTINF:-1,DISCOVERY - H&H FHD
+http://xsrv.me:8080/Leo123/Leo123/29897
+#EXTINF:-1,DISCOVERY - HGTV SD
+http://xsrv.me:8080/Leo123/Leo123/29391
+#EXTINF:-1,DISCOVERY - HGTV HD
+http://xsrv.me:8080/Leo123/Leo123/29390
+#EXTINF:-1,DISCOVERY - HGTV FHD
+http://xsrv.me:8080/Leo123/Leo123/33515
+#EXTINF:-1,DISCOVERY - KIDS SD
+http://xsrv.me:8080/Leo123/Leo123/25038
+#EXTINF:-1,DISCOVERY - KIDS HD
+http://xsrv.me:8080/Leo123/Leo123/25036
+#EXTINF:-1,DISCOVERY - KIDS FHD
+http://xsrv.me:8080/Leo123/Leo123/29894
+#EXTINF:-1,DISCOVERY - SCIENCE SD
+http://xsrv.me:8080/Leo123/Leo123/24982
+#EXTINF:-1,DISCOVERY - SCIENCE HD
+http://xsrv.me:8080/Leo123/Leo123/24980
+#EXTINF:-1,DISCOVERY - SCIENCE FHD
+http://xsrv.me:8080/Leo123/Leo123/29893
+#EXTINF:-1,DISCOVERY - THEATER SD
+http://xsrv.me:8080/Leo123/Leo123/24985
+#EXTINF:-1,DISCOVERY - THEATER HD
+http://xsrv.me:8080/Leo123/Leo123/24983
+#EXTINF:-1,DISCOVERY - THEATER FHD
+http://xsrv.me:8080/Leo123/Leo123/29892
+#EXTINF:-1,DISCOVERY - TLC SD
+http://xsrv.me:8080/Leo123/Leo123/29902
+#EXTINF:-1,DISCOVERY - TLC HD
+http://xsrv.me:8080/Leo123/Leo123/29903
+#EXTINF:-1,DISCOVERY - TLC FHD
+http://xsrv.me:8080/Leo123/Leo123/29891
+#EXTINF:-1,DISCOVERY - TURBO SD
+http://xsrv.me:8080/Leo123/Leo123/24991
+#EXTINF:-1,DISCOVERY - TURBO HD
+http://xsrv.me:8080/Leo123/Leo123/24989
+#EXTINF:-1,DISCOVERY - TURBO FHD
+http://xsrv.me:8080/Leo123/Leo123/29890
+#EXTINF:-1,DISCOVERY - WORLD SD
+http://xsrv.me:8080/Leo123/Leo123/24994
+#EXTINF:-1,DISCOVERY - WORLD HD
+http://xsrv.me:8080/Leo123/Leo123/24992
+#EXTINF:-1,DISCOVERY - WORLD FHD
+http://xsrv.me:8080/Leo123/Leo123/29889
+#EXTINF:-1,DISCOVERY CHANNEL- 4K
+http://xsrv.me:8080/Leo123/Leo123/33803
+#EXTINF:-1,DISNEY - CHANNEL SD
+http://xsrv.me:8080/Leo123/Leo123/25046
+#EXTINF:-1,DISNEY - CHANNEL HD
+http://xsrv.me:8080/Leo123/Leo123/25044
+#EXTINF:-1,DISNEY - CHANNEL FHD
+http://xsrv.me:8080/Leo123/Leo123/25041
+#EXTINF:-1,DISNEY - JUNIOR SD
+http://xsrv.me:8080/Leo123/Leo123/25055
+#EXTINF:-1,DISNEY - JUNIOR HD
+http://xsrv.me:8080/Leo123/Leo123/25052
+#EXTINF:-1,DISNEY - XD SD
+http://xsrv.me:8080/Leo123/Leo123/25063
+#EXTINF:-1,DISNEY - XD HD
+http://xsrv.me:8080/Leo123/Leo123/25060
+#EXTINF:-1,DISNEY - XD FHD
+http://xsrv.me:8080/Leo123/Leo123/25058
+#EXTINF:-1,E! - SD
+http://xsrv.me:8080/Leo123/Leo123/25169
+#EXTINF:-1,E! - HD
+http://xsrv.me:8080/Leo123/Leo123/25168
+#EXTINF:-1,E! - FHD 
+http://xsrv.me:8080/Leo123/Leo123/33617
+#EXTINF:-1,TNT Sports - 1 HD
+http://xsrv.me:8080/Leo123/Leo123/24579
+#EXTINF:-1,TNT Sports - 2 HD
+http://xsrv.me:8080/Leo123/Leo123/29704
+#EXTINF:-1,TNT Sports - 3 HD
+http://xsrv.me:8080/Leo123/Leo123/29705
+#EXTINF:-1,ESPN - SD
+http://xsrv.me:8080/Leo123/Leo123/24642
+#EXTINF:-1,ESPN - HD
+http://xsrv.me:8080/Leo123/Leo123/24640
+#EXTINF:-1,ESPN - FHD
+http://xsrv.me:8080/Leo123/Leo123/24639
+#EXTINF:-1,ESPN - 2 SD
+http://xsrv.me:8080/Leo123/Leo123/24658
+#EXTINF:-1,ESPN - 2 HD
+http://xsrv.me:8080/Leo123/Leo123/24655
+#EXTINF:-1,ESPN - 2 FHD
+http://xsrv.me:8080/Leo123/Leo123/24652
+#EXTINF:-1,ESPN - BRASIL SD
+http://xsrv.me:8080/Leo123/Leo123/24649
+#EXTINF:-1,ESPN - BRASIL HD
+http://xsrv.me:8080/Leo123/Leo123/24646
+#EXTINF:-1,ESPN - BRASIL FHD
+http://xsrv.me:8080/Leo123/Leo123/24643
+#EXTINF:-1,ESPN - EXTRA SD
+http://xsrv.me:8080/Leo123/Leo123/24666
+#EXTINF:-1,ESPN - EXTRA HD
+http://xsrv.me:8080/Leo123/Leo123/24663
+#EXTINF:-1,ESPN - EXTRA FHD
+http://xsrv.me:8080/Leo123/Leo123/24660
+#EXTINF:-1,ESPN - 4K
+http://xsrv.me:8080/Leo123/Leo123/33804
+#EXTINF:-1,FASHION TV - FHD
+http://xsrv.me:8080/Leo123/Leo123/33888
+#EXTINF:-1,FASHION TV - HD
+http://xsrv.me:8080/Leo123/Leo123/33889
+#EXTINF:-1,FILM & ARTS - SD
+http://xsrv.me:8080/Leo123/Leo123/25197
+#EXTINF:-1,FISH TV - SD
+http://xsrv.me:8080/Leo123/Leo123/25173
+#EXTINF:-1,FISH TV - HD
+http://xsrv.me:8080/Leo123/Leo123/25171
+#EXTINF:-1,FISH TV - FHD
+http://xsrv.me:8080/Leo123/Leo123/33618
+#EXTINF:-1,FOOD NETWORK - SD
+http://xsrv.me:8080/Leo123/Leo123/25132
+#EXTINF:-1,FOOD NETWORK - HD
+http://xsrv.me:8080/Leo123/Leo123/25131
+#EXTINF:-1,FOOD NETWORK - FHD
+http://xsrv.me:8080/Leo123/Leo123/33619
+#EXTINF:-1,FOX - SD
+http://xsrv.me:8080/Leo123/Leo123/24835
+#EXTINF:-1,FOX - HD
+http://xsrv.me:8080/Leo123/Leo123/24834
+#EXTINF:-1,FOX - FHD
+http://xsrv.me:8080/Leo123/Leo123/24831
+#EXTINF:-1,FOX - LIFE SD
+http://xsrv.me:8080/Leo123/Leo123/24842
+#EXTINF:-1,FOX - LIFE HD
+http://xsrv.me:8080/Leo123/Leo123/24840
+#EXTINF:-1,FOX - LIFE FHD
+http://xsrv.me:8080/Leo123/Leo123/24838
+#EXTINF:-1,FOX - PREMIUM 1 SD
+http://xsrv.me:8080/Leo123/Leo123/24850
+#EXTINF:-1,FOX - PREMIUM 1 HD
+http://xsrv.me:8080/Leo123/Leo123/24848
+#EXTINF:-1,FOX - PREMIUM 1 FHD
+http://xsrv.me:8080/Leo123/Leo123/24845
+#EXTINF:-1,FOX - PREMIUM 2 SD
+http://xsrv.me:8080/Leo123/Leo123/24856
+#EXTINF:-1,FOX - PREMIUM 2 HD
+http://xsrv.me:8080/Leo123/Leo123/24853
+#EXTINF:-1,FOX - PREMIUM 2 FHD
+http://xsrv.me:8080/Leo123/Leo123/24851
+#EXTINF:-1,FOX SPORTS - 4K
+http://xsrv.me:8080/Leo123/Leo123/33806
+#EXTINF:-1,FOX SPORTS 2 - 4K
+http://xsrv.me:8080/Leo123/Leo123/33805
+#EXTINF:-1,FUTURA - HD
+http://xsrv.me:8080/Leo123/Leo123/24568
+#EXTINF:-1,FX - SD
+http://xsrv.me:8080/Leo123/Leo123/24860
+#EXTINF:-1,FX - HD
+http://xsrv.me:8080/Leo123/Leo123/24859
+#EXTINF:-1,FX - FHD
+http://xsrv.me:8080/Leo123/Leo123/24857
+#EXTINF:-1,GLOBO - 4K
+http://xsrv.me:8080/Leo123/Leo123/33615
+#EXTINF:-1,GLOBO - SP SD
+http://xsrv.me:8080/Leo123/Leo123/30673
+#EXTINF:-1,GLOBO - SP HD
+http://xsrv.me:8080/Leo123/Leo123/30674
+#EXTINF:-1,GLOBO - SP FHD
+http://xsrv.me:8080/Leo123/Leo123/30675
+#EXTINF:-1,GLOBO - RIO SD
+http://xsrv.me:8080/Leo123/Leo123/30676
+#EXTINF:-1,GLOBO - RIO HD
+http://xsrv.me:8080/Leo123/Leo123/30677
+#EXTINF:-1,GLOBO - RIO FHD
+http://xsrv.me:8080/Leo123/Leo123/30678
+#EXTINF:-1,GLOBO - MINAS SD
+http://xsrv.me:8080/Leo123/Leo123/30679
+#EXTINF:-1,GLOBO - MINAS HD
+http://xsrv.me:8080/Leo123/Leo123/30680
+#EXTINF:-1,GLOBO - MINAS FHD
+http://xsrv.me:8080/Leo123/Leo123/30681
+#EXTINF:-1,GLOBO - BRASÍLIA SD
+http://xsrv.me:8080/Leo123/Leo123/30682
+#EXTINF:-1,GLOBO - BRASILIA HD
+http://xsrv.me:8080/Leo123/Leo123/30684
+#EXTINF:-1,GLOBO - NEWS HD
+http://xsrv.me:8080/Leo123/Leo123/24485
+#EXTINF:-1,GLOBO - NEWS SD
+http://xsrv.me:8080/Leo123/Leo123/24488
+#EXTINF:-1,GLOBO - NORDESTE SD
+http://xsrv.me:8080/Leo123/Leo123/30685
+#EXTINF:-1,GLOBO - NORDESTE HD
+http://xsrv.me:8080/Leo123/Leo123/30686
+#EXTINF:-1,GLOBO - NORDESTE FHD
+http://xsrv.me:8080/Leo123/Leo123/30687
+#EXTINF:-1,GLOBO - RPC CURITIBA SD
+http://xsrv.me:8080/Leo123/Leo123/33414
+#EXTINF:-1,GLOBO - RPC CURITIBA HD
+http://xsrv.me:8080/Leo123/Leo123/33415
+#EXTINF:-1,GLOBO - TV BAHIA SD
+http://xsrv.me:8080/Leo123/Leo123/90709
+#EXTINF:-1,GLOBO - TV BAHIA HD
+http://xsrv.me:8080/Leo123/Leo123/29628
+#EXTINF:-1,MAIS GLOBOSAT - HD
+http://xsrv.me:8080/Leo123/Leo123/25136
+#EXTINF:-1,MAIS GLOBOSAT - SD
+http://xsrv.me:8080/Leo123/Leo123/25138
+#EXTINF:-1,GLOOB - SD
+http://xsrv.me:8080/Leo123/Leo123/25076
+#EXTINF:-1,GLOOB - HD
+http://xsrv.me:8080/Leo123/Leo123/25073
+#EXTINF:-1,GLOOB - FHD
+http://xsrv.me:8080/Leo123/Leo123/29899
+#EXTINF:-1,GLOOBINHO - SD
+http://xsrv.me:8080/Leo123/Leo123/25103
+#EXTINF:-1,GLOOBINHO - HD
+http://xsrv.me:8080/Leo123/Leo123/25102
+#EXTINF:-1,GNT - SD
+http://xsrv.me:8080/Leo123/Leo123/25145
+#EXTINF:-1,GNT - HD
+http://xsrv.me:8080/Leo123/Leo123/25143
+#EXTINF:-1,GNT - FHD
+http://xsrv.me:8080/Leo123/Leo123/25141
+#EXTINF:-1,HISTORY 2 - SD
+http://xsrv.me:8080/Leo123/Leo123/25008
+#EXTINF:-1,HISTORY 2 - HD
+http://xsrv.me:8080/Leo123/Leo123/25007
+#EXTINF:-1,HBO - 4K
+http://xsrv.me:8080/Leo123/Leo123/33807
+#EXTINF:-1,HBO - SD
+http://xsrv.me:8080/Leo123/Leo123/24732
+#EXTINF:-1,HBO - HD
+http://xsrv.me:8080/Leo123/Leo123/24730
+#EXTINF:-1,HBO - FHD
+http://xsrv.me:8080/Leo123/Leo123/24728
+#EXTINF:-1,HBO - 2 SD
+http://xsrv.me:8080/Leo123/Leo123/24739
+#EXTINF:-1,HBO - 2 HD
+http://xsrv.me:8080/Leo123/Leo123/24737
+#EXTINF:-1,HBO - 2 FHD
+http://xsrv.me:8080/Leo123/Leo123/24735
+#EXTINF:-1,HBO - FAMILY SD
+http://xsrv.me:8080/Leo123/Leo123/24745
+#EXTINF:-1,HBO - FAMILY HD
+http://xsrv.me:8080/Leo123/Leo123/24744
+#EXTINF:-1,HBO - FAMILY FHD
+http://xsrv.me:8080/Leo123/Leo123/24742
+#EXTINF:-1,HBO - PLUS SD
+http://xsrv.me:8080/Leo123/Leo123/24751
+#EXTINF:-1,HBO - PLUS HD
+http://xsrv.me:8080/Leo123/Leo123/24749
+#EXTINF:-1,HBO - PLUS FHD
+http://xsrv.me:8080/Leo123/Leo123/24747
+#EXTINF:-1,HBO - SIGNATURE SD
+http://xsrv.me:8080/Leo123/Leo123/24758
+#EXTINF:-1,HBO - SIGNATURE HD
+http://xsrv.me:8080/Leo123/Leo123/24756
+#EXTINF:-1,HBO - SIGNATURE FHD
+http://xsrv.me:8080/Leo123/Leo123/24754
+#EXTINF:-1,HBO - MUNDI HD
+http://xsrv.me:8080/Leo123/Leo123/33510
+#EXTINF:-1,HBO - MUNDI FHD
+http://xsrv.me:8080/Leo123/Leo123/33866
+#EXTINF:-1,HBO - POP HD
+http://xsrv.me:8080/Leo123/Leo123/33512
+#EXTINF:-1,HBO - POP FHD
+http://xsrv.me:8080/Leo123/Leo123/33865
+#EXTINF:-1,HBO - XTREME HD
+http://xsrv.me:8080/Leo123/Leo123/33511
+#EXTINF:-1,HBO - XTREME FHD
+http://xsrv.me:8080/Leo123/Leo123/33864
+#EXTINF:-1,HISTORY CHANNEL - SD
+http://xsrv.me:8080/Leo123/Leo123/25002
+#EXTINF:-1,HISTORY CHANNEL - HD
+http://xsrv.me:8080/Leo123/Leo123/25000
+#EXTINF:-1,HISTORY CHANNEL - FHD
+http://xsrv.me:8080/Leo123/Leo123/24998
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY - SD
+http://xsrv.me:8080/Leo123/Leo123/24996
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY - HD
+http://xsrv.me:8080/Leo123/Leo123/24995
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY - FHD
+http://xsrv.me:8080/Leo123/Leo123/29900
+#EXTINF:-1,Kuriakos Kids
+http://xsrv.me:8080/Leo123/Leo123/59588
+#EXTINF:-1,LIFETIME - SD
+http://xsrv.me:8080/Leo123/Leo123/24867
+#EXTINF:-1,LIFETIME - HD
+http://xsrv.me:8080/Leo123/Leo123/24865
+#EXTINF:-1,LIFETIME - FHD
+http://xsrv.me:8080/Leo123/Leo123/24863
+#EXTINF:-1,VH1 Mega Hits - SD
+http://xsrv.me:8080/Leo123/Leo123/25195
+#EXTINF:-1,VH1 Mega Hits - HD
+http://xsrv.me:8080/Leo123/Leo123/25196
+#EXTINF:-1,MEGAPIX - 4K
+http://xsrv.me:8080/Leo123/Leo123/33808
+#EXTINF:-1,MEGAPIX - SD
+http://xsrv.me:8080/Leo123/Leo123/24893
+#EXTINF:-1,MEGAPIX - HD
+http://xsrv.me:8080/Leo123/Leo123/24892
+#EXTINF:-1,MEGAPIX - FHD
+http://xsrv.me:8080/Leo123/Leo123/24890
+#EXTINF:-1,MTV - SD
+http://xsrv.me:8080/Leo123/Leo123/25152
+#EXTINF:-1,MTV - HD
+http://xsrv.me:8080/Leo123/Leo123/25148
+#EXTINF:-1,MTV - LIVE HD
+http://xsrv.me:8080/Leo123/Leo123/25150
+#EXTINF:-1,MULTISHOW - 4K
+http://xsrv.me:8080/Leo123/Leo123/33809
+#EXTINF:-1,MULTISHOW - SD
+http://xsrv.me:8080/Leo123/Leo123/25179
+#EXTINF:-1,MULTISHOW - HD
+http://xsrv.me:8080/Leo123/Leo123/25176
+#EXTINF:-1,MUSIC BOX BRASIL - SD
+http://xsrv.me:8080/Leo123/Leo123/25190
+#EXTINF:-1,NATGEO - 4K
+http://xsrv.me:8080/Leo123/Leo123/33810
+#EXTINF:-1,NATGEO - KIDS SD
+http://xsrv.me:8080/Leo123/Leo123/25083
+#EXTINF:-1,NATGEO - KIDS HD
+http://xsrv.me:8080/Leo123/Leo123/25081
+#EXTINF:-1,NATGEO WILD - SD
+http://xsrv.me:8080/Leo123/Leo123/25013
+#EXTINF:-1,NATGEO WILD - HD
+http://xsrv.me:8080/Leo123/Leo123/25012
+#EXTINF:-1,NATGEO WILD - FHD
+http://xsrv.me:8080/Leo123/Leo123/25010
+#EXTINF:-1,NATIONAL GEOGRAPHIC - SD
+http://xsrv.me:8080/Leo123/Leo123/25020
+#EXTINF:-1,NATIONAL GEOGRAPHIC - HD
+http://xsrv.me:8080/Leo123/Leo123/25019
+#EXTINF:-1,NATIONAL GEOGRAPHIC - FHD
+http://xsrv.me:8080/Leo123/Leo123/25017
+#EXTINF:-1,NICK - JR SD
+http://xsrv.me:8080/Leo123/Leo123/25026
+#EXTINF:-1,NICK - JR HD
+http://xsrv.me:8080/Leo123/Leo123/25024
+#EXTINF:-1,NICKELODEON - SD
+http://xsrv.me:8080/Leo123/Leo123/25032
+#EXTINF:-1,NICKELODEON - HD
+http://xsrv.me:8080/Leo123/Leo123/25031
+#EXTINF:-1,NICKELODEON - FHD
+http://xsrv.me:8080/Leo123/Leo123/25029
+#EXTINF:-1,NOVA ERA TV
+http://xsrv.me:8080/Leo123/Leo123/25203
+#EXTINF:-1,TV NOVO TEMPO
+http://xsrv.me:8080/Leo123/Leo123/25206
+#EXTINF:-1,OFF - SD
+http://xsrv.me:8080/Leo123/Leo123/25116
+#EXTINF:-1,OFF - HD
+http://xsrv.me:8080/Leo123/Leo123/25114
+#EXTINF:-1,PARAMOUNT - SD
+http://xsrv.me:8080/Leo123/Leo123/24899
+#EXTINF:-1,PARAMOUNT - HD
+http://xsrv.me:8080/Leo123/Leo123/24898
+#EXTINF:-1,PARAMOUNT - FHD
+http://xsrv.me:8080/Leo123/Leo123/24896
+#EXTINF:-1,PREMIERE - CLUBES SD
+http://xsrv.me:8080/Leo123/Leo123/24677
+#EXTINF:-1,PREMIERE - CLUBES HD
+http://xsrv.me:8080/Leo123/Leo123/24674
+#EXTINF:-1,PREMIERE - CLUBES HD²
+http://xsrv.me:8080/Leo123/Leo123/95729
+#EXTINF:-1,PREMIERE - CLUBES FHD
+http://xsrv.me:8080/Leo123/Leo123/24671
+#EXTINF:-1,PREMIERE 2 - SD
+http://xsrv.me:8080/Leo123/Leo123/24682
+#EXTINF:-1,PREMIERE 2 - HD
+http://xsrv.me:8080/Leo123/Leo123/24679
+#EXTINF:-1,PREMIERE 2 - FHD
+http://xsrv.me:8080/Leo123/Leo123/34645
+#EXTINF:-1,PREMIERE 3 - SD
+http://xsrv.me:8080/Leo123/Leo123/24692
+#EXTINF:-1,PREMIERE 3 - HD
+http://xsrv.me:8080/Leo123/Leo123/24689
+#EXTINF:-1,PREMIERE 3 - FHD
+http://xsrv.me:8080/Leo123/Leo123/24686
+#EXTINF:-1,PREMIERE 4 - SD
+http://xsrv.me:8080/Leo123/Leo123/24700
+#EXTINF:-1,PREMIERE 4 - HD
+http://xsrv.me:8080/Leo123/Leo123/24697
+#EXTINF:-1,PREMIERE 4 - FHD
+http://xsrv.me:8080/Leo123/Leo123/24694
+#EXTINF:-1,PREMIERE 5 - SD
+http://xsrv.me:8080/Leo123/Leo123/24708
+#EXTINF:-1,PREMIERE 5 - HD
+http://xsrv.me:8080/Leo123/Leo123/24706
+#EXTINF:-1,PREMIERE 6 - SD
+http://xsrv.me:8080/Leo123/Leo123/24715
+#EXTINF:-1,PREMIERE 6 - HD
+http://xsrv.me:8080/Leo123/Leo123/24713
+#EXTINF:-1,PREMIERE 7 - SD
+http://xsrv.me:8080/Leo123/Leo123/24721
+#EXTINF:-1,PREMIERE 7 - HD
+http://xsrv.me:8080/Leo123/Leo123/24720
+#EXTINF:-1,PREMIERE 8 - SD *
+http://xsrv.me:8080/Leo123/Leo123/24724
+#EXTINF:-1,PREMIERE CLUBE - 4K
+http://xsrv.me:8080/Leo123/Leo123/33811
+#EXTINF:-1,Racing TV
+http://xsrv.me:8080/Leo123/Leo123/81518
+#EXTINF:-1,RAI INTERNACIONAL FHD H264
+http://xsrv.me:8080/Leo123/Leo123/71929
+#EXTINF:-1,RAI INTERNACIONAL HD
+http://xsrv.me:8080/Leo123/Leo123/71930
+#EXTINF:-1,RECORD - 4K
+http://xsrv.me:8080/Leo123/Leo123/33812
+#EXTINF:-1,RECORD - SP SD
+http://xsrv.me:8080/Leo123/Leo123/24499
+#EXTINF:-1,RECORD - SP HD
+http://xsrv.me:8080/Leo123/Leo123/24498
+#EXTINF:-1,RECORD - SP FHD
+http://xsrv.me:8080/Leo123/Leo123/84950
+#EXTINF:-1,RECORD - RJ SD
+http://xsrv.me:8080/Leo123/Leo123/24511
+#EXTINF:-1,RECORD - RJ HD
+http://xsrv.me:8080/Leo123/Leo123/24513
+#EXTINF:-1,RECORD - BAHIA HD
+http://xsrv.me:8080/Leo123/Leo123/24502
+#EXTINF:-1,RECORD - DF HD
+http://xsrv.me:8080/Leo123/Leo123/24509
+#EXTINF:-1,RECORD - NEWS HD
+http://xsrv.me:8080/Leo123/Leo123/24517
+#EXTINF:-1,RECORD - NEWS SD
+http://xsrv.me:8080/Leo123/Leo123/29805
+#EXTINF:-1,RECORD - RS HD
+http://xsrv.me:8080/Leo123/Leo123/24500
+#EXTINF:-1,RedBull TV
+http://xsrv.me:8080/Leo123/Leo123/62196
+#EXTINF:-1,REDE GOSPEL
+http://xsrv.me:8080/Leo123/Leo123/25204
+#EXTINF:-1,Rede Super
+http://xsrv.me:8080/Leo123/Leo123/83925
+#EXTINF:-1,REDE SÉCULO 21
+http://xsrv.me:8080/Leo123/Leo123/25207
+#EXTINF:-1,REDE TV - 4K
+http://xsrv.me:8080/Leo123/Leo123/33813
+#EXTINF:-1,REDE VIDA - SD
+http://xsrv.me:8080/Leo123/Leo123/33613
+#EXTINF:-1,REDE VIDA - HD
+http://xsrv.me:8080/Leo123/Leo123/33614
+#EXTINF:-1,RIT GOSPEL
+http://xsrv.me:8080/Leo123/Leo123/25208
+#EXTINF:-1,SBT - 4K
+http://xsrv.me:8080/Leo123/Leo123/33798
+#EXTINF:-1,SBT - SD
+http://xsrv.me:8080/Leo123/Leo123/28183
+#EXTINF:-1,SBT - HD
+http://xsrv.me:8080/Leo123/Leo123/28180
+#EXTINF:-1,SBT - FHD
+http://xsrv.me:8080/Leo123/Leo123/28179
+#EXTINF:-1,SBT - RIO HD
+http://xsrv.me:8080/Leo123/Leo123/85762
+#EXTINF:-1,SPACE - 4K
+http://xsrv.me:8080/Leo123/Leo123/33814
+#EXTINF:-1,SPACE - FHD
+http://xsrv.me:8080/Leo123/Leo123/24903
+#EXTINF:-1,SPACE - HD
+http://xsrv.me:8080/Leo123/Leo123/24905
+#EXTINF:-1,SPACE - SD
+http://xsrv.me:8080/Leo123/Leo123/24906
+#EXTINF:-1,SPORTV - 4K
+http://xsrv.me:8080/Leo123/Leo123/33815
+#EXTINF:-1,SPORTV - SD
+http://xsrv.me:8080/Leo123/Leo123/24613
+#EXTINF:-1,SPORTV - HD
+http://xsrv.me:8080/Leo123/Leo123/24610
+#EXTINF:-1,SPORTV - FHD
+http://xsrv.me:8080/Leo123/Leo123/24607
+#EXTINF:-1,SPORTV 2 - SD
+http://xsrv.me:8080/Leo123/Leo123/24620
+#EXTINF:-1,SPORTV 2 - HD
+http://xsrv.me:8080/Leo123/Leo123/24617
+#EXTINF:-1,SPORTV 2 - FHD
+http://xsrv.me:8080/Leo123/Leo123/24615
+#EXTINF:-1,SPORTV 3 - SD
+http://xsrv.me:8080/Leo123/Leo123/24628
+#EXTINF:-1,SPORTV 3 - HD
+http://xsrv.me:8080/Leo123/Leo123/24625
+#EXTINF:-1,SPORTV 3 - FHD
+http://xsrv.me:8080/Leo123/Leo123/24623
+#EXTINF:-1,STUDIO UNIVERSAL - SD
+http://xsrv.me:8080/Leo123/Leo123/24910
+#EXTINF:-1,STUDIO UNIVERSAL - HD
+http://xsrv.me:8080/Leo123/Leo123/24909
+#EXTINF:-1,STUDIO UNIVERSAL - FHD
+http://xsrv.me:8080/Leo123/Leo123/24908
+#EXTINF:-1,SYFY - SD
+http://xsrv.me:8080/Leo123/Leo123/24917
+#EXTINF:-1,SYFY - HD
+http://xsrv.me:8080/Leo123/Leo123/24915
+#EXTINF:-1,SYFY - FHD
+http://xsrv.me:8080/Leo123/Leo123/24913
+#EXTINF:-1,TBS - SD
+http://xsrv.me:8080/Leo123/Leo123/24923
+#EXTINF:-1,TBS - HD
+http://xsrv.me:8080/Leo123/Leo123/24921
+#EXTINF:-1,TBS - FHD
+http://xsrv.me:8080/Leo123/Leo123/24919
+#EXTINF:-1,TC - ACTION SD
+http://xsrv.me:8080/Leo123/Leo123/24765
+#EXTINF:-1,TC - ACTION HD
+http://xsrv.me:8080/Leo123/Leo123/24763
+#EXTINF:-1,TC - ACTION - FHD
+http://xsrv.me:8080/Leo123/Leo123/24760
+#EXTINF:-1,TC - CULT SD
+http://xsrv.me:8080/Leo123/Leo123/24770
+#EXTINF:-1,TC - CULT HD
+http://xsrv.me:8080/Leo123/Leo123/24769
+#EXTINF:-1,TC - CULT FHD
+http://xsrv.me:8080/Leo123/Leo123/29901
+#EXTINF:-1,TC - FUN SD
+http://xsrv.me:8080/Leo123/Leo123/24777
+#EXTINF:-1,TC - FUN HD
+http://xsrv.me:8080/Leo123/Leo123/24775
+#EXTINF:-1,TC - FUN FHD
+http://xsrv.me:8080/Leo123/Leo123/24773
+#EXTINF:-1,TC - PIPOCA SD
+http://xsrv.me:8080/Leo123/Leo123/24784
+#EXTINF:-1,TC - PIPOCA HD
+http://xsrv.me:8080/Leo123/Leo123/24782
+#EXTINF:-1,TC - PIPOCA FHD
+http://xsrv.me:8080/Leo123/Leo123/24780
+#EXTINF:-1,TC - PREMIUM SD
+http://xsrv.me:8080/Leo123/Leo123/24790
+#EXTINF:-1,TC - PREMIUM HD
+http://xsrv.me:8080/Leo123/Leo123/24788
+#EXTINF:-1,TC - PREMIUM FHD
+http://xsrv.me:8080/Leo123/Leo123/24786
+#EXTINF:-1,TC - TOUCH SD
+http://xsrv.me:8080/Leo123/Leo123/24796
+#EXTINF:-1,TC - TOUCH HD
+http://xsrv.me:8080/Leo123/Leo123/24794
+#EXTINF:-1,TC - TOUCH FHD
+http://xsrv.me:8080/Leo123/Leo123/24792
+#EXTINF:-1,TCM - SD
+http://xsrv.me:8080/Leo123/Leo123/25162
+#EXTINF:-1,TCM - HD
+http://xsrv.me:8080/Leo123/Leo123/25161
+#EXTINF:-1,TCM - FHD
+http://xsrv.me:8080/Leo123/Leo123/34647
+#EXTINF:-1,TELECINE PREMIUM - 4K
+http://xsrv.me:8080/Leo123/Leo123/33816
+#EXTINF:-1,TLC - SD
+http://xsrv.me:8080/Leo123/Leo123/25110
+#EXTINF:-1,TLC - HD
+http://xsrv.me:8080/Leo123/Leo123/25108
+#EXTINF:-1,TNT - 4K
+http://xsrv.me:8080/Leo123/Leo123/33817
+#EXTINF:-1,TNT - SD
+http://xsrv.me:8080/Leo123/Leo123/24931
+#EXTINF:-1,TNT - HD
+http://xsrv.me:8080/Leo123/Leo123/24929
+#EXTINF:-1,TNT - FHD
+http://xsrv.me:8080/Leo123/Leo123/24927
+#EXTINF:-1,TNT - SERIES SD
+http://xsrv.me:8080/Leo123/Leo123/24939
+#EXTINF:-1,TNT - SERIES HD
+http://xsrv.me:8080/Leo123/Leo123/24937
+#EXTINF:-1,TNT - SERIES FHD
+http://xsrv.me:8080/Leo123/Leo123/24934
+#EXTINF:-1,TNT SERIES - 4K
+http://xsrv.me:8080/Leo123/Leo123/33818
+#EXTINF:-1,TOONCAST - SD
+http://xsrv.me:8080/Leo123/Leo123/25183
+#EXTINF:-1,TOONCAST - HD
+http://xsrv.me:8080/Leo123/Leo123/25182
+#EXTINF:-1,TV APARECIDA - SD
+http://xsrv.me:8080/Leo123/Leo123/25199
+#EXTINF:-1,TV APARECIDA - HD
+http://xsrv.me:8080/Leo123/Leo123/25198
+#EXTINF:-1,TV APARECIDA - FHD
+http://xsrv.me:8080/Leo123/Leo123/33882
+#EXTINF:-1,TV ASSEMBLEIA
+http://xsrv.me:8080/Leo123/Leo123/33959
+#EXTINF:-1,TV BOA VONTADE
+http://xsrv.me:8080/Leo123/Leo123/25205
+#EXTINF:-1,TV Conmebol 1 - HD
+http://xsrv.me:8080/Leo123/Leo123/86077
+#EXTINF:-1,TV Conmebol 2 - HD
+http://xsrv.me:8080/Leo123/Leo123/86078
+#EXTINF:-1,TV Conmebol 3 - HD
+http://xsrv.me:8080/Leo123/Leo123/86079
+#EXTINF:-1,TV Conmebol 4 - HD
+http://xsrv.me:8080/Leo123/Leo123/86080
+#EXTINF:-1,TV CULTURA - SD
+http://xsrv.me:8080/Leo123/Leo123/34632
+#EXTINF:-1,TV CULTURA - HD
+http://xsrv.me:8080/Leo123/Leo123/34633
+#EXTINF:-1,TV CULTURA - FHD
+http://xsrv.me:8080/Leo123/Leo123/34634
+#EXTINF:-1,TV EVANGELIZAR
+http://xsrv.me:8080/Leo123/Leo123/33958
+#EXTINF:-1,TV GAZETA - 4K
+http://xsrv.me:8080/Leo123/Leo123/33799
+#EXTINF:-1,TV Gazeta - HD
+http://xsrv.me:8080/Leo123/Leo123/84949
+#EXTINF:-1,TV JUSTIÇA HD
+http://xsrv.me:8080/Leo123/Leo123/33884
+#EXTINF:-1,TV MUNDIAL - HD
+http://xsrv.me:8080/Leo123/Leo123/33885
+#EXTINF:-1,TV NOVO TEMPO - FHD
+http://xsrv.me:8080/Leo123/Leo123/33886
+#EXTINF:-1,TV PAI ETERNO
+http://xsrv.me:8080/Leo123/Leo123/33957
+#EXTINF:-1,TV RATIMBUM - SD
+http://xsrv.me:8080/Leo123/Leo123/25099
+#EXTINF:-1,TV RATIMBUM - HD
+http://xsrv.me:8080/Leo123/Leo123/25097
+#EXTINF:-1,TV Rede Super
+http://xsrv.me:8080/Leo123/Leo123/83926
+#EXTINF:-1,UNIVERSAL CHANNEL - SD
+http://xsrv.me:8080/Leo123/Leo123/24945
+#EXTINF:-1,UNIVERSAL CHANNEL - HD
+http://xsrv.me:8080/Leo123/Leo123/24944
+#EXTINF:-1,UNIVERSAL CHANNEL - FHD
+http://xsrv.me:8080/Leo123/Leo123/24941
+#EXTINF:-1,Universal TV
+http://xsrv.me:8080/Leo123/Leo123/83924
+#EXTINF:-1,VIVA - SD
+http://xsrv.me:8080/Leo123/Leo123/25157
+#EXTINF:-1,VIVA - HD
+http://xsrv.me:8080/Leo123/Leo123/25155
+#EXTINF:-1,WARNER CHANNEL - SD
+http://xsrv.me:8080/Leo123/Leo123/24952
+#EXTINF:-1,WARNER CHANNEL - HD
+http://xsrv.me:8080/Leo123/Leo123/24950
+#EXTINF:-1,WARNER CHANNEL - FHD
+http://xsrv.me:8080/Leo123/Leo123/24947
+#EXTINF:-1,WOOHOO - SD
+http://xsrv.me:8080/Leo123/Leo123/25189
+#EXTINF:-1,ZOOMOO - SD
+http://xsrv.me:8080/Leo123/Leo123/25105
+#EXTINF:-1,ZOOMOO - HD
+http://xsrv.me:8080/Leo123/Leo123/25104
