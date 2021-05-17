@@ -2,23 +2,23 @@
 
 #EXTINF:-1,GLOBO RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1,GLOBO RJ HD 2
+#EXTINF:-1,GLOBO RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,BAND HD
+#EXTINF:-1,BAND 
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1,BAND HD 2
+#EXTINF:-1,BAND 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,Record SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record HD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1,Record RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, TV ARAPUAN HD
+#EXTINF:-1,Record SP 
+http://playplusspo-lh.akamai.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record 
+https://playplusspo-lh.akamai.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1,Record RJ 
+http://playplusrjo-lh.akamai.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1, TV ARAPUAN 
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
-#EXTINF:-1, TV ARAPUAN FHD
+#EXTINF:-1, TV ARAPUAN 
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan_all/playlist.m3u8?IMDSFULL
-#EXTINF:-1, REDE TV HD
+#EXTINF:-1, REDE TV 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1,SBT PI
 http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -28,123 +28,83 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_slen
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1,TV FUTURO
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1, RECORD NEWS HD
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1,PREMIERE CLUBES HD*
+#EXTINF:-1, RECORD NEWS 
+https://playplusnews-lh.akamai.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1,PREMIERE CLUBES 
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/23164
-#EXTINF:-1,PREMIERE 2*
+#EXTINF:-1,PREMIERE 2
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24268
-#EXTINF:-1,PREMIERE 4 HD*
+#EXTINF:-1,PREMIERE 4 
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24270
-#EXTINF:-1, Estádio TNT SPORTS HD
+#EXTINF:-1, Estádio TNT SPORTS 
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,ESPN Brasil HD*
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN Brasil HD*
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
-#EXTINF:-1,ESPN Brasil HD*
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN HD
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
-#EXTINF:-1,ESPN HD¹
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN HD²
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN 2 HD¹
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN 2 HD²
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN Extra
-https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN Extra HD
-https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
 #EXTINF:-1,Woohoo
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1, RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1, RED BULL TV¹ UHD
+#EXTINF:-1, RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?IMDSFULL
 #EXTINF:-1,Sport Russia
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,100 Automoto HD
+http://streaming.astrakhan.ru/astrakhanrusport/tracks-v2a1/index.m3u8
+#EXTINF:-1,100 Automoto 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,Auto Moto TV Bulgária
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-#EXTINF:-1,Dubai Sports 2 (Dubai)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 3 (Dubai)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1,Edge Sport¹ - Reino Unido
+#EXTINF:-1,Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8?DVR
-#EXTINF:-1,EDGE Sport² - Reino Unido
+#EXTINF:-1,EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1,Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1,EUROSPORT¹ HD R.Unido
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
-#EXTINF:-1,EUROSPORT² HD R.Unido
-http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 #EXTINF:-1,Eurosport¹ TV USA
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1,Fail Army (USA)
+http://77.83.117.60:8888/02_EURO1_720p/chunklist.m3u8
+#EXTINF:-1,Fail Army 
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1,Fight Sports HD¹ USA
+#EXTINF:-1,Fight Sports ¹ 
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?IMDSFULL
-#EXTINF:-1,Fight Sports HD² USA
+#EXTINF:-1,Fight Sports ² 
 http://210.210.155.35/uq2663/h/h05/01.m3u8?IMDSFULL
-#EXTINF:-1,Fight Sports HD³ USA
+#EXTINF:-1,Fight Sports ³ 
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1,Fight TV (Califórnia-USA)
+#EXTINF:-1,Fight TV 
 http://188.35.9.11:21151/udp/193i
-#EXTINF:-1,Fishing Offshore USA
+#EXTINF:-1,Fishing Offshore 
 https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
-#EXTINF:-1,One Golf HD USA
+#EXTINF:-1,One Golf  
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1, ANIM NATURE HD
+#EXTINF:-1, ANIM NATURE 
 http://200.194.238.236:5000/play/a006/index.m3u8
-#EXTINF:-1,NASA TV USA
+#EXTINF:-1,NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,NASA TV Media Channel USA
+#EXTINF:-1,NASA TV Media Channel 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1,Multi Show HD 1
-http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
-#EXTINF:-1,Multi Show HD
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 #EXTINF:-1,Filmes de TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 #EXTINF:-1,COREAN
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,KKIDS
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-#EXTINF:-1, DISNEY JR HD
-https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
-#EXTINF:-1,DISNEY XD
-https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,iptv_55
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
-#EXTINF:-1,Gospel Cartoon¹
+#EXTINF:-1,Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:-1,Gospel Movie Television (SP)
+#EXTINF:-1,Gospel Movie Television 
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 #EXTINF:-1,KRONE HIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,ONE HD MUSIC
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1,FUTURA
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1,TOP TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1,GAZETA FM HD
+#EXTINF:-1,GAZETA FM 
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1,NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,IGREJA MUNDIAL
+#EXTINF:-1,IMPD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1,ADSA HD
+#EXTINF:-1,ADSA 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1263392867.m3u8
@@ -158,7 +118,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w769752009.m3u8
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
 #EXTINF:-1, MASTER TV EDUCAÇÃO
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
-#EXTINF:-1,TV CÂMARA HD
+#EXTINF:-1,TV CÂMARA 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TVE BRASIL
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -176,7 +136,7 @@ http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 #EXTINF:-1, TV GIDEOES
 https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
-#EXTINF:-1, REDE GOSPEL FHD
+#EXTINF:-1, REDE GOSPEL 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
@@ -185,7 +145,7 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1220937626.m3u8
 #EXTINF:-1, TV AD BELEM
 https://cdn.jmvstream.com/w/AVJ-9106/playlist/chunklist.m3u8
 #EXTINF:-1, TV NOVO TEMPO
-https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
+https://origin-02.nxplay.com.br/NOVO_TEMPO__PFZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
 #EXTINF:-1, IMPD TV
@@ -193,7 +153,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1972382645_b4
 #EXTINF:-1,Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/chunklist_w1914702729.m3u8
 #EXTINF:-1, Rede Positiva Gospel
-https://stmv2.voxtvhd.com.br/8090/8090/chunklist_w118479557.m3u8
+https://stmv2.voxtv.com.br/8090/8090/chunklist_w118479557.m3u8
 #EXTINF:-1,TV CIDADE
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?f84e589fbf8b8110118c5ae8f1200c8b
 #EXTINF:-1, TV Ouro Negro
@@ -218,9 +178,9 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 #EXTINF:-1, TV Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
-#EXTINF:-1, TV MANCHETE 1
+#EXTINF:-1, TV MANCHETE 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1437067093.m3u8
-#EXTINF:-1, TV MANCHETE 2
+#EXTINF:-1, TV MANCHETE 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1, TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1734828378.m3u8
@@ -287,7 +247,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2079578172
 #EXTINF:-1, TV VM
 https://5e36c064a2f6a.streamlock.net:1936/8296/8296/chunklist_w811132022.m3u8
 #EXTINF:-1, TV WM GOSPEL
-https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w23646151.m3u8
+https://stmv2.voxtv.com.br/tvwm/tvwm/chunklist_w23646151.m3u8
 #EXTINF:-1, Tv Nordeste
 https://stmv1.srvstm.com/leandro9908/leandro9908/chunklist_w1190529454.m3u8
 #EXTINF:-1, Tv Ibiapabana
@@ -326,17 +286,17 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1,A&E (H265)
 http://dns.icut.uno:80/95056337/19413587/13848
-#EXTINF:-1,A&E FHD
+#EXTINF:-1,A&E 
 http://dns.icut.uno:80/95056337/19413587/418
-#EXTINF:-1,A&E HD
+#EXTINF:-1,A&E 
 http://dns.icut.uno:80/95056337/19413587/419
 #EXTINF:-1,A&E SD
 http://dns.icut.uno:80/95056337/19413587/420
 #EXTINF:-1,AMC (H265)
 http://dns.icut.uno:80/95056337/19413587/13849
-#EXTINF:-1,AMC FHD
+#EXTINF:-1,AMC 
 http://dns.icut.uno:80/95056337/19413587/421
-#EXTINF:-1,AMC HD
+#EXTINF:-1,AMC 
 http://dns.icut.uno:80/95056337/19413587/422
 #EXTINF:-1,AMC SD
 http://dns.icut.uno:80/95056337/19413587/423
@@ -344,15 +304,15 @@ http://dns.icut.uno:80/95056337/19413587/423
 http://dns.icut.uno:80/95056337/19413587/13850
 #EXTINF:-1,Animal Planet 4K
 http://dns.icut.uno:80/95056337/19413587/225
-#EXTINF:-1,ANIMAL PLANET FHD
+#EXTINF:-1,ANIMAL PLANET 
 http://dns.icut.uno:80/95056337/19413587/1
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1,ANIMAL PLANET 
 http://dns.icut.uno:80/95056337/19413587/2
 #EXTINF:-1,ANIMAL PLANET SD
 http://dns.icut.uno:80/95056337/19413587/3
-#EXTINF:-1,ARTE 1 FHD
+#EXTINF:-1,ARTE 1 
 http://dns.icut.uno:80/95056337/19413587/787
-#EXTINF:-1,ARTE 1 HD
+#EXTINF:-1,ARTE 1 
 http://dns.icut.uno:80/95056337/19413587/788
 #EXTINF:-1,ARTE 1 SD
 http://dns.icut.uno:80/95056337/19413587/789
@@ -360,13 +320,13 @@ http://dns.icut.uno:80/95056337/19413587/789
 http://dns.icut.uno:80/95056337/19413587/45553
 #EXTINF:-1,AXN (H265)
 http://dns.icut.uno:80/95056337/19413587/13851
-#EXTINF:-1,AXN FHD
+#EXTINF:-1,AXN 
 http://dns.icut.uno:80/95056337/19413587/424
-#EXTINF:-1,AXN FHD ( LEGENDADOS)
+#EXTINF:-1,AXN  ( LEGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45956
-#EXTINF:-1,AXN HD
+#EXTINF:-1,AXN 
 http://dns.icut.uno:80/95056337/19413587/425
-#EXTINF:-1,AXN HD ( LEGENDADOS )
+#EXTINF:-1,AXN  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45957
 #EXTINF:-1,AXN SD
 http://dns.icut.uno:80/95056337/19413587/426
@@ -376,85 +336,63 @@ http://dns.icut.uno:80/95056337/19413587/619
 http://dns.icut.uno:80/95056337/19413587/218
 #EXTINF:-1,BAND Bahia
 http://dns.icut.uno:80/95056337/19413587/45911
-#EXTINF:-1,Band BSB HD
+#EXTINF:-1,Band BSB 
 http://dns.icut.uno:80/95056337/19413587/45897
-#EXTINF:-1,BAND CAMPINAS FHD
+#EXTINF:-1,BAND CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/242
-#EXTINF:-1,BAND CAMPINAS HD
+#EXTINF:-1,BAND CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/241
 #EXTINF:-1,BAND CURITIBA
 http://dns.icut.uno:80/95056337/19413587/243
-#EXTINF:-1,BAND CURITIBA HD
+#EXTINF:-1,BAND CURITIBA 
 http://dns.icut.uno:80/95056337/19413587/244
-#EXTINF:-1,BAND GOIANIA HD
+#EXTINF:-1,BAND GOIANIA 
 http://dns.icut.uno:80/95056337/19413587/45874
 #EXTINF:-1,BAND GOIANIA SD
 http://dns.icut.uno:80/95056337/19413587/247
 #EXTINF:-1,Band News (H265)
 http://dns.icut.uno:80/95056337/19413587/13852
-#EXTINF:-1,BAND NEWS FHD
+#EXTINF:-1,BAND NEWS 
 http://dns.icut.uno:80/95056337/19413587/682
-#EXTINF:-1,BAND NEWS HD
+#EXTINF:-1,BAND NEWS 
 http://dns.icut.uno:80/95056337/19413587/683
 #EXTINF:-1,BAND NEWS SD
 http://dns.icut.uno:80/95056337/19413587/687
 #EXTINF:-1,Band RJ
 http://dns.icut.uno:80/95056337/19413587/249
-#EXTINF:-1,Band RJ HD
+#EXTINF:-1,Band RJ 
 http://dns.icut.uno:80/95056337/19413587/248
-#EXTINF:-1,Band RS HD
+#EXTINF:-1,Band RS 
 http://dns.icut.uno:80/95056337/19413587/45898
 #EXTINF:-1,BAND SP
 http://dns.icut.uno:80/95056337/19413587/252
-#EXTINF:-1,BAND SP FHD
+#EXTINF:-1,BAND SP 
 http://dns.icut.uno:80/95056337/19413587/250
-#EXTINF:-1,BAND SP HD
+#EXTINF:-1,BAND SP 
 http://dns.icut.uno:80/95056337/19413587/251
-#EXTINF:-1,BAND SPORTS FHD
+#EXTINF:-1,BAND SPORTS 
 http://dns.icut.uno:80/95056337/19413587/385
-#EXTINF:-1,BAND SPORTS HD
+#EXTINF:-1,BAND SPORTS 
 http://dns.icut.uno:80/95056337/19413587/387
 #EXTINF:-1,BAND SPORTS SD
 http://dns.icut.uno:80/95056337/19413587/386
-#EXTINF:-1,BAND Tv Taroba HD
+#EXTINF:-1,BAND Tv Taroba 
 http://dns.icut.uno:80/95056337/19413587/45815
 #EXTINF:-1,Bandeirantes
 http://dns.icut.uno:80/95056337/19413587/45912
 #EXTINF:-1,BandSports (H265)
 http://dns.icut.uno:80/95056337/19413587/13853
-#EXTINF:-1,BBB 1
-http://dns.icut.uno:80/95056337/19413587/8699
-#EXTINF:-1,BBB 2
-http://dns.icut.uno:80/95056337/19413587/8709
-#EXTINF:-1,BBB 3
-http://dns.icut.uno:80/95056337/19413587/8700
-#EXTINF:-1,BBB 4
-http://dns.icut.uno:80/95056337/19413587/8705
-#EXTINF:-1,BBB 5
-http://dns.icut.uno:80/95056337/19413587/8704
-#EXTINF:-1,BBB 6
-http://dns.icut.uno:80/95056337/19413587/8703
-#EXTINF:-1,BBB 7
-http://dns.icut.uno:80/95056337/19413587/8702
-#EXTINF:-1,BBB 8
-http://dns.icut.uno:80/95056337/19413587/8701
-#EXTINF:-1,BBB 9
-http://dns.icut.uno:80/95056337/19413587/6541
-#EXTINF:-1,BBB 10
-http://dns.icut.uno:80/95056337/19413587/3707
-#EXTINF:-1,BBB 11
-http://dns.icut.uno:80/95056337/19413587/3706
 #EXTINF:-1,BBC WORLD
 http://dns.icut.uno:80/95056337/19413587/45879
-#EXTINF:-1,BBC WORLD HD
+#EXTINF:-1,BBC WORLD 
 http://dns.icut.uno:80/95056337/19413587/45892
 #EXTINF:-1,BEN 10 24HS
 http://dns.icut.uno:80/95056337/19413587/45554
 #EXTINF:-1,BIS (H265)
 http://dns.icut.uno:80/95056337/19413587/13854
-#EXTINF:-1,BIS FHD
+#EXTINF:-1,BIS 
 http://dns.icut.uno:80/95056337/19413587/754
-#EXTINF:-1,BIS HD
+#EXTINF:-1,BIS 
 http://dns.icut.uno:80/95056337/19413587/755
 #EXTINF:-1,BIS SD
 http://dns.icut.uno:80/95056337/19413587/756
@@ -462,9 +400,9 @@ http://dns.icut.uno:80/95056337/19413587/756
 http://dns.icut.uno:80/95056337/19413587/45555
 #EXTINF:-1,Boomerang (H265)
 http://dns.icut.uno:80/95056337/19413587/13855
-#EXTINF:-1,BOOMERANG FHD
+#EXTINF:-1,BOOMERANG 
 http://dns.icut.uno:80/95056337/19413587/622
-#EXTINF:-1,BOOMERANG HD
+#EXTINF:-1,BOOMERANG 
 http://dns.icut.uno:80/95056337/19413587/623
 #EXTINF:-1,BOOMERANG SD
 http://dns.icut.uno:80/95056337/19413587/624
@@ -486,9 +424,9 @@ http://dns.icut.uno:80/95056337/19413587/37088
 http://dns.icut.uno:80/95056337/19413587/37089
 #EXTINF:-1,CAMPEONATO SERGIPANO 1
 http://dns.icut.uno:80/95056337/19413587/37610
-#EXTINF:-1,CANAL BRASIL FHD
+#EXTINF:-1,CANAL BRASIL 
 http://dns.icut.uno:80/95056337/19413587/45893
-#EXTINF:-1,CANAL BRASIL HD
+#EXTINF:-1,CANAL BRASIL 
 http://dns.icut.uno:80/95056337/19413587/45880
 #EXTINF:-1,CANAL DO BOI
 http://dns.icut.uno:80/95056337/19413587/45887
@@ -498,7 +436,7 @@ http://dns.icut.uno:80/95056337/19413587/13857
 http://dns.icut.uno:80/95056337/19413587/13856
 #EXTINF:-1,CANCAO NOVA ES
 http://dns.icut.uno:80/95056337/19413587/45905
-#EXTINF:-1,CANCAO NOVA ES HD
+#EXTINF:-1,CANCAO NOVA ES 
 http://dns.icut.uno:80/95056337/19413587/45904
 #EXTINF:-1,Canção Nova
 http://dns.icut.uno:80/95056337/19413587/731
@@ -506,17 +444,17 @@ http://dns.icut.uno:80/95056337/19413587/731
 http://dns.icut.uno:80/95056337/19413587/45557
 #EXTINF:-1,Cartoon Network 4K
 http://dns.icut.uno:80/95056337/19413587/226
-#EXTINF:-1,CARTOON NETWORK FHD
+#EXTINF:-1,CARTOON NETWORK 
 http://dns.icut.uno:80/95056337/19413587/625
-#EXTINF:-1,CARTOON NETWORK HD
+#EXTINF:-1,CARTOON NETWORK 
 http://dns.icut.uno:80/95056337/19413587/626
 #EXTINF:-1,CARTOON NETWORK SD
 http://dns.icut.uno:80/95056337/19413587/627
 #EXTINF:-1,CartoonNetwork (H265)
 http://dns.icut.uno:80/95056337/19413587/13858
-#EXTINF:-1,CHEF TV FHD
+#EXTINF:-1,CHEF TV 
 http://dns.icut.uno:80/95056337/19413587/796
-#EXTINF:-1,CHEF TV HD
+#EXTINF:-1,CHEF TV 
 http://dns.icut.uno:80/95056337/19413587/746
 #EXTINF:-1,CINE PIPOCA 01
 http://dns.icut.uno:80/95056337/19413587/339
@@ -532,15 +470,15 @@ http://dns.icut.uno:80/95056337/19413587/333
 http://dns.icut.uno:80/95056337/19413587/338
 #EXTINF:-1,Cinemax (H265)
 http://dns.icut.uno:80/95056337/19413587/13859
-#EXTINF:-1,CINEMAX FHD
+#EXTINF:-1,CINEMAX 
 http://dns.icut.uno:80/95056337/19413587/427
-#EXTINF:-1,CINEMAX HD
+#EXTINF:-1,CINEMAX 
 http://dns.icut.uno:80/95056337/19413587/428
 #EXTINF:-1,CINEMAX SD
 http://dns.icut.uno:80/95056337/19413587/429
-#EXTINF:-1,CNN BRASIL FHD
+#EXTINF:-1,CNN BRASIL 
 http://dns.icut.uno:80/95056337/19413587/684
-#EXTINF:-1,CNN BRASIL HD
+#EXTINF:-1,CNN BRASIL 
 http://dns.icut.uno:80/95056337/19413587/685
 #EXTINF:-1,CNN BRASIL SD
 http://dns.icut.uno:80/95056337/19413587/688
@@ -548,17 +486,17 @@ http://dns.icut.uno:80/95056337/19413587/688
 http://dns.icut.uno:80/95056337/19413587/13860
 #EXTINF:-1,Combate 4K
 http://dns.icut.uno:80/95056337/19413587/227
-#EXTINF:-1,COMBATE FHD
+#EXTINF:-1,COMBATE 
 http://dns.icut.uno:80/95056337/19413587/351
-#EXTINF:-1,COMBATE HD
+#EXTINF:-1,COMBATE 
 http://dns.icut.uno:80/95056337/19413587/352
 #EXTINF:-1,COMBATE SD
 http://dns.icut.uno:80/95056337/19413587/353
 #EXTINF:-1,Comedy Central (H265)
 http://dns.icut.uno:80/95056337/19413587/13861
-#EXTINF:-1,COMEDY CENTRAL FHD
+#EXTINF:-1,COMEDY CENTRAL 
 http://dns.icut.uno:80/95056337/19413587/757
-#EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1,COMEDY CENTRAL 
 http://dns.icut.uno:80/95056337/19413587/758
 #EXTINF:-1,COMEDY CENTRAL SD
 http://dns.icut.uno:80/95056337/19413587/759
@@ -578,7 +516,7 @@ http://dns.icut.uno:80/95056337/19413587/37207
 http://dns.icut.uno:80/95056337/19413587/37208
 #EXTINF:-1,COPA NORDESTE 4
 http://dns.icut.uno:80/95056337/19413587/37209
-#EXTINF:-1,TV CULTURA HD
+#EXTINF:-1,TV CULTURA 
 http://dns.icut.uno:80/95056337/19413587/254
 #EXTINF:-1,CURTA!
 http://dns.icut.uno:80/95056337/19413587/761
@@ -592,45 +530,45 @@ http://dns.icut.uno:80/95056337/19413587/357
 http://dns.icut.uno:80/95056337/19413587/13862
 #EXTINF:-1,Discovery Channel 4K
 http://dns.icut.uno:80/95056337/19413587/228
-#EXTINF:-1,DISCOVERY CHANNEL FHD
+#EXTINF:-1,DISCOVERY CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/4
-#EXTINF:-1,DISCOVERY CHANNEL HD
+#EXTINF:-1,DISCOVERY CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/5
 #EXTINF:-1,DISCOVERY CHANNEL SD
 http://dns.icut.uno:80/95056337/19413587/6
 #EXTINF:-1,Discovery Home & Health (H265)
 http://dns.icut.uno:80/95056337/19413587/13864
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+#EXTINF:-1,DISCOVERY HOME & HEALTH 
 http://dns.icut.uno:80/95056337/19413587/7
 #EXTINF:-1,DISCOVERY HOME & HEALTH SD
 http://dns.icut.uno:80/95056337/19413587/9
 #EXTINF:-1,Discovery Kids (H265)
 http://dns.icut.uno:80/95056337/19413587/13865
-#EXTINF:-1,DISCOVERY KIDS FHD
+#EXTINF:-1,DISCOVERY KIDS 
 http://dns.icut.uno:80/95056337/19413587/628
-#EXTINF:-1,DISCOVERY KIDS HD
+#EXTINF:-1,DISCOVERY KIDS 
 http://dns.icut.uno:80/95056337/19413587/629
 #EXTINF:-1,DISCOVERY KIDS SD
 http://dns.icut.uno:80/95056337/19413587/662
 #EXTINF:-1,Discovery Science (H265)
 http://dns.icut.uno:80/95056337/19413587/13866
-#EXTINF:-1,DISCOVERY SCIENCE FHD
+#EXTINF:-1,DISCOVERY SCIENCE 
 http://dns.icut.uno:80/95056337/19413587/10
-#EXTINF:-1,DISCOVERY SCIENCE HD
+#EXTINF:-1,DISCOVERY SCIENCE 
 http://dns.icut.uno:80/95056337/19413587/11
 #EXTINF:-1,DISCOVERY SCIENCE SD
 http://dns.icut.uno:80/95056337/19413587/12
 #EXTINF:-1,Discovery Theater (H265)
 http://dns.icut.uno:80/95056337/19413587/13867
-#EXTINF:-1,DISCOVERY THEATER FHD
+#EXTINF:-1,DISCOVERY THEATER 
 http://dns.icut.uno:80/95056337/19413587/13
-#EXTINF:-1,DISCOVERY THEATER HD
+#EXTINF:-1,DISCOVERY THEATER 
 http://dns.icut.uno:80/95056337/19413587/14
 #EXTINF:-1,DISCOVERY THEATER SD
 http://dns.icut.uno:80/95056337/19413587/15
-#EXTINF:-1,DISCOVERY TLC FHD
+#EXTINF:-1,DISCOVERY TLC 
 http://dns.icut.uno:80/95056337/19413587/16
-#EXTINF:-1,DISCOVERY TLC HD
+#EXTINF:-1,DISCOVERY TLC 
 http://dns.icut.uno:80/95056337/19413587/17
 #EXTINF:-1,DISCOVERY TLC SD
 http://dns.icut.uno:80/95056337/19413587/18
@@ -640,29 +578,29 @@ http://dns.icut.uno:80/95056337/19413587/13868
 http://dns.icut.uno:80/95056337/19413587/21
 #EXTINF:-1,Discovery World (H265)
 http://dns.icut.uno:80/95056337/19413587/13869
-#EXTINF:-1,DISCOVERY WORLD FHD
+#EXTINF:-1,DISCOVERY WORLD 
 http://dns.icut.uno:80/95056337/19413587/22
 #EXTINF:-1,DISCOVERY WORLD SD
 http://dns.icut.uno:80/95056337/19413587/24
 #EXTINF:-1,Disney Channel (H265)
 http://dns.icut.uno:80/95056337/19413587/13870
-#EXTINF:-1,DISNEY CHANNEL FHD
+#EXTINF:-1,DISNEY CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/630
-#EXTINF:-1,DISNEY CHANNEL HD
+#EXTINF:-1,DISNEY CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/631
 #EXTINF:-1,DISNEY CHANNEL SD
 http://dns.icut.uno:80/95056337/19413587/632
-#EXTINF:-1,DISNEY JR FHD
+#EXTINF:-1,DISNEY JR 
 http://dns.icut.uno:80/95056337/19413587/633
-#EXTINF:-1,DISNEY JR HD
+#EXTINF:-1,DISNEY JR 
 http://dns.icut.uno:80/95056337/19413587/634
 #EXTINF:-1,DISNEY JR SD
 http://dns.icut.uno:80/95056337/19413587/635
 #EXTINF:-1,Disney Junior (H265)
 http://dns.icut.uno:80/95056337/19413587/13871
-#EXTINF:-1,DISNEY XD FHD
+#EXTINF:-1,DISNEY XD 
 http://dns.icut.uno:80/95056337/19413587/636
-#EXTINF:-1,DISNEY XD HD
+#EXTINF:-1,DISNEY XD 
 http://dns.icut.uno:80/95056337/19413587/637
 #EXTINF:-1,DISNEY XD SD
 http://dns.icut.uno:80/95056337/19413587/638
@@ -670,49 +608,49 @@ http://dns.icut.uno:80/95056337/19413587/638
 http://dns.icut.uno:80/95056337/19413587/45882
 #EXTINF:-1,E! (H265)
 http://dns.icut.uno:80/95056337/19413587/13872
-#EXTINF:-1,E! FHD
+#EXTINF:-1,E! 
 http://dns.icut.uno:80/95056337/19413587/762
-#EXTINF:-1,E! HD
+#EXTINF:-1,E! 
 http://dns.icut.uno:80/95056337/19413587/763
 #EXTINF:-1,E! SD
 http://dns.icut.uno:80/95056337/19413587/747
-#EXTINF:-1,EI PLUS 1 HD
+#EXTINF:-1,EI PLUS 1 
 http://dns.icut.uno:80/95056337/19413587/358
-#EXTINF:-1,EI PLUS 2 HD
+#EXTINF:-1,EI PLUS 2 
 http://dns.icut.uno:80/95056337/19413587/359
-#EXTINF:-1,EI PLUS 3 HD
+#EXTINF:-1,EI PLUS 3 
 http://dns.icut.uno:80/95056337/19413587/381
-#EXTINF:-1,EI PLUS 4 HD
+#EXTINF:-1,EI PLUS 4 
 http://dns.icut.uno:80/95056337/19413587/382
 #EXTINF:-1,ESPN (H265)
 http://dns.icut.uno:80/95056337/19413587/13874
 #EXTINF:-1,ESPN 2 (H265)
 http://dns.icut.uno:80/95056337/19413587/13875
-#EXTINF:-1,ESPN 2 FHD
+#EXTINF:-1,ESPN 2 
 http://dns.icut.uno:80/95056337/19413587/361
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1,ESPN 2 
 http://dns.icut.uno:80/95056337/19413587/360
 #EXTINF:-1,ESPN 2 SD
 http://dns.icut.uno:80/95056337/19413587/362
 #EXTINF:-1,ESPN Brasil (H265)
 http://dns.icut.uno:80/95056337/19413587/13876
-#EXTINF:-1,ESPN BRASIL FHD
+#EXTINF:-1,ESPN BRASIL 
 http://dns.icut.uno:80/95056337/19413587/363
-#EXTINF:-1,ESPN BRASIL HD
+#EXTINF:-1,ESPN BRASIL 
 http://dns.icut.uno:80/95056337/19413587/364
 #EXTINF:-1,ESPN BRASIL SD
 http://dns.icut.uno:80/95056337/19413587/365
 #EXTINF:-1,ESPN Extra (H265)
 http://dns.icut.uno:80/95056337/19413587/13873
-#EXTINF:-1,ESPN EXTRA FHD
+#EXTINF:-1,ESPN EXTRA 
 http://dns.icut.uno:80/95056337/19413587/388
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1,ESPN EXTRA 
 http://dns.icut.uno:80/95056337/19413587/366
 #EXTINF:-1,ESPN EXTRA SD
 http://dns.icut.uno:80/95056337/19413587/370
-#EXTINF:-1,ESPN FHD
+#EXTINF:-1,ESPN 
 http://dns.icut.uno:80/95056337/19413587/368
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN 
 http://dns.icut.uno:80/95056337/19413587/367
 #EXTINF:-1,ESPN SD
 http://dns.icut.uno:80/95056337/19413587/369
@@ -724,23 +662,23 @@ http://dns.icut.uno:80/95056337/19413587/45885
 http://dns.icut.uno:80/95056337/19413587/45886
 #EXTINF:-1,EVANGELIZAR
 http://dns.icut.uno:80/95056337/19413587/734
-#EXTINF:-1,FILM & ART FHD
+#EXTINF:-1,FILM & ART 
 http://dns.icut.uno:80/95056337/19413587/45891
-#EXTINF:-1,FILM & ART HD
+#EXTINF:-1,FILM & ART 
 http://dns.icut.uno:80/95056337/19413587/45878
 #EXTINF:-1,Fish TV (H265)
 http://dns.icut.uno:80/95056337/19413587/13877
-#EXTINF:-1,FISH TV FHD
+#EXTINF:-1,FISH TV 
 http://dns.icut.uno:80/95056337/19413587/25
-#EXTINF:-1,FISH TV HD
+#EXTINF:-1,FISH TV 
 http://dns.icut.uno:80/95056337/19413587/26
 #EXTINF:-1,FISH TV SD
 http://dns.icut.uno:80/95056337/19413587/27
 #EXTINF:-1,FLA TV
 http://dns.icut.uno:80/95056337/19413587/37606
-#EXTINF:-1,FOOD NETWORK FHD
+#EXTINF:-1,FOOD NETWORK 
 http://dns.icut.uno:80/95056337/19413587/749
-#EXTINF:-1,FOOD NETWORK HD
+#EXTINF:-1,FOOD NETWORK 
 http://dns.icut.uno:80/95056337/19413587/748
 #EXTINF:-1,FOOD NETWORK SD
 http://dns.icut.uno:80/95056337/19413587/750
@@ -750,35 +688,35 @@ http://dns.icut.uno:80/95056337/19413587/13878
 http://dns.icut.uno:80/95056337/19413587/45883
 #EXTINF:-1,Fox Sports 4K
 http://dns.icut.uno:80/95056337/19413587/230
-#EXTINF:-1,FOX SPORTS FHD
+#EXTINF:-1,FOX SPORTS 
 http://dns.icut.uno:80/95056337/19413587/374
-#EXTINF:-1,FOX SPORTS HD
+#EXTINF:-1,FOX SPORTS 
 http://dns.icut.uno:80/95056337/19413587/375
 #EXTINF:-1,FOX SPORTS SD
 http://dns.icut.uno:80/95056337/19413587/376
-#EXTINF:-1,FOX SPORT 2 FHD
+#EXTINF:-1,FOX SPORTS 2 
 http://dns.icut.uno:80/95056337/19413587/371
 #EXTINF:-1,Fox Sports (H265)
 http://dns.icut.uno:80/95056337/19413587/13882
 #EXTINF:-1,Fox Sports 2 (H265)
 http://dns.icut.uno:80/95056337/19413587/13883
-#EXTINF:-1,FOX SPORTS 2 HD
+#EXTINF:-1,FOX SPORTS 2 
 http://dns.icut.uno:80/95056337/19413587/372
 #EXTINF:-1,FOX SPORTS 2 SD
 http://dns.icut.uno:80/95056337/19413587/373
 #EXTINF:-1,FURACÃO PLAY
 http://dns.icut.uno:80/95056337/19413587/45876
-#EXTINF:-1,FUTEBOL HD
+#EXTINF:-1,FUTEBOL 
 http://dns.icut.uno:80/95056337/19413587/45877
 #EXTINF:-1,FUTURA
 http://dns.icut.uno:80/95056337/19413587/256
-#EXTINF:-1,FUTURA HD
+#EXTINF:-1,FUTURA 
 http://dns.icut.uno:80/95056337/19413587/255
 #EXTINF:-1,FX (H265)
 http://dns.icut.uno:80/95056337/19413587/13884
-#EXTINF:-1,FX FHD
+#EXTINF:-1,FX 
 http://dns.icut.uno:80/95056337/19413587/442
-#EXTINF:-1,FX HD
+#EXTINF:-1,FX 
 http://dns.icut.uno:80/95056337/19413587/443
 #EXTINF:-1,FX SD
 http://dns.icut.uno:80/95056337/19413587/444
@@ -788,187 +726,187 @@ http://dns.icut.uno:80/95056337/19413587/45573
 http://dns.icut.uno:80/95056337/19413587/222
 #EXTINF:-1,Globo 4K
 http://dns.icut.uno:80/95056337/19413587/231
-#EXTINF:-1,Globo Asa branca HD (Caruaru PE)
+#EXTINF:-1,Globo Asa branca  (Caruaru PE)
 http://dns.icut.uno:80/95056337/19413587/45861
-#EXTINF:-1,GLOBO BAHIA  FHD (SALVADOR)
+#EXTINF:-1,GLOBO BAHIA   (SALVADOR)
 http://dns.icut.uno:80/95056337/19413587/45836
-#EXTINF:-1,GLOBO BAHIA HD (SALVADOR)
+#EXTINF:-1,GLOBO BAHIA  (SALVADOR)
 http://dns.icut.uno:80/95056337/19413587/45837
 #EXTINF:-1,Globo Brasilia
 http://dns.icut.uno:80/95056337/19413587/45851
-#EXTINF:-1,Globo BRASILIA FHD H265
+#EXTINF:-1,Globo BRASILIA  H265
 http://dns.icut.uno:80/95056337/19413587/45863
-#EXTINF:-1,Globo BRASILIA HD
+#EXTINF:-1,Globo BRASILIA 
 http://dns.icut.uno:80/95056337/19413587/45799
-#EXTINF:-1,Globo Cabo Frio HD
+#EXTINF:-1,Globo Cabo Frio 
 http://dns.icut.uno:80/95056337/19413587/45816
 #EXTINF:-1,Globo Cabugi
 http://dns.icut.uno:80/95056337/19413587/45856
-#EXTINF:-1,Globo CAPIXABA HD
+#EXTINF:-1,Globo CAPIXABA 
 http://dns.icut.uno:80/95056337/19413587/45825
 #EXTINF:-1,GLOBO CARUARU PE
 http://dns.icut.uno:80/95056337/19413587/45798
-#EXTINF:-1,Globo CLUBE HD (PIAUI)
+#EXTINF:-1,Globo CLUBE  (PIAUI)
 http://dns.icut.uno:80/95056337/19413587/45860
 #EXTINF:-1,Globo CNT ES
 http://dns.icut.uno:80/95056337/19413587/45832
-#EXTINF:-1,Globo CNT ES FHD
+#EXTINF:-1,Globo CNT ES 
 http://dns.icut.uno:80/95056337/19413587/45830
-#EXTINF:-1,Globo CNT ES HD
+#EXTINF:-1,Globo CNT ES 
 http://dns.icut.uno:80/95056337/19413587/45831
 #EXTINF:-1,Globo EPTV Campinas
 http://dns.icut.uno:80/95056337/19413587/45849
-#EXTINF:-1,Globo EPTV CAMPINAS FHD
+#EXTINF:-1,Globo EPTV CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/45819
-#EXTINF:-1,Globo EPTV CAMPINAS HD
+#EXTINF:-1,Globo EPTV CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/45818
 #EXTINF:-1,Globo EPTV Ribeirao Preto
 http://dns.icut.uno:80/95056337/19413587/45850
-#EXTINF:-1,Globo EPTV RIBEIRAO PRETO FHD
+#EXTINF:-1,Globo EPTV RIBEIRAO PRETO 
 http://dns.icut.uno:80/95056337/19413587/45823
-#EXTINF:-1,Globo EPTV RIBEIRAO PRETO HD
+#EXTINF:-1,Globo EPTV RIBEIRAO PRETO 
 http://dns.icut.uno:80/95056337/19413587/45871
 #EXTINF:-1,Globo EPTV Sao Carlos
 http://dns.icut.uno:80/95056337/19413587/45848
-#EXTINF:-1,Globo EPTV SUL DE MINAS FHD
+#EXTINF:-1,Globo EPTV SUL DE MINAS 
 http://dns.icut.uno:80/95056337/19413587/45824
-#EXTINF:-1,Globo EPTV SUL DE MINAS HD
+#EXTINF:-1,Globo EPTV SUL DE MINAS 
 http://dns.icut.uno:80/95056337/19413587/45870
-#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG 
 http://dns.icut.uno:80/95056337/19413587/45847
-#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG 
 http://dns.icut.uno:80/95056337/19413587/45846
-#EXTINF:-1,GLOBO INTER DO VALE FHD
+#EXTINF:-1,GLOBO INTER DO VALE 
 http://dns.icut.uno:80/95056337/19413587/45843
-#EXTINF:-1,GLOBO INTER VALE MG HD
+#EXTINF:-1,GLOBO INTER VALE MG 
 http://dns.icut.uno:80/95056337/19413587/45842
-#EXTINF:-1,Globo Internacional HD
+#EXTINF:-1,Globo Internacional 
 http://dns.icut.uno:80/95056337/19413587/45802
-#EXTINF:-1,Globo Liberal HD (BELEM)
+#EXTINF:-1,Globo Liberal  (BELEM)
 http://dns.icut.uno:80/95056337/19413587/45820
-#EXTINF:-1,Globo Manaus HD
+#EXTINF:-1,Globo Manaus 
 http://dns.icut.uno:80/95056337/19413587/45867
-#EXTINF:-1,Globo Mg FHD H265
+#EXTINF:-1,Globo Mg  H265
 http://dns.icut.uno:80/95056337/19413587/45864
 #EXTINF:-1,Globo Minas
 http://dns.icut.uno:80/95056337/19413587/45852
-#EXTINF:-1,Globo Minas HD
+#EXTINF:-1,Globo Minas 
 http://dns.icut.uno:80/95056337/19413587/45868
-#EXTINF:-1,Globo Mirante HD (MARANHAO)
+#EXTINF:-1,Globo Mirante  (MARANHAO)
 http://dns.icut.uno:80/95056337/19413587/45865
-#EXTINF:-1,Globo Morena Ponta Pora HD
+#EXTINF:-1,Globo Morena Ponta Pora 
 http://dns.icut.uno:80/95056337/19413587/45807
-#EXTINF:-1,GLOBO NEWS FHD
+#EXTINF:-1,GLOBO NEWS 
 http://dns.icut.uno:80/95056337/19413587/691
-#EXTINF:-1,GLOBO NEWS HD
+#EXTINF:-1,GLOBO NEWS 
 http://dns.icut.uno:80/95056337/19413587/692
 #EXTINF:-1,GLOBO NEWS SD
 http://dns.icut.uno:80/95056337/19413587/693
 #EXTINF:-1,Globo Nordeste
 http://dns.icut.uno:80/95056337/19413587/45853
-#EXTINF:-1,GLOBO NORDESTE FHD
+#EXTINF:-1,GLOBO NORDESTE 
 http://dns.icut.uno:80/95056337/19413587/45844
-#EXTINF:-1,GLOBO NORDESTE HD
+#EXTINF:-1,GLOBO NORDESTE 
 http://dns.icut.uno:80/95056337/19413587/45845
-#EXTINF:-1,Globo NSC Santa Catarina HD
+#EXTINF:-1,Globo NSC Santa Catarina 
 http://dns.icut.uno:80/95056337/19413587/45813
-#EXTINF:-1,Globo NSCTV Florianopolis HD
+#EXTINF:-1,Globo NSCTV Florianopolis 
 http://dns.icut.uno:80/95056337/19413587/45869
-#EXTINF:-1,Globo Paraiba HD
+#EXTINF:-1,Globo Paraiba 
 http://dns.icut.uno:80/95056337/19413587/45862
-#EXTINF:-1,Globo RBS CAXIAS FHD
+#EXTINF:-1,Globo RBS CAXIAS 
 http://dns.icut.uno:80/95056337/19413587/45827
-#EXTINF:-1,Globo RBS CAXIAS HD
+#EXTINF:-1,Globo RBS CAXIAS 
 http://dns.icut.uno:80/95056337/19413587/45826
-#EXTINF:-1,Globo RBS PELOTAS FHD
+#EXTINF:-1,Globo RBS PELOTAS 
 http://dns.icut.uno:80/95056337/19413587/45828
-#EXTINF:-1,Globo RBS PELOTAS HD
+#EXTINF:-1,Globo RBS PELOTAS 
 http://dns.icut.uno:80/95056337/19413587/45829
 #EXTINF:-1,Globo RBS POA
 http://dns.icut.uno:80/95056337/19413587/45857
-#EXTINF:-1,Globo RBS POA HD
+#EXTINF:-1,Globo RBS POA 
 http://dns.icut.uno:80/95056337/19413587/45806
 #EXTINF:-1,Globo RBS TV STA MARIA
 http://dns.icut.uno:80/95056337/19413587/45873
-#EXTINF:-1,Globo Rio Sul HD (INTERIOR RJ)
+#EXTINF:-1,Globo Rio Sul  (INTERIOR RJ)
 http://dns.icut.uno:80/95056337/19413587/45866
 #EXTINF:-1,Globo RJ
 http://dns.icut.uno:80/95056337/19413587/45854
-#EXTINF:-1,Globo Rj FHD
+#EXTINF:-1,Globo Rj 
 http://dns.icut.uno:80/95056337/19413587/45817
-#EXTINF:-1,Globo RJ FHD (REGIAO SERRANA)
+#EXTINF:-1,Globo RJ  (REGIAO SERRANA)
 http://dns.icut.uno:80/95056337/19413587/45841
-#EXTINF:-1,Globo RJ HD
+#EXTINF:-1,Globo RJ 
 http://dns.icut.uno:80/95056337/19413587/45803
-#EXTINF:-1,Globo RJ HD (REGIAO SERRANA)
+#EXTINF:-1,Globo RJ  (REGIAO SERRANA)
 http://dns.icut.uno:80/95056337/19413587/45840
-#EXTINF:-1,Globo RPC FOZ DO IGUAÇU FHD
+#EXTINF:-1,Globo RPC FOZ DO IGUAÇU 
 http://dns.icut.uno:80/95056337/19413587/45833
-#EXTINF:-1,Globo RPC FOZ DO IGUAÇU HD
+#EXTINF:-1,Globo RPC FOZ DO IGUAÇU 
 http://dns.icut.uno:80/95056337/19413587/45872
-#EXTINF:-1,Globo RPC Parana HD
+#EXTINF:-1,Globo RPC Parana 
 http://dns.icut.uno:80/95056337/19413587/45814
 #EXTINF:-1,Globo RPC TV Curitiba
 http://dns.icut.uno:80/95056337/19413587/45858
-#EXTINF:-1,Globo Santa Cruz Bahia HD
+#EXTINF:-1,Globo Santa Cruz Bahia 
 http://dns.icut.uno:80/95056337/19413587/45808
-#EXTINF:-1,Globo Sergipe HD
+#EXTINF:-1,Globo Sergipe 
 http://dns.icut.uno:80/95056337/19413587/45804
 #EXTINF:-1,Globo SP
 http://dns.icut.uno:80/95056337/19413587/45855
-#EXTINF:-1,GLOBO SP FHD
+#EXTINF:-1,GLOBO SP 
 http://dns.icut.uno:80/95056337/19413587/545
-#EXTINF:-1,GLOBO SP FHD H265
+#EXTINF:-1,GLOBO SP  H265
 http://dns.icut.uno:80/95056337/19413587/45859
-#EXTINF:-1,Globo SP HD
+#EXTINF:-1,Globo SP 
 http://dns.icut.uno:80/95056337/19413587/45805
-#EXTINF:-1,Globo TRIBUNA FHD (SANTOS)
+#EXTINF:-1,Globo TRIBUNA  (SANTOS)
 http://dns.icut.uno:80/95056337/19413587/45839
-#EXTINF:-1,Globo TRIBUNA HD (SANTOS)
+#EXTINF:-1,Globo TRIBUNA  (SANTOS)
 http://dns.icut.uno:80/95056337/19413587/45838
 #EXTINF:-1,Globo TV Subae
 http://dns.icut.uno:80/95056337/19413587/45809
 #EXTINF:-1,Globo TV VITORIA ES
 http://dns.icut.uno:80/95056337/19413587/45810
-#EXTINF:-1,Globo TV VITORIA ES FHD
+#EXTINF:-1,Globo TV VITORIA ES 
 http://dns.icut.uno:80/95056337/19413587/45811
-#EXTINF:-1,Globo TV VITORIA ES HD
+#EXTINF:-1,Globo TV VITORIA ES 
 http://dns.icut.uno:80/95056337/19413587/45812
-#EXTINF:-1,Globo VANGUARDA FHD (SAO JOSE DOS CAMPOS)
+#EXTINF:-1,Globo VANGUARDA  (SAO JOSE DOS CAMPOS)
 http://dns.icut.uno:80/95056337/19413587/45834
-#EXTINF:-1,Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)
+#EXTINF:-1,Globo VANGUARDA  (SAO JOSE DOS CAMPOS)
 http://dns.icut.uno:80/95056337/19413587/45835
-#EXTINF:-1,Globo Verdes Mares HD CE
+#EXTINF:-1,Globo Verdes Mares  CE
 http://dns.icut.uno:80/95056337/19413587/45821
 #EXTINF:-1,GLOBO VITORIA ES
 http://dns.icut.uno:80/95056337/19413587/45800
-#EXTINF:-1,GLOBO VITORIA ES FHD
+#EXTINF:-1,GLOBO VITORIA ES 
 http://dns.icut.uno:80/95056337/19413587/45801
-#EXTINF:-1,GLOBO VITORIA HD ES
+#EXTINF:-1,GLOBO VITORIA  ES
 http://dns.icut.uno:80/95056337/19413587/45822
 #EXTINF:-1,GloboNews (H265)
 http://dns.icut.uno:80/95056337/19413587/13885
-#EXTINF:-1,Globosat HD
+#EXTINF:-1,Globosat 
 http://dns.icut.uno:80/95056337/19413587/45797
 #EXTINF:-1,Gloob (H265)
 http://dns.icut.uno:80/95056337/19413587/13886
-#EXTINF:-1,GLOOB FHD
+#EXTINF:-1,GLOOB 
 http://dns.icut.uno:80/95056337/19413587/639
-#EXTINF:-1,GLOOB HD
+#EXTINF:-1,GLOOB 
 http://dns.icut.uno:80/95056337/19413587/640
 #EXTINF:-1,GLOOB SD
 http://dns.icut.uno:80/95056337/19413587/641
-#EXTINF:-1,GLOOBINHO FHD
+#EXTINF:-1,GLOOBINHO 
 http://dns.icut.uno:80/95056337/19413587/668
-#EXTINF:-1,GLOOBINHO HD
+#EXTINF:-1,GLOOBINHO 
 http://dns.icut.uno:80/95056337/19413587/642
 #EXTINF:-1,GLOOBINHO SD
 http://dns.icut.uno:80/95056337/19413587/663
 #EXTINF:-1,GNT (H265)
 http://dns.icut.uno:80/95056337/19413587/13887
-#EXTINF:-1,GNT FHD
+#EXTINF:-1,GNT 
 http://dns.icut.uno:80/95056337/19413587/766
-#EXTINF:-1,GNT HD
+#EXTINF:-1,GNT 
 http://dns.icut.uno:80/95056337/19413587/765
 #EXTINF:-1,GNT SD
 http://dns.icut.uno:80/95056337/19413587/767
@@ -978,61 +916,61 @@ http://dns.icut.uno:80/95056337/19413587/34055
 http://dns.icut.uno:80/95056337/19413587/45574
 #EXTINF:-1,H2 (H265)
 http://dns.icut.uno:80/95056337/19413587/13894
-#EXTINF:-1,H2 FHD
+#EXTINF:-1,H2 
 http://dns.icut.uno:80/95056337/19413587/29
-#EXTINF:-1,H2 HD
+#EXTINF:-1,H2 
 http://dns.icut.uno:80/95056337/19413587/30
 #EXTINF:-1,H2 SD
 http://dns.icut.uno:80/95056337/19413587/31
 #EXTINF:-1,HBO (H265)
 http://dns.icut.uno:80/95056337/19413587/13889
-#EXTINF:-1,HBO 2 FHD
+#EXTINF:-1,HBO 2 
 http://dns.icut.uno:80/95056337/19413587/594
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1,HBO 2 
 http://dns.icut.uno:80/95056337/19413587/595
 #EXTINF:-1,HBO 4K
 http://dns.icut.uno:80/95056337/19413587/232
 #EXTINF:-1,HBO Familly (H265)
 http://dns.icut.uno:80/95056337/19413587/13888
-#EXTINF:-1,HBO FAMILY FHD
+#EXTINF:-1,HBO FAMILY 
 http://dns.icut.uno:80/95056337/19413587/597
-#EXTINF:-1,HBO FAMILY HD
+#EXTINF:-1,HBO FAMILY 
 http://dns.icut.uno:80/95056337/19413587/598
 #EXTINF:-1,HBO FAMILY SD
 http://dns.icut.uno:80/95056337/19413587/599
-#EXTINF:-1,HBO FHD
+#EXTINF:-1,HBO 
 http://dns.icut.uno:80/95056337/19413587/600
-#EXTINF:-1,HBO FHD ( LEGENDADOS )
+#EXTINF:-1,HBO  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45942
-#EXTINF:-1,HBO HD
+#EXTINF:-1,HBO 
 http://dns.icut.uno:80/95056337/19413587/601
-#EXTINF:-1,HBO HD ( LENGENDADOS)
+#EXTINF:-1,HBO  ( LENGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45943
 #EXTINF:-1,HBO MUNDI (H265)
 http://dns.icut.uno:80/95056337/19413587/13898
-#EXTINF:-1,HBO MUNDI FHD
+#EXTINF:-1,HBO MUNDI 
 http://dns.icut.uno:80/95056337/19413587/602
-#EXTINF:-1,HBO MUNDI FHD ( LEGENDADOS )
+#EXTINF:-1,HBO MUNDI  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45948
-#EXTINF:-1,HBO MUNDI HD
+#EXTINF:-1,HBO MUNDI 
 http://dns.icut.uno:80/95056337/19413587/603
-#EXTINF:-1,HBO MUNDI HD ( LEGENDADOS )
+#EXTINF:-1,HBO MUNDI  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45949
 #EXTINF:-1,HBO Plus (H265)
 http://dns.icut.uno:80/95056337/19413587/13890
-#EXTINF:-1,HBO PLUS FHD  ( LEGENDADOS )
+#EXTINF:-1,HBO PLUS   ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45944
-#EXTINF:-1,HBO PLUS HD ( LEGENDADOS )
+#EXTINF:-1,HBO PLUS  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45945
 #EXTINF:-1,HBO PLUS SD
 http://dns.icut.uno:80/95056337/19413587/607
-#EXTINF:-1,HBO POP FHD
+#EXTINF:-1,HBO POP 
 http://dns.icut.uno:80/95056337/19413587/608
-#EXTINF:-1,HBO POP FHD ( LEGENDADOS )
+#EXTINF:-1,HBO POP  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45950
-#EXTINF:-1,HBO POP HD
+#EXTINF:-1,HBO POP 
 http://dns.icut.uno:80/95056337/19413587/609
-#EXTINF:-1,HBO POP HD ( LEGENDADOS )
+#EXTINF:-1,HBO POP  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45951
 #EXTINF:-1,HBO POP SD
 http://dns.icut.uno:80/95056337/19413587/610
@@ -1040,21 +978,21 @@ http://dns.icut.uno:80/95056337/19413587/610
 http://dns.icut.uno:80/95056337/19413587/611
 #EXTINF:-1,HBO Signature (H265)
 http://dns.icut.uno:80/95056337/19413587/13891
-#EXTINF:-1,HBO SIGNATURE FHD
+#EXTINF:-1,HBO SIGNATURE 
 http://dns.icut.uno:80/95056337/19413587/612
-#EXTINF:-1,HBO SIGNATURE FHD ( LEGENDADOS)
+#EXTINF:-1,HBO SIGNATURE  ( LEGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45946
-#EXTINF:-1,HBO SIGNATURE HD
+#EXTINF:-1,HBO SIGNATURE 
 http://dns.icut.uno:80/95056337/19413587/613
-#EXTINF:-1,HBO SIGNATURE HD ( LEGENDADOS )
+#EXTINF:-1,HBO SIGNATURE  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45947
-#EXTINF:-1,HBO XTREAM HD ( LEGENDADOS )
+#EXTINF:-1,HBO XTREAM  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45953
 #EXTINF:-1,HBO XTREME (H265)
 http://dns.icut.uno:80/95056337/19413587/13899
-#EXTINF:-1,HBO XTREME FHD ( LEGENDADOS)
+#EXTINF:-1,HBO XTREME  ( LEGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45952
-#EXTINF:-1,HBO Xtreme HD
+#EXTINF:-1,HBO Xtreme 
 http://dns.icut.uno:80/95056337/19413587/616
 #EXTINF:-1,HBO Xtreme SD
 http://dns.icut.uno:80/95056337/19413587/617
@@ -1064,23 +1002,23 @@ http://dns.icut.uno:80/95056337/19413587/45575
 http://dns.icut.uno:80/95056337/19413587/768
 #EXTINF:-1,HGTV (H265)
 http://dns.icut.uno:80/95056337/19413587/13863
-#EXTINF:-1,HGTV FHD
+#EXTINF:-1,HGTV 
 http://dns.icut.uno:80/95056337/19413587/769
-#EXTINF:-1,HGTV HD
+#EXTINF:-1,HGTV 
 http://dns.icut.uno:80/95056337/19413587/770
 #EXTINF:-1,Historias Disney 24hs
 http://dns.icut.uno:80/95056337/19413587/45577
 #EXTINF:-1,History (H265)
 http://dns.icut.uno:80/95056337/19413587/13893
-#EXTINF:-1,HISTORY CHANNEL FHD
+#EXTINF:-1,HISTORY CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/32
-#EXTINF:-1,HISTORY CHANNEL HD
+#EXTINF:-1,HISTORY CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/33
 #EXTINF:-1,HISTORY CHANNEL SD
 http://dns.icut.uno:80/95056337/19413587/34
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY 
 http://dns.icut.uno:80/95056337/19413587/35
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY 
 http://dns.icut.uno:80/95056337/19413587/37
 #EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
 http://dns.icut.uno:80/95056337/19413587/36
@@ -1088,9 +1026,9 @@ http://dns.icut.uno:80/95056337/19413587/36
 http://dns.icut.uno:80/95056337/19413587/13895
 #EXTINF:-1,Lifetime (H265)
 http://dns.icut.uno:80/95056337/19413587/13896
-#EXTINF:-1,LIFETIME FHD
+#EXTINF:-1,LIFETIME 
 http://dns.icut.uno:80/95056337/19413587/445
-#EXTINF:-1,LIFETIME HD
+#EXTINF:-1,LIFETIME 
 http://dns.icut.uno:80/95056337/19413587/446
 #EXTINF:-1,LIFETIME SD
 http://dns.icut.uno:80/95056337/19413587/447
@@ -1098,7 +1036,7 @@ http://dns.icut.uno:80/95056337/19413587/447
 http://dns.icut.uno:80/95056337/19413587/46133
 #EXTINF:-1,Loading.
 http://dns.icut.uno:80/95056337/19413587/4958
-#EXTINF:-1,LOVE NATURE HD
+#EXTINF:-1,LOVE NATURE 
 http://dns.icut.uno:80/95056337/19413587/45962
 #EXTINF:-1,Luluzinha 24HS
 http://dns.icut.uno:80/95056337/19413587/45586
@@ -1108,17 +1046,17 @@ http://dns.icut.uno:80/95056337/19413587/13897
 http://dns.icut.uno:80/95056337/19413587/13901
 #EXTINF:-1,Megapix 4K
 http://dns.icut.uno:80/95056337/19413587/233
-#EXTINF:-1,MEGAPIX FHD
+#EXTINF:-1,MEGAPIX 
 http://dns.icut.uno:80/95056337/19413587/448
-#EXTINF:-1,MEGAPIX HD
+#EXTINF:-1,MEGAPIX 
 http://dns.icut.uno:80/95056337/19413587/449
 #EXTINF:-1,MEGAPIX SD
 http://dns.icut.uno:80/95056337/19413587/450
 #EXTINF:-1,MTV (H265)
 http://dns.icut.uno:80/95056337/19413587/13902
-#EXTINF:-1,MTV FHD
+#EXTINF:-1,MTV 
 http://dns.icut.uno:80/95056337/19413587/771
-#EXTINF:-1,MTV HD
+#EXTINF:-1,MTV 
 http://dns.icut.uno:80/95056337/19413587/790
 #EXTINF:-1,MTV SD
 http://dns.icut.uno:80/95056337/19413587/773
@@ -1126,9 +1064,9 @@ http://dns.icut.uno:80/95056337/19413587/773
 http://dns.icut.uno:80/95056337/19413587/13903
 #EXTINF:-1,Multishow 4K
 http://dns.icut.uno:80/95056337/19413587/235
-#EXTINF:-1,MULTISHOW FHD
+#EXTINF:-1,MULTISHOW 
 http://dns.icut.uno:80/95056337/19413587/774
-#EXTINF:-1,MULTISHOW HD
+#EXTINF:-1,MULTISHOW 
 http://dns.icut.uno:80/95056337/19413587/775
 #EXTINF:-1,MULTISHOW SD
 http://dns.icut.uno:80/95056337/19413587/776
@@ -1136,39 +1074,39 @@ http://dns.icut.uno:80/95056337/19413587/776
 http://dns.icut.uno:80/95056337/19413587/45888
 #EXTINF:-1,NatGeo (H265)
 http://dns.icut.uno:80/95056337/19413587/13904
-#EXTINF:-1,NATGEO KIDS FHD
+#EXTINF:-1,NATGEO KIDS 
 http://dns.icut.uno:80/95056337/19413587/643
-#EXTINF:-1,NATGEO KIDS HD
+#EXTINF:-1,NATGEO KIDS 
 http://dns.icut.uno:80/95056337/19413587/644
 #EXTINF:-1,NATGEO KIDS SD
 http://dns.icut.uno:80/95056337/19413587/645
 #EXTINF:-1,NatGeo Wild (H265)
 http://dns.icut.uno:80/95056337/19413587/13905
-#EXTINF:-1,NATGEO WILD FHD
+#EXTINF:-1,NATGEO WILD 
 http://dns.icut.uno:80/95056337/19413587/38
-#EXTINF:-1,NATGEO WILD HD
+#EXTINF:-1,NATGEO WILD 
 http://dns.icut.uno:80/95056337/19413587/39
 #EXTINF:-1,NATGEO WILD SD
 http://dns.icut.uno:80/95056337/19413587/40
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
 http://dns.icut.uno:80/95056337/19413587/41
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
 http://dns.icut.uno:80/95056337/19413587/42
 #EXTINF:-1,NATIONAL GEOGRAPHIC SD
 http://dns.icut.uno:80/95056337/19413587/43
 #EXTINF:-1,National Geographics 4K
 http://dns.icut.uno:80/95056337/19413587/234
-#EXTINF:-1,NICK JR FHD
+#EXTINF:-1,NICK JR 
 http://dns.icut.uno:80/95056337/19413587/646
-#EXTINF:-1,NICK JR HD
+#EXTINF:-1,NICK JR 
 http://dns.icut.uno:80/95056337/19413587/647
 #EXTINF:-1,NICK JR SD
 http://dns.icut.uno:80/95056337/19413587/648
 #EXTINF:-1,Nickelodeon (H265)
 http://dns.icut.uno:80/95056337/19413587/13907
-#EXTINF:-1,NICKELODEON FHD
+#EXTINF:-1,NICKELODEON 
 http://dns.icut.uno:80/95056337/19413587/649
-#EXTINF:-1,NICKELODEON HD
+#EXTINF:-1,NICKELODEON 
 http://dns.icut.uno:80/95056337/19413587/650
 #EXTINF:-1,NICKELODEON SD
 http://dns.icut.uno:80/95056337/19413587/651
@@ -1178,17 +1116,17 @@ http://dns.icut.uno:80/95056337/19413587/13908
 http://dns.icut.uno:80/95056337/19413587/736
 #EXTINF:-1,OFF (H265)
 http://dns.icut.uno:80/95056337/19413587/13909
-#EXTINF:-1,OFF FHD
+#EXTINF:-1,OFF 
 http://dns.icut.uno:80/95056337/19413587/777
-#EXTINF:-1,OFF HD
+#EXTINF:-1,OFF 
 http://dns.icut.uno:80/95056337/19413587/778
 #EXTINF:-1,OFF SD
 http://dns.icut.uno:80/95056337/19413587/779
 #EXTINF:-1,Paramount (H265)
 http://dns.icut.uno:80/95056337/19413587/13910
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
+#EXTINF:-1,PARAMOUNT CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/451
-#EXTINF:-1,PARAMOUNT CHANNEL HD
+#EXTINF:-1,PARAMOUNT CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/452
 #EXTINF:-1,PARAMOUNT CHANNEL SD
 http://dns.icut.uno:80/95056337/19413587/453
@@ -1196,51 +1134,51 @@ http://dns.icut.uno:80/95056337/19413587/453
 http://dns.icut.uno:80/95056337/19413587/652
 #EXTINF:-1,POLISHOP TV
 http://dns.icut.uno:80/95056337/19413587/751
-#EXTINF:-1,POLISHOP TV HD
+#EXTINF:-1,POLISHOP TV 
 http://dns.icut.uno:80/95056337/19413587/795
 #EXTINF:-1,Premiere Clubes (H265)
 http://dns.icut.uno:80/95056337/19413587/13911
 #EXTINF:-1,Premiere Clubes 4K
 http://dns.icut.uno:80/95056337/19413587/220
-#EXTINF:-1,PREMIERE CLUBES FHD
+#EXTINF:-1,PREMIERE CLUBES 
 http://dns.icut.uno:80/95056337/19413587/718
-#EXTINF:-1,PREMIERE CLUBES HD
+#EXTINF:-1,PREMIERE CLUBES 
 http://dns.icut.uno:80/95056337/19413587/719
 #EXTINF:-1,PREMIERE CLUBES SD
 http://dns.icut.uno:80/95056337/19413587/720
 #EXTINF:-1,PREMIERE MOSAICO
 http://dns.icut.uno:80/95056337/19413587/45890
-#EXTINF:-1,PREMIERE 2 FHD
+#EXTINF:-1,PREMIERE 2 
 http://dns.icut.uno:80/95056337/19413587/701
-#EXTINF:-1,PREMIERE 2 HD
+#EXTINF:-1,PREMIERE 2 
 http://dns.icut.uno:80/95056337/19413587/702
 #EXTINF:-1,PREMIERE 2 SD
 http://dns.icut.uno:80/95056337/19413587/703
-#EXTINF:-1,PREMIERE 3 FHD
+#EXTINF:-1,PREMIERE 3 
 http://dns.icut.uno:80/95056337/19413587/704
-#EXTINF:-1,PREMIERE 3 HD
+#EXTINF:-1,PREMIERE 3 
 http://dns.icut.uno:80/95056337/19413587/705
 #EXTINF:-1,PREMIERE 3 SD
 http://dns.icut.uno:80/95056337/19413587/706
-#EXTINF:-1,PREMIERE 4 FHD
+#EXTINF:-1,PREMIERE 4 
 http://dns.icut.uno:80/95056337/19413587/708
-#EXTINF:-1,PREMIERE 4 HD
+#EXTINF:-1,PREMIERE 4 
 http://dns.icut.uno:80/95056337/19413587/707
 #EXTINF:-1,PREMIERE 4 SD
 http://dns.icut.uno:80/95056337/19413587/709
-#EXTINF:-1,PREMIERE 5 FHD
+#EXTINF:-1,PREMIERE 5 
 http://dns.icut.uno:80/95056337/19413587/710
-#EXTINF:-1,PREMIERE 5 HD
+#EXTINF:-1,PREMIERE 5 
 http://dns.icut.uno:80/95056337/19413587/711
 #EXTINF:-1,PREMIERE 5 SD
 http://dns.icut.uno:80/95056337/19413587/712
-#EXTINF:-1,PREMIERE 6 HD
+#EXTINF:-1,PREMIERE 6 
 http://dns.icut.uno:80/95056337/19413587/713
 #EXTINF:-1,PREMIERE 6 SD
 http://dns.icut.uno:80/95056337/19413587/714
-#EXTINF:-1,PREMIERE 7 FHD
+#EXTINF:-1,PREMIERE 7 
 http://dns.icut.uno:80/95056337/19413587/697
-#EXTINF:-1,PREMIERE 7 HD
+#EXTINF:-1,PREMIERE 7 
 http://dns.icut.uno:80/95056337/19413587/715
 #EXTINF:-1,PREMIERE 7 SD
 http://dns.icut.uno:80/95056337/19413587/716
@@ -1264,25 +1202,25 @@ http://dns.icut.uno:80/95056337/19413587/793
 http://dns.icut.uno:80/95056337/19413587/794
 #EXTINF:-1,Record 4K
 http://dns.icut.uno:80/95056337/19413587/219
-#EXTINF:-1,RECORD ATALAIA HD
+#EXTINF:-1,RECORD ATALAIA 
 http://dns.icut.uno:80/95056337/19413587/270
 #EXTINF:-1,RECORD BAHIA CABRALIA
 http://dns.icut.uno:80/95056337/19413587/286
-#EXTINF:-1,RECORD BAHIA HD
+#EXTINF:-1,RECORD BAHIA 
 http://dns.icut.uno:80/95056337/19413587/271
-#EXTINF:-1,RECORD BAHIA HD
+#EXTINF:-1,RECORD BAHIA 
 http://dns.icut.uno:80/95056337/19413587/272
 #EXTINF:-1,RECORD BELÉM
 http://dns.icut.uno:80/95056337/19413587/284
-#EXTINF:-1,RECORD BELÉM HD
+#EXTINF:-1,RECORD BELÉM 
 http://dns.icut.uno:80/95056337/19413587/287
 #EXTINF:-1,RECORD BRASILIA
 http://dns.icut.uno:80/95056337/19413587/274
-#EXTINF:-1,RECORD BRASILIA HD
+#EXTINF:-1,RECORD BRASILIA 
 http://dns.icut.uno:80/95056337/19413587/273
 #EXTINF:-1,RECORD CAMPINAS
 http://dns.icut.uno:80/95056337/19413587/275
-#EXTINF:-1,RECORD CAMPINAS HD
+#EXTINF:-1,RECORD CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/276
 #EXTINF:-1,RECORD GOIANIA
 http://dns.icut.uno:80/95056337/19413587/279
@@ -1294,29 +1232,29 @@ http://dns.icut.uno:80/95056337/19413587/319
 http://dns.icut.uno:80/95056337/19413587/314
 #EXTINF:-1,RECORD MINAS
 http://dns.icut.uno:80/95056337/19413587/283
-#EXTINF:-1,RECORD MINAS HD
+#EXTINF:-1,RECORD MINAS 
 http://dns.icut.uno:80/95056337/19413587/285
-#EXTINF:-1,RECORD NEWS FHD
+#EXTINF:-1,RECORD NEWS 
 http://dns.icut.uno:80/95056337/19413587/689
-#EXTINF:-1,RECORD NEWS HD
+#EXTINF:-1,RECORD NEWS 
 http://dns.icut.uno:80/95056337/19413587/686
 #EXTINF:-1,RECORD NEWS SD
 http://dns.icut.uno:80/95056337/19413587/690
 #EXTINF:-1,RECORD PARANA
 http://dns.icut.uno:80/95056337/19413587/281
-#EXTINF:-1,RECORD PARANA FHD
+#EXTINF:-1,RECORD PARANA 
 http://dns.icut.uno:80/95056337/19413587/46130
-#EXTINF:-1,RECORD PARANA HD
+#EXTINF:-1,RECORD PARANA 
 http://dns.icut.uno:80/95056337/19413587/46129
 #EXTINF:-1,RECORD RJ
 http://dns.icut.uno:80/95056337/19413587/290
-#EXTINF:-1,RECORD RJ FHD
+#EXTINF:-1,RECORD RJ 
 http://dns.icut.uno:80/95056337/19413587/289
-#EXTINF:-1,RECORD RJ HD
+#EXTINF:-1,RECORD RJ 
 http://dns.icut.uno:80/95056337/19413587/291
 #EXTINF:-1,Record RS
 http://dns.icut.uno:80/95056337/19413587/320
-#EXTINF:-1,RECORD RS HD
+#EXTINF:-1,RECORD RS 
 http://dns.icut.uno:80/95056337/19413587/292
 #EXTINF:-1,RECORD SANTA CATARINA
 http://dns.icut.uno:80/95056337/19413587/293
@@ -1324,9 +1262,9 @@ http://dns.icut.uno:80/95056337/19413587/293
 http://dns.icut.uno:80/95056337/19413587/280
 #EXTINF:-1,RECORD SP
 http://dns.icut.uno:80/95056337/19413587/296
-#EXTINF:-1,RECORD SP FHD
+#EXTINF:-1,RECORD SP 
 http://dns.icut.uno:80/95056337/19413587/294
-#EXTINF:-1,RECORD SP HD
+#EXTINF:-1,RECORD SP 
 http://dns.icut.uno:80/95056337/19413587/295
 #EXTINF:-1,RECORD SÃO JOSE DO RIO PRETO
 http://dns.icut.uno:80/95056337/19413587/278
@@ -1338,21 +1276,21 @@ http://dns.icut.uno:80/95056337/19413587/288
 http://dns.icut.uno:80/95056337/19413587/45914
 #EXTINF:-1,Rede Brasil
 http://dns.icut.uno:80/95056337/19413587/45915
-#EXTINF:-1,REDE MINAS HD
+#EXTINF:-1,REDE MINAS 
 http://dns.icut.uno:80/95056337/19413587/45894
-#EXTINF:-1,REDE TV ES FHD
+#EXTINF:-1,REDE TV ES 
 http://dns.icut.uno:80/95056337/19413587/45900
-#EXTINF:-1,REDE TV ES HD
+#EXTINF:-1,REDE TV ES 
 http://dns.icut.uno:80/95056337/19413587/45901
-#EXTINF:-1,REDE TV FHD
+#EXTINF:-1,REDE TV 
 http://dns.icut.uno:80/95056337/19413587/258
-#EXTINF:-1,REDE TV HD
+#EXTINF:-1,REDE TV 
 http://dns.icut.uno:80/95056337/19413587/259
 #EXTINF:-1,Rede TV! 4K
 http://dns.icut.uno:80/95056337/19413587/236
 #EXTINF:-1,REDE VIDA
 http://dns.icut.uno:80/95056337/19413587/724
-#EXTINF:-1,SB ALTEROSA HD
+#EXTINF:-1,SB ALTEROSA 
 http://dns.icut.uno:80/95056337/19413587/300
 #EXTINF:-1,SBT
 http://dns.icut.uno:80/95056337/19413587/303
@@ -1364,19 +1302,19 @@ http://dns.icut.uno:80/95056337/19413587/301
 http://dns.icut.uno:80/95056337/19413587/298
 #EXTINF:-1,SBT BSB
 http://dns.icut.uno:80/95056337/19413587/299
-#EXTINF:-1,SBT ES HD
+#EXTINF:-1,SBT ES 
 http://dns.icut.uno:80/95056337/19413587/45638
-#EXTINF:-1,SBT ESPIRITO SANTO HD
+#EXTINF:-1,SBT ESPIRITO SANTO 
 http://dns.icut.uno:80/95056337/19413587/307
 #EXTINF:-1,SBT PARANA
 http://dns.icut.uno:80/95056337/19413587/309
-#EXTINF:-1,SBT PARANA FHD
+#EXTINF:-1,SBT PARANA 
 http://dns.icut.uno:80/95056337/19413587/46132
-#EXTINF:-1,SBT PARANA HD
+#EXTINF:-1,SBT PARANA 
 http://dns.icut.uno:80/95056337/19413587/46131
-#EXTINF:-1,SBT RJ FHD
+#EXTINF:-1,SBT RJ 
 http://dns.icut.uno:80/95056337/19413587/308
-#EXTINF:-1,SBT RJ HD
+#EXTINF:-1,SBT RJ 
 http://dns.icut.uno:80/95056337/19413587/313
 #EXTINF:-1,SBT RS
 http://dns.icut.uno:80/95056337/19413587/306
@@ -1386,13 +1324,13 @@ http://dns.icut.uno:80/95056337/19413587/302
 http://dns.icut.uno:80/95056337/19413587/305
 #EXTINF:-1,SBT SP
 http://dns.icut.uno:80/95056337/19413587/310
-#EXTINF:-1,SBT SP FHD
+#EXTINF:-1,SBT SP 
 http://dns.icut.uno:80/95056337/19413587/315
-#EXTINF:-1,SBT SP HD
+#EXTINF:-1,SBT SP 
 http://dns.icut.uno:80/95056337/19413587/311
-#EXTINF:-1,SBT VTV CAMPINAS FHD
+#EXTINF:-1,SBT VTV CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/45640
-#EXTINF:-1,SBT VTV CAMPINAS HD
+#EXTINF:-1,SBT VTV CAMPINAS 
 http://dns.icut.uno:80/95056337/19413587/45639
 #EXTINF:-1,Scooby-Doo 24HS
 http://dns.icut.uno:80/95056337/19413587/45610
@@ -1406,37 +1344,37 @@ http://dns.icut.uno:80/95056337/19413587/345
 http://dns.icut.uno:80/95056337/19413587/346
 #EXTINF:-1,SKY PLAY 05
 http://dns.icut.uno:80/95056337/19413587/324
-#EXTINF:-1,SONY FHD
+#EXTINF:-1,SONY 
 http://dns.icut.uno:80/95056337/19413587/454
-#EXTINF:-1,SONY HD
+#EXTINF:-1,SONY 
 http://dns.icut.uno:80/95056337/19413587/455
 #EXTINF:-1,SONY SD
 http://dns.icut.uno:80/95056337/19413587/456
 #EXTINF:-1,Space (H265)
 http://dns.icut.uno:80/95056337/19413587/13920
-#EXTINF:-1,SPACE FHD
+#EXTINF:-1,SPACE 
 http://dns.icut.uno:80/95056337/19413587/457
-#EXTINF:-1,SPACE HD
+#EXTINF:-1,SPACE 
 http://dns.icut.uno:80/95056337/19413587/458
 #EXTINF:-1,SporTV (H265)
 http://dns.icut.uno:80/95056337/19413587/13923
 #EXTINF:-1,SporTV 4K
 http://dns.icut.uno:80/95056337/19413587/240
-#EXTINF:-1,SPORTV FHD
+#EXTINF:-1,SPORTV 
 http://dns.icut.uno:80/95056337/19413587/743
-#EXTINF:-1,SPORTV HD
+#EXTINF:-1,SPORTV 
 http://dns.icut.uno:80/95056337/19413587/744
 #EXTINF:-1,SPORTV SD
 http://dns.icut.uno:80/95056337/19413587/745
-#EXTINF:-1,SPORTV 2 FHD
+#EXTINF:-1,SPORTV 2 
 http://dns.icut.uno:80/95056337/19413587/737
-#EXTINF:-1,SPORTV 2 HD
+#EXTINF:-1,SPORTV 2 
 http://dns.icut.uno:80/95056337/19413587/738
 #EXTINF:-1,SPORTV 2 SD
 http://dns.icut.uno:80/95056337/19413587/739
-#EXTINF:-1,SPORTV 3 FHD
+#EXTINF:-1,SPORTV 3 
 http://dns.icut.uno:80/95056337/19413587/740
-#EXTINF:-1,SPORTV 3 HD
+#EXTINF:-1,SPORTV 3 
 http://dns.icut.uno:80/95056337/19413587/741
 #EXTINF:-1,SPORTV 3 SD
 http://dns.icut.uno:80/95056337/19413587/742
@@ -1448,13 +1386,13 @@ http://dns.icut.uno:80/95056337/19413587/13922
 http://dns.icut.uno:80/95056337/19413587/13879
 #EXTINF:-1,Star Channel 4K
 http://dns.icut.uno:80/95056337/19413587/229
-#EXTINF:-1,STAR CHANNEL FHD
+#EXTINF:-1,STAR CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/430
-#EXTINF:-1,STAR CHANNEL FHD ( LEGENDADOS )
+#EXTINF:-1,STAR CHANNEL  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45954
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1,STAR CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/431
-#EXTINF:-1,STAR CHANNEL HD ( LEGENDADOS )
+#EXTINF:-1,STAR CHANNEL  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45955
 #EXTINF:-1,STAR CHANNEL SD
 http://dns.icut.uno:80/95056337/19413587/441
@@ -1462,35 +1400,35 @@ http://dns.icut.uno:80/95056337/19413587/441
 http://dns.icut.uno:80/95056337/19413587/13880
 #EXTINF:-1,Star Hits 2 (H265)
 http://dns.icut.uno:80/95056337/19413587/13881
-#EXTINF:-1,STAR HITS 2 FHD
+#EXTINF:-1,STAR HITS 2 
 http://dns.icut.uno:80/95056337/19413587/438
-#EXTINF:-1,STAR HITS 2 FHD ( LEGENDADOS)
+#EXTINF:-1,STAR HITS 2  ( LEGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45960
-#EXTINF:-1,STAR HITS 2 HD
+#EXTINF:-1,STAR HITS 2 
 http://dns.icut.uno:80/95056337/19413587/439
-#EXTINF:-1,STAR HITS 2 HD ( LEGENDADOS )
+#EXTINF:-1,STAR HITS 2  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45961
 #EXTINF:-1,STAR HITS 2 SD
 http://dns.icut.uno:80/95056337/19413587/440
-#EXTINF:-1,STAR HITS FHD
+#EXTINF:-1,STAR HITS 
 http://dns.icut.uno:80/95056337/19413587/435
-#EXTINF:-1,STAR HITS FHD ( LEGENDADOS )
+#EXTINF:-1,STAR HITS  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45958
-#EXTINF:-1,STAR HITS HD
+#EXTINF:-1,STAR HITS 
 http://dns.icut.uno:80/95056337/19413587/436
-#EXTINF:-1,STAR HITS HD ( LEGENDADOS )
+#EXTINF:-1,STAR HITS  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45959
 #EXTINF:-1,STAR HITS SD
 http://dns.icut.uno:80/95056337/19413587/437
-#EXTINF:-1,STAR LIFE FHD
+#EXTINF:-1,STAR LIFE 
 http://dns.icut.uno:80/95056337/19413587/432
-#EXTINF:-1,STAR LIFE HD
+#EXTINF:-1,STAR LIFE 
 http://dns.icut.uno:80/95056337/19413587/433
 #EXTINF:-1,Studio Universal (H265)
 http://dns.icut.uno:80/95056337/19413587/13924
-#EXTINF:-1,STUDIO UNIVERSAL FHD
+#EXTINF:-1,STUDIO UNIVERSAL 
 http://dns.icut.uno:80/95056337/19413587/460
-#EXTINF:-1,STUDIO UNIVERSAL HD
+#EXTINF:-1,STUDIO UNIVERSAL 
 http://dns.icut.uno:80/95056337/19413587/461
 #EXTINF:-1,STUDIO UNIVERSAL SD
 http://dns.icut.uno:80/95056337/19413587/462
@@ -1500,9 +1438,9 @@ http://dns.icut.uno:80/95056337/19413587/45634
 http://dns.icut.uno:80/95056337/19413587/45615
 #EXTINF:-1,SYFY (H265)
 http://dns.icut.uno:80/95056337/19413587/13925
-#EXTINF:-1,SYFY FHD
+#EXTINF:-1,SYFY 
 http://dns.icut.uno:80/95056337/19413587/463
-#EXTINF:-1,SYFY HD
+#EXTINF:-1,SYFY 
 http://dns.icut.uno:80/95056337/19413587/464
 #EXTINF:-1,SYFY SD
 http://dns.icut.uno:80/95056337/19413587/465
@@ -1510,45 +1448,45 @@ http://dns.icut.uno:80/95056337/19413587/465
 http://dns.icut.uno:80/95056337/19413587/45616
 #EXTINF:-1,TBS (H265)
 http://dns.icut.uno:80/95056337/19413587/13926
-#EXTINF:-1,TBS FHD
+#EXTINF:-1,TBS 
 http://dns.icut.uno:80/95056337/19413587/487
-#EXTINF:-1,TBS HD
+#EXTINF:-1,TBS 
 http://dns.icut.uno:80/95056337/19413587/466
-#EXTINF:-1,TCM HD
+#EXTINF:-1,TCM 
 http://dns.icut.uno:80/95056337/19413587/467
 #EXTINF:-1,Telecine Action (H265)
 http://dns.icut.uno:80/95056337/19413587/13927
-#EXTINF:-1,TELECINE ACTION FHD
+#EXTINF:-1,TELECINE ACTION 
 http://dns.icut.uno:80/95056337/19413587/798
-#EXTINF:-1,TELECINE ACTION FHD  ( LEGENDADOS )
+#EXTINF:-1,TELECINE ACTION   ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45934
-#EXTINF:-1,TELECINE ACTION HD
+#EXTINF:-1,TELECINE ACTION 
 http://dns.icut.uno:80/95056337/19413587/799
-#EXTINF:-1,TELECINE ACTION HD ( LEGENDADOS )
+#EXTINF:-1,TELECINE ACTION  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45935
 #EXTINF:-1,TELECINE ACTION SD
 http://dns.icut.uno:80/95056337/19413587/800
 #EXTINF:-1,Telecine Cult (H265)
 http://dns.icut.uno:80/95056337/19413587/13928
-#EXTINF:-1,TELECINE CULT FHD
+#EXTINF:-1,TELECINE CULT 
 http://dns.icut.uno:80/95056337/19413587/801
-#EXTINF:-1,TELECINE CULT FHD ( LEGENDADOS)
+#EXTINF:-1,TELECINE CULT  ( LEGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45940
-#EXTINF:-1,TELECINE CULT HD
+#EXTINF:-1,TELECINE CULT 
 http://dns.icut.uno:80/95056337/19413587/802
-#EXTINF:-1,TELECINE CULT HD ( LEGENDADOS )
+#EXTINF:-1,TELECINE CULT  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45941
 #EXTINF:-1,TELECINE CULT SD
 http://dns.icut.uno:80/95056337/19413587/803
 #EXTINF:-1,Telecine Fun (H265)
 http://dns.icut.uno:80/95056337/19413587/13929
-#EXTINF:-1,TELECINE FUN FHD
+#EXTINF:-1,TELECINE FUN 
 http://dns.icut.uno:80/95056337/19413587/804
-#EXTINF:-1,TELECINE FUN FHD ( LEGENDADOS )
+#EXTINF:-1,TELECINE FUN  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45938
-#EXTINF:-1,TELECINE FUN HD
+#EXTINF:-1,TELECINE FUN 
 http://dns.icut.uno:80/95056337/19413587/805
-#EXTINF:-1,TELECINE FUN HD ( LEGENDADOS )
+#EXTINF:-1,TELECINE FUN  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45939
 #EXTINF:-1,TELECINE FUN SD
 http://dns.icut.uno:80/95056337/19413587/797
@@ -1556,9 +1494,9 @@ http://dns.icut.uno:80/95056337/19413587/797
 http://dns.icut.uno:80/95056337/19413587/13930
 #EXTINF:-1,Telecine Pipoca 4K
 http://dns.icut.uno:80/95056337/19413587/238
-#EXTINF:-1,TELECINE PIPOCA FHD ( LEGENDADOS )
+#EXTINF:-1,TELECINE PIPOCA  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45930
-#EXTINF:-1,TELECINE PIPOCA HD ( LEGENDADOS )
+#EXTINF:-1,TELECINE PIPOCA  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45931
 #EXTINF:-1,TELECINE PIPOCA SD
 http://dns.icut.uno:80/95056337/19413587/808
@@ -1566,25 +1504,25 @@ http://dns.icut.uno:80/95056337/19413587/808
 http://dns.icut.uno:80/95056337/19413587/13931
 #EXTINF:-1,Telecine Premium 4K
 http://dns.icut.uno:80/95056337/19413587/221
-#EXTINF:-1,TELECINE PREMIUM FHD
+#EXTINF:-1,TELECINE PREMIUM 
 http://dns.icut.uno:80/95056337/19413587/809
-#EXTINF:-1,TELECINE PREMIUM FHD ( LEGENDADOS )
+#EXTINF:-1,TELECINE PREMIUM  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45932
-#EXTINF:-1,TELECINE PREMIUM HD
+#EXTINF:-1,TELECINE PREMIUM 
 http://dns.icut.uno:80/95056337/19413587/810
-#EXTINF:-1,TELECINE PREMIUM HD ( LEGENDADOS )
+#EXTINF:-1,TELECINE PREMIUM  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45933
 #EXTINF:-1,TELECINE PREMIUM SD
 http://dns.icut.uno:80/95056337/19413587/811
 #EXTINF:-1,Telecine Touch (H265)
 http://dns.icut.uno:80/95056337/19413587/13932
-#EXTINF:-1,TELECINE TOUCH FHD
+#EXTINF:-1,TELECINE TOUCH 
 http://dns.icut.uno:80/95056337/19413587/812
-#EXTINF:-1,TELECINE TOUCH FHD ( LEGENDADOS)
+#EXTINF:-1,TELECINE TOUCH  ( LEGENDADOS)
 http://dns.icut.uno:80/95056337/19413587/45936
-#EXTINF:-1,TELECINE TOUCH HD
+#EXTINF:-1,TELECINE TOUCH 
 http://dns.icut.uno:80/95056337/19413587/813
-#EXTINF:-1,TELECINE TOUCH HD ( LEGENDADOS )
+#EXTINF:-1,TELECINE TOUCH  ( LEGENDADOS )
 http://dns.icut.uno:80/95056337/19413587/45937
 #EXTINF:-1,TELECINE TOUCH SD
 http://dns.icut.uno:80/95056337/19413587/814
@@ -1596,15 +1534,15 @@ http://dns.icut.uno:80/95056337/19413587/45617
 http://dns.icut.uno:80/95056337/19413587/45618
 #EXTINF:-1,TLC (H265)
 http://dns.icut.uno:80/95056337/19413587/13933
-#EXTINF:-1,TMC FHD
+#EXTINF:-1,TMC 
 http://dns.icut.uno:80/95056337/19413587/485
 #EXTINF:-1,TNT (H265)
 http://dns.icut.uno:80/95056337/19413587/13934
 #EXTINF:-1,TNT 4K
 http://dns.icut.uno:80/95056337/19413587/223
-#EXTINF:-1,TNT FHD
+#EXTINF:-1,TNT 
 http://dns.icut.uno:80/95056337/19413587/469
-#EXTINF:-1,TNT HD
+#EXTINF:-1,TNT 
 http://dns.icut.uno:80/95056337/19413587/470
 #EXTINF:-1,TNT SD
 http://dns.icut.uno:80/95056337/19413587/471
@@ -1612,9 +1550,9 @@ http://dns.icut.uno:80/95056337/19413587/471
 http://dns.icut.uno:80/95056337/19413587/13935
 #EXTINF:-1,TNT Series 4K
 http://dns.icut.uno:80/95056337/19413587/224
-#EXTINF:-1,TNT SERIES FHD
+#EXTINF:-1,TNT SERIES 
 http://dns.icut.uno:80/95056337/19413587/472
-#EXTINF:-1,TNT SERIES HD
+#EXTINF:-1,TNT SERIES 
 http://dns.icut.uno:80/95056337/19413587/473
 #EXTINF:-1,TNT SERIES SD
 http://dns.icut.uno:80/95056337/19413587/474
@@ -1622,49 +1560,49 @@ http://dns.icut.uno:80/95056337/19413587/474
 http://dns.icut.uno:80/95056337/19413587/45619
 #EXTINF:-1,Tom & Jerry 24HS
 http://dns.icut.uno:80/95056337/19413587/45620
-#EXTINF:-1,TOONCAST FHD
+#EXTINF:-1,TOONCAST 
 http://dns.icut.uno:80/95056337/19413587/653
-#EXTINF:-1,TOONCAST HD
+#EXTINF:-1,TOONCAST 
 http://dns.icut.uno:80/95056337/19413587/664
 #EXTINF:-1,TOONCAST SD
 http://dns.icut.uno:80/95056337/19413587/654
-#EXTINF:-1,TRAVEL BOX BRASIL HD
+#EXTINF:-1,TRAVEL BOX BRASIL 
 http://dns.icut.uno:80/95056337/19413587/45881
 #EXTINF:-1,Tres Espias Demais 24hs
 http://dns.icut.uno:80/95056337/19413587/45621
-#EXTINF:-1,TRU TV FHD
+#EXTINF:-1,TRU TV 
 http://dns.icut.uno:80/95056337/19413587/792
-#EXTINF:-1,TRU TV HD
+#EXTINF:-1,TRU TV 
 http://dns.icut.uno:80/95056337/19413587/780
-#EXTINF:-1,Tv Anhaguera HD
+#EXTINF:-1,Tv Anhaguera 
 http://dns.icut.uno:80/95056337/19413587/45896
 #EXTINF:-1,TV Anhanguera Goiania
 http://dns.icut.uno:80/95056337/19413587/45916
-#EXTINF:-1,TV APARECIDA HD
+#EXTINF:-1,TV APARECIDA 
 http://dns.icut.uno:80/95056337/19413587/727
 #EXTINF:-1,TV Bahia
 http://dns.icut.uno:80/95056337/19413587/45917
-#EXTINF:-1,TV BRASIL FHD
+#EXTINF:-1,TV BRASIL 
 http://dns.icut.uno:80/95056337/19413587/261
 #EXTINF:-1,TV Camara
 http://dns.icut.uno:80/95056337/19413587/45918
 #EXTINF:-1,TV Centro America Cuiaba
 http://dns.icut.uno:80/95056337/19413587/45919
-#EXTINF:-1,TV CULTURA ES FHD
+#EXTINF:-1,TV CULTURA ES 
 http://dns.icut.uno:80/95056337/19413587/45906
-#EXTINF:-1,TV CULTURA ES HD
+#EXTINF:-1,TV CULTURA ES 
 http://dns.icut.uno:80/95056337/19413587/45907
-#EXTINF:-1,TV GAZETA HD
+#EXTINF:-1,TV GAZETA 
 http://dns.icut.uno:80/95056337/19413587/266
 #EXTINF:-1,TV Justica
 http://dns.icut.uno:80/95056337/19413587/45920
 #EXTINF:-1,TV Liberal Belem
 http://dns.icut.uno:80/95056337/19413587/45921
-#EXTINF:-1,TV PAMPA RS HD
+#EXTINF:-1,TV PAMPA RS 
 http://dns.icut.uno:80/95056337/19413587/45910
 #EXTINF:-1,TV RA TIM BUM
 http://dns.icut.uno:80/95056337/19413587/655
-#EXTINF:-1,TV RA TIM BUM HD
+#EXTINF:-1,TV RA TIM BUM 
 http://dns.icut.uno:80/95056337/19413587/665
 #EXTINF:-1,TV RA TIM BUM SD
 http://dns.icut.uno:80/95056337/19413587/666
@@ -1688,9 +1626,9 @@ http://dns.icut.uno:80/95056337/19413587/45928
 http://dns.icut.uno:80/95056337/19413587/45622
 #EXTINF:-1,Uma Família da Pesada 24hs
 http://dns.icut.uno:80/95056337/19413587/45623
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
+#EXTINF:-1,UNIVERSAL CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/475
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1,UNIVERSAL CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/476
 #EXTINF:-1,Universal Tv (H265)
 http://dns.icut.uno:80/95056337/19413587/13939
@@ -1704,33 +1642,33 @@ http://dns.icut.uno:80/95056337/19413587/45633
 http://dns.icut.uno:80/95056337/19413587/37607
 #EXTINF:-1,VH1 (H265)
 http://dns.icut.uno:80/95056337/19413587/13940
-#EXTINF:-1,VH1 HD
+#EXTINF:-1,VH1 
 http://dns.icut.uno:80/95056337/19413587/781
 #EXTINF:-1,VH1 MEGA HITS
 http://dns.icut.uno:80/95056337/19413587/782
 #EXTINF:-1,VH1 SD
 http://dns.icut.uno:80/95056337/19413587/783
-#EXTINF:-1,VIVA FHD
+#EXTINF:-1,VIVA 
 http://dns.icut.uno:80/95056337/19413587/784
-#EXTINF:-1,VIVA HD
+#EXTINF:-1,VIVA 
 http://dns.icut.uno:80/95056337/19413587/786
 #EXTINF:-1,VIVA SD
 http://dns.icut.uno:80/95056337/19413587/785
 #EXTINF:-1,Warner (H265)
 http://dns.icut.uno:80/95056337/19413587/13941
-#EXTINF:-1,WARNER CHANNEL FHD
+#EXTINF:-1,WARNER CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/478
-#EXTINF:-1,WARNER CHANNEL HD
+#EXTINF:-1,WARNER CHANNEL 
 http://dns.icut.uno:80/95056337/19413587/479
 #EXTINF:-1,WARNER CHANNEL SD
 http://dns.icut.uno:80/95056337/19413587/480
 #EXTINF:-1,Woohoo (H265)
 http://dns.icut.uno:80/95056337/19413587/13942
-#EXTINF:-1,WOOHOO FHD
+#EXTINF:-1,WOOHOO 
 http://dns.icut.uno:80/95056337/19413587/656
-#EXTINF:-1,WOOHOO HD
+#EXTINF:-1,WOOHOO 
 http://dns.icut.uno:80/95056337/19413587/657
-#EXTINF:-1,ZOOMO FHD
+#EXTINF:-1,ZOOMO 
 http://dns.icut.uno:80/95056337/19413587/659
-#EXTINF:-1,ZOOMOO HD
+#EXTINF:-1,ZOOMOO 
 http://dns.icut.uno:80/95056337/19413587/660
