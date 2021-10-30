@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,GLOBO RJ HD 
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+https://live-cm-ah-10-38.video.globo.com/d/nl/s/hls-globo-cpg/hls-globo-cpg_2359/playlist.m3u8
 #EXTINF:-1,GLOBO RJ HD
-http://dns.icut.live:80/49261616/23896204/4580359/playlist.m3u8
+https://live-cm-ah-10-38.video.globo.com/d/nl/s/hls-globo-cpg/hls-globo-cpg_2359/playlist.m3u8
 #EXTINF:-1,BAND 
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1,BAND 
