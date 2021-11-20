@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, GLOBO RJ
-https://list.iptvcat.com/my_list/s/d66864913d8a11a12ceec25cdca5bbba.m3u8
+http://dns.icut.live:80/93835448/37843754/45803
 #EXTINF:-1, GLOBO RJ
 http://dns.icut.live:80/93835448/37843754/45803
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
